@@ -3120,8 +3120,8 @@ int32,str,str,Image,byte,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit
 3020,"魂の総和","幻体に計上されている魂の総数。","ui/icon/018000/018101.tex",0,16,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 3021,"防御不可","防御を使用できない状態。","ui/icon/014000/014887.tex",131,0,1,2,"dk05th_stdn0t","abl_stlp_mks_common035_c3a1",False,False,False,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,False,0,0,0,False
 3022,"徐々に睡眠","徐々に眠りつつある状態。効果終了時に睡眠状態になる。","ui/icon/014000/014888.tex",95,0,1,2,"dk05th_stdn0t","st_slp_pvp1v",False,False,False,False,False,False,True,False,False,150,0,False,False,0,0,True,0,False,False,0,0,0,False
-3023,"恐慌","恐怖で行動できなくなり、勝手に動いてしまう状態。","ui/icon/015000/015552.tex",0,0,1,2,"dk05th_stdn0t","stlp_fear01x",False,False,True,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,False,0,0,0,False
-3024,"誘惑","誘惑を受け心奪われ、勝手に動いてしまう状態。","ui/icon/014000/014889.tex",0,0,1,2,"dk05th_stdn0t","stlp_pvpcom033_0c",False,False,True,False,False,False,False,False,False,150,0,False,False,0,4,True,0,False,False,0,0,0,False
+3023,"恐慌","恐怖で行動できなくなり、勝手に動いてしまう状態。","ui/icon/015000/015552.tex",0,0,1,2,"dk05th_stdn0t","stlp_fear01x",False,False,True,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,False,0,45,0,False
+3024,"誘惑","誘惑を受け心奪われ、勝手に動いてしまう状態。","ui/icon/014000/014889.tex",0,0,1,2,"dk05th_stdn0t","stlp_pvpcom033_0c",False,False,True,False,False,False,False,False,False,150,0,False,False,0,4,True,0,False,False,0,45,0,False
 3025,"聖刻","敵から攻撃を受けると攻撃者のＨＰが回復する状態。","ui/icon/014000/014892.tex",0,0,20,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 3026,"ホーリーシェルトロン","一定量のダメージを軽減する状態。","ui/icon/012000/012515.tex",0,0,20,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,False,0,12,0,False
 3027,"●ホーリー・シェルトロン：追撃","与ダメージが低下した状態。","ui/icon/014000/014893.tex",0,0,20,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-25,0,True,0,False,False,0,0,0,False
@@ -3150,7 +3150,7 @@ int32,str,str,Image,byte,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit
 3050,"アイガウジ","一定量のダメージを軽減する状態。","ui/icon/014000/014903.tex",0,0,149,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,False,0,12,0,False
 3051,"ネビュラ","受けるダメージが軽減され、かつ攻撃を受けた場合に、反撃ダメージを与える状態。","ui/icon/013000/013604.tex",0,0,149,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-20,0,True,0,False,False,0,0,0,False
 3052,"連続剣","周囲に対してダメージを発生させ続けている状態。さらに、受けるダメージの一部が軽減される。","ui/icon/014000/014904.tex",0,0,149,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,-10,36,True,0,False,False,0,23,24,False
-3053,"連続剣［被］","受けるダメージが増加する状態。","ui/icon/018000/018046.tex",0,5,149,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,5,0,True,0,False,False,0,0,0,False
+3053,"連続剣［被］","与ダメージが低下し、受けるダメージが増加する状態。","ui/icon/018000/018046.tex",0,5,149,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-5,0,True,0,False,False,0,0,0,False
 3054,"防御","受けるダメージが軽減され、さらに「浄化」で解除することができる状態異常効果と、ノックバック、引き寄せの効果を無効化する状態。効果中は移動速度が低下する。","ui/icon/014000/014890.tex",131,0,1,1,"","abl_stlp_mks_common035_c0a1",False,False,False,False,False,False,False,False,False,0,0,False,False,-50,38,True,0,False,False,0,27,0,False
 3055,"接触禁止命令","接触禁止命令を受けた状態。","ui/icon/015000/015211.tex",0,0,1,2,"dk05th_stdn0t","m0598_stlp1c0c",False,False,False,True,False,False,False,False,True,199,0,False,False,0,0,False,0,False,False,0,0,0,False
 3056,"接触保護命令","接触保護命令を受けた状態。","ui/icon/015000/015212.tex",0,0,1,2,"dk05th_stdn0t","m0598_stlp1c0c",False,False,True,True,False,False,False,False,True,199,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -3271,7 +3271,7 @@ int32,str,str,Image,byte,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit
 3171,"金剛の神髄","「金剛転輪」を実行することで、自身の周囲の敵への攻撃と、自身へのＨＰ回復効果が発動する状態。それぞれの効果量はこのステータスの効果中に受けたダメージの総量により変化する。","ui/icon/012000/012527.tex",0,0,21,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,False,0,25,0,False
 3172,"急所経穴","この効果を付与したプレイヤーからウェポンスキルによる攻撃を受けると、追加ダメージを受ける状態。","ui/icon/014000/014931.tex",0,0,21,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 3173,"抜重歩法","一定量のダメージを軽減する状態。","ui/icon/014000/014932.tex",0,0,21,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,False,0,12,0,False
-3174,"メテオドライヴ","体の自由を奪われ、行動できなくなった状態。","ui/icon/014000/014933.tex",0,0,21,2,"dk05th_stdn0t","",False,True,True,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
+3174,"メテオドライヴ","体の自由を奪われ、行動できなくなった状態。","ui/icon/014000/014933.tex",0,0,21,2,"dk05th_stdn0t","",False,True,True,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,45,0,False
 3175,"メテオドライヴ","","ui/icon/014000/014934.tex",0,0,21,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,True,True,0,0,True,0,False,False,0,27,0,False
 3176,"ヘヴンスラスト実行可","ヘヴンスラストを実行できる状態。","ui/icon/012000/012585.tex",0,0,23,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,False,0,0,0,False
 3177,"紅の竜血","与ダメージが上昇する代わりに被ダメージも上昇している状態。","ui/icon/014000/014935.tex",0,0,23,1,"dk05th_stup0t","dk10ht_rdg0c",False,False,False,False,False,False,False,False,False,0,2,False,False,10,0,True,0,False,False,0,0,0,False
