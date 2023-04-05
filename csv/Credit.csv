@@ -1,149 +1,149 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
 #,,Roles(1),JapaneseCast(1),EnglishCast(1),FrenchCast(1),GermanCast(1),Roles(2),JapaneseCast(2),EnglishCast(2),FrenchCast(2),GermanCast(2)
 int32,byte,CreditCast,CreditCast,CreditCast,CreditCast,CreditCast,CreditCast,CreditCast,CreditCast,CreditCast,CreditCast
-0.0,0,"","","","","","","","","",""
-1.0,1,"Title Logo Designer and Image Illustrator","Yoshitaka Amano","","","","","","","",""
-1.1,1,"Main Theme Composer","Nobuo Uematsu","","","","","","","",""
-1.2,3,"Alphinaud","Shinnosuke Tachibana","Colin Ryan","Sébastien Desjours","Markus Haase","Tataru","Mariya Ise","Carina Reeves","Kelly Marot","Annette Gunkel"
-1.3,3,"Y'shtola","Ai Kayano","Robyn Addison","Laëtitia Lefebvre","Annette Schreier","Urianger","KENN","Timothy Watson","Raphaël Cohen","Florian Hoffmann"
-1.4,3,"Cid","Rikiya Koyama","Gwilym Lee","Lionel Tua","Achim Barrenstein","Biggs","Go Inoue","Antony Byrne","Eric Peter","Gordon Piedesack"
-1.5,3,"Aymeric","Tatsuhisa Suzuki","Blake Ritson","Sylvain Agaesse ","Tino Kießling","Lucia","Sayaka Ohara","Lydia Leonard","Celine Melloul","Kim Pfeiffer"
-1.6,3,"Midgardsormr","Taketora","Allan Corduner ","Emmanuel Bonami","Tino Kießling","Estinien","Kenji Hamada","Robert Vernon","Gilduin Tissier","Michael Pink"
-1.7,2,"Shiva, Iceheart","Maaya Uchida","Siobhan Hewlett","Laurence Crouzet ","Sonja Firker","","","","",""
-1.8,3,"Hilda","Yuka Keicho","Jaye Jacobs","Olivia Nicosia","Katja Hirsch","Matoya","Yu Sugimoto","Sheila Steafel / Sheila Reid","Cathy Cerda","Ulrike Hübschmann"
-1.9,3,"Raubahn Aldynn","Hiroki Yasumoto","Nick Boulton","Frédéric Souterelle","Gordon Piedesack","Kan-E-Senna","Rie Tanaka","Hannah Arterton","Kelly Marot","Annette Gunkel"
-1.10,3,"Merlwyb Bloefhiswyn","Atsuko Tanaka","Tracy Ann Oberman","Marie Gamory","Ellen Schulz","Yugiri","Rina Satoh","Syan Blake","Marie Zidi","Marianne Graffam "
-1.11,3,"Lolorito","Hisashi Izumi","Simon Greenall","Bertrand Liebert","Roland Wolf","Dewlala","Gara Takashima","Rosie Cavaliero","Fily Keita","Natascha Bub"
-1.12,3,"Pipin","Nobuyuki Hiyama","Adam Howden","Benjamin Bollen","Benjamin Stöwe","Eynzahr Slafyrsyn","Shigeo Kiyama","Allan Corduner","Serge Biavan","Helmut Krauss"
-1.13,3,"Ilberd","Hiroshi Shirokuma","Antony Byrne","Thierry Mercier ","Thomas Schmuckert","Meriel","Yu Sugimoto","Hannah Arterton","Laëtitia Lefebvre","Annette Schreier"
-1.14,3,"Zephirin","Yasuaki Takumi","Nick Boulton","Taric Mehani","Arne Stephan","Charibert","Kiyotaka Furushima","Ryan Gage","Bertrand Liebert","Michael Che Koch"
-1.15,3,"Varis","Jouji Nakata","Michael Maloney","Philippe Valmont","Romanus Fuhrmann","Regula","Jurota Kosugi","Stephen Campbell","Loïc Houdré","Jan Uplegger"
-1.16,3,"Thordan","Shinpachi Tsuji","Brian Protheroe","Jean-Claude Sachot","Bernd Vollbrecht","Elidibus","Akira Ishida","Matt Stokoe","Cyrille Monge","Rainer Döring"
-1.17,3,"Lahabrea","Shuichi Ikeda","Alec Newman","Gabriel Le Doze","Michael Che Koch","Igeyorhm","Ai Orikasa","Gemma Whelan","Stéphanie Lafforgue","Vera Bunk"
-1.18,2,"Hydaelyn","Masako Ikeda","Joanna Roth","Véronique Augereau","Sonngard Dressler","","","","",""
-1.19,2,"Edmont","Ikuya Sawaki","Stephen Critchlow","Pierre Dourlens","Andreas Sparberg","","","","",""
-1.20,2,"Haurchefant","Masakazu Nishida","Jason La Shea","Benoit Du Pac","Daniel Montoya","","","","",""
-2.0,1,"Title Logo Designer and Image Illustrator","Yoshitaka Amano","","","","","","","",""
-2.1,1,"Main Theme Composer","Nobuo Uematsu","","","","","","","",""
-2.2,3,"Alphinaud","Shinnosuke Tachibana","Colin Ryan","Sébastien Desjours","Markus Haase","Tataru","Mariya Ise","Carina Reeves","Kelly Marot","Annette Gunkel"
-2.3,3,"Y'shtola","Ai Kayano","Robyn Addison","Laëtitia Lefebvre","Annette Schreier","Urianger","KENN","Timothy Watson","Raphaël Cohen","Florian Hoffmann"
-2.4,3,"Cid","Rikiya Koyama","Gwilym Lee","Lionel Tua","Achim Barrenstein","Biggs","Go Inoue","Antony Byrne","Eric Peter","Gordon Piedesack"
-2.5,3,"Aymeric","Tatsuhisa Suzuki","Blake Ritson","Sylvain Agaesse ","Tino Kießling","Lucia","Sayaka Ohara","Lydia Leonard","Celine Melloul","Kim Pfeiffer"
-2.6,3,"Midgardsormr","Taketora","Allan Corduner ","Emmanuel Bonami","Tino Kießling","Estinien","Kenji Hamada","Robert Vernon","Gilduin Tissier","Michael Pink"
-2.7,2,"Shiva, Iceheart","Maaya Uchida","Siobhan Hewlett","Laurence Crouzet ","Sonja Firker","","","","",""
-2.8,3,"Hilda","Yuka Keicho","Jaye Jacobs","Olivia Nicosia","Katja Hirsch","Matoya","Yu Sugimoto","Sheila Steafel / Sheila Reid","Cathy Cerda","Ulrike Hübschmann"
-2.9,3,"Raubahn Aldynn","Hiroki Yasumoto","Nick Boulton","Frédéric Souterelle","Gordon Piedesack","Kan-E-Senna","Rie Tanaka","Hannah Arterton","Kelly Marot","Annette Gunkel"
-2.10,3,"Merlwyb Bloefhiswyn","Atsuko Tanaka","Tracy Ann Oberman","Marie Gamory","Ellen Schulz","Yugiri","Rina Satoh","Syan Blake","Marie Zidi","Marianne Graffam "
-2.11,3,"Lolorito","Hisashi Izumi","Simon Greenall","Bertrand Liebert","Roland Wolf","Dewlala","Gara Takashima","Rosie Cavaliero","Fily Keita","Natascha Bub"
-2.12,3,"Pipin","Nobuyuki Hiyama","Adam Howden","Benjamin Bollen","Benjamin Stöwe","Eynzahr Slafyrsyn","Shigeo Kiyama","Allan Corduner","Serge Biavan","Helmut Krauss"
-2.13,3,"Ilberd","Hiroshi Shirokuma","Antony Byrne","Thierry Mercier ","Thomas Schmuckert","Meriel","Yu Sugimoto","Hannah Arterton","Laëtitia Lefebvre","Annette Schreier"
-2.14,3,"Zephirin","Yasuaki Takumi","Nick Boulton","Taric Mehani","Arne Stephan","Charibert","Kiyotaka Furushima","Ryan Gage","Bertrand Liebert","Michael Che Koch"
-2.15,3,"Varis","Jouji Nakata","Michael Maloney","Philippe Valmont","Romanus Fuhrmann","Regula","Jurota Kosugi","Stephen Campbell","Loïc Houdré","Jan Uplegger"
-2.16,3,"Thordan","Shinpachi Tsuji","Brian Protheroe","Jean-Claude Sachot","Bernd Vollbrecht","Elidibus","Akira Ishida","Matt Stokoe","Cyrille Monge","Rainer Döring"
-2.17,3,"Lahabrea","Shuichi Ikeda","Alec Newman","Gabriel Le Doze","Michael Che Koch","Igeyorhm","Ai Orikasa","Gemma Whelan","Stéphanie Lafforgue","Vera Bunk"
-2.18,2,"Hydaelyn","Masako Ikeda","Joanna Roth","Véronique Augereau","Sonngard Dressler","","","","",""
-2.19,2,"Edmont","Ikuya Sawaki","Stephen Critchlow","Pierre Dourlens","Andreas Sparberg","","","","",""
-2.20,2,"Haurchefant","Masakazu Nishida","Jason La Shea","Benoit Du Pac","Daniel Montoya","","","","",""
-3.0,1,"Title Logo Designer and Image Illustrator","Yoshitaka Amano","","","","","","","",""
-3.1,1,"Main Theme Composer","Nobuo Uematsu","","","","","","","",""
-3.2,3,"Alphinaud","Shinnosuke Tachibana","Colin Ryan","Sébastien Desjours","Markus Haase","Tataru","Mariya Ise","Carina Reeves","Kelly Marot","Annette Gunkel"
-3.3,3,"Y'shtola","Ai Kayano","Robyn Addison","Laëtitia Lefebvre","Annette Schreier","Urianger","KENN","Timothy Watson","Raphaël Cohen","Florian Hoffmann"
-3.4,3,"Cid","Rikiya Koyama","Gwilym Lee","Lionel Tua","Achim Barrenstein","Biggs","Go Inoue","Antony Byrne","Eric Peter","Gordon Piedesack"
-3.5,3,"Aymeric","Tatsuhisa Suzuki","Blake Ritson","Sylvain Agaesse ","Tino Kießling","Lucia","Sayaka Ohara","Lydia Leonard","Celine Melloul","Kim Pfeiffer"
-3.6,3,"Midgardsormr","Taketora","Allan Corduner ","Emmanuel Bonami","Tino Kießling","Estinien","Kenji Hamada","Robert Vernon","Gilduin Tissier","Michael Pink"
-3.7,2,"Shiva, Iceheart","Maaya Uchida","Siobhan Hewlett","Laurence Crouzet ","Sonja Firker","","","","",""
-3.8,3,"Hilda","Yuka Keicho","Jaye Jacobs","Olivia Nicosia","Katja Hirsch","Matoya","Yu Sugimoto","Sheila Steafel / Sheila Reid","Cathy Cerda","Ulrike Hübschmann"
-3.9,3,"Raubahn Aldynn","Hiroki Yasumoto","Nick Boulton","Frédéric Souterelle","Gordon Piedesack","Kan-E-Senna","Rie Tanaka","Hannah Arterton","Kelly Marot","Annette Gunkel"
-3.10,3,"Merlwyb Bloefhiswyn","Atsuko Tanaka","Tracy Ann Oberman","Marie Gamory","Ellen Schulz","Yugiri","Rina Satoh","Syan Blake","Marie Zidi","Marianne Graffam "
-3.11,3,"Lolorito","Hisashi Izumi","Simon Greenall","Bertrand Liebert","Roland Wolf","Dewlala","Gara Takashima","Rosie Cavaliero","Fily Keita","Natascha Bub"
-3.12,3,"Pipin","Nobuyuki Hiyama","Adam Howden","Benjamin Bollen","Benjamin Stöwe","Eynzahr Slafyrsyn","Shigeo Kiyama","Allan Corduner","Serge Biavan","Helmut Krauss"
-3.13,3,"Ilberd","Hiroshi Shirokuma","Antony Byrne","Thierry Mercier ","Thomas Schmuckert","Meriel","Yu Sugimoto","Hannah Arterton","Laëtitia Lefebvre","Annette Schreier"
-3.14,3,"Zephirin","Yasuaki Takumi","Nick Boulton","Taric Mehani","Arne Stephan","Charibert","Kiyotaka Furushima","Ryan Gage","Bertrand Liebert","Michael Che Koch"
-3.15,3,"Varis","Jouji Nakata","Michael Maloney","Philippe Valmont","Romanus Fuhrmann","Regula","Jurota Kosugi","Stephen Campbell","Loïc Houdré","Jan Uplegger"
-3.16,3,"Thordan","Shinpachi Tsuji","Brian Protheroe","Jean-Claude Sachot","Bernd Vollbrecht","Elidibus","Akira Ishida","Matt Stokoe","Cyrille Monge","Rainer Döring"
-3.17,3,"Lahabrea","Shuichi Ikeda","Alec Newman","Gabriel Le Doze","Michael Che Koch","Igeyorhm","Ai Orikasa","Gemma Whelan","Stéphanie Lafforgue","Vera Bunk"
-3.18,2,"Hydaelyn","Masako Ikeda","Joanna Roth","Véronique Augereau","Sonngard Dressler","","","","",""
-3.19,2,"Edmont","Ikuya Sawaki","Stephen Critchlow","Pierre Dourlens","Andreas Sparberg","","","","",""
-3.20,2,"Haurchefant","Masakazu Nishida","Jason La Shea","Benoit Du Pac","Daniel Montoya","","","","",""
-4.0,1,"Title Logo Designer and Image Illustrator","Yoshitaka Amano","","","","","","","",""
-5.0,1,"Main Theme Composer","Nobuo Uematsu","","","","","","","",""
-6.0,3,"Alphinaud","Shinnosuke Tachibana","Colin Ryan","Sébastien Desjours","Markus Haase","Tataru","Mariya Ise","Carina Reeves","Kelly Marot","Annette Gunkel"
-7.0,3,"Y'shtola","Ai Kayano","Robyn Addison","Laëtitia Lefebvre","Annette Schreier","Urianger","KENN","Timothy Watson","Raphaël Cohen","Florian Hoffmann"
-8.0,3,"Cid","Rikiya Koyama","Gwilym Lee","Lionel Tua","Achim Barrenstein","Biggs","Go Inoue","Antony Byrne","Eric Peter","Gordon Piedesack"
-9.0,3,"Aymeric","Tatsuhisa Suzuki","Blake Ritson","Sylvain Agaesse ","Tino Kießling","Lucia","Sayaka Ohara","Lydia Leonard","Celine Melloul","Kim Pfeiffer"
-10.0,3,"Midgardsormr","Taketora","Allan Corduner ","Emmanuel Bonami","Tino Kießling","Estinien","Kenji Hamada","Robert Vernon","Gilduin Tissier","Michael Pink"
-11.0,2,"Shiva, Iceheart","Maaya Uchida","Siobhan Hewlett","Laurence Crouzet ","Sonja Firker","","","","",""
-12.0,3,"Hilda","Yuka Keicho","Jaye Jacobs","Olivia Nicosia","Katja Hirsch","Matoya","Yu Sugimoto","Sheila Steafel / Sheila Reid","Cathy Cerda","Ulrike Hübschmann"
-13.0,3,"Raubahn Aldynn","Hiroki Yasumoto","Nick Boulton","Frédéric Souterelle","Gordon Piedesack","Kan-E-Senna","Rie Tanaka","Hannah Arterton","Kelly Marot","Annette Gunkel"
-14.0,3,"Merlwyb Bloefhiswyn","Atsuko Tanaka","Tracy Ann Oberman","Marie Gamory","Ellen Schulz","Yugiri","Rina Satoh","Syan Blake","Marie Zidi","Marianne Graffam "
-15.0,3,"Lolorito","Hisashi Izumi","Simon Greenall","Bertrand Liebert","Roland Wolf","Dewlala","Gara Takashima","Rosie Cavaliero","Fily Keita","Natascha Bub"
-16.0,3,"Pipin","Nobuyuki Hiyama","Adam Howden","Benjamin Bollen","Benjamin Stöwe","Eynzahr Slafyrsyn","Shigeo Kiyama","Allan Corduner","Serge Biavan","Helmut Krauss"
-17.0,3,"Ilberd","Hiroshi Shirokuma","Antony Byrne","Thierry Mercier ","Thomas Schmuckert","Meriel","Yu Sugimoto","Hannah Arterton","Laëtitia Lefebvre","Annette Schreier"
-18.0,3,"Zephirin","Yasuaki Takumi","Nick Boulton","Taric Mehani","Arne Stephan","Charibert","Kiyotaka Furushima","Ryan Gage","Bertrand Liebert","Michael Che Koch"
-19.0,3,"Varis","Jouji Nakata","Michael Maloney","Philippe Valmont","Romanus Fuhrmann","Regula","Jurota Kosugi","Stephen Campbell","Loïc Houdré","Jan Uplegger"
-20.0,3,"Thordan","Shinpachi Tsuji","Brian Protheroe","Jean-Claude Sachot","Bernd Vollbrecht","Elidibus","Akira Ishida","Matt Stokoe","Cyrille Monge","Rainer Döring"
-21.0,3,"Lahabrea","Shuichi Ikeda","Alec Newman","Gabriel Le Doze","Michael Che Koch","Igeyorhm","Ai Orikasa","Gemma Whelan","Stéphanie Lafforgue","Vera Bunk"
-22.0,2,"Hydaelyn","Masako Ikeda","Joanna Roth","Véronique Augereau","Sonngard Dressler","","","","",""
-23.0,2,"Edmont","Ikuya Sawaki","Stephen Critchlow","Pierre Dourlens","Andreas Sparberg","","","","",""
-24.0,2,"Haurchefant","Masakazu Nishida","Jason La Shea","Benoit Du Pac","Daniel Montoya","","","","",""
-25.0,1,"Title Logo Designer and Image Illustrator","Yoshitaka Amano","","","","","","","",""
-26.0,1,"Main Theme Composer","Nobuo Uematsu","","","","","","","",""
-27.0,2,"Lyse","Aya Endo","Laura Aikman","Isabelle Volpé","Paulina Weiner","","","","",""
-28.0,3,"Alphinaud","Shinnosuke Tachibana","Colin Ryan","Sébastien Desjours","Markus Haase","Alisaie","Rie Murakawa","Bethan Walker","Charlyne Pestel","Ann-Cathrin Schaible"
-29.0,2,"Raubahn","Hiroki Yasumoto","Nick Boulton","Frédéric Souterelle","Gordon Piedesack","","","","",""
-30.0,3,"Pipin","Nobuyuki Hiyama","Adam Howden","Benjamin Bollen","Benjamin Stöwe","Conrad","Kenji Hamada","Philip Jackson","Michel Elias","Felix Würgler"
-31.0,2,"Hien","Katsuyuki Konishi","Andrew Koji","Boris de Mourzitch","Matthias Scherwenikas","","","","",""
-32.0,3,"Yugiri","Rina Satoh","Eleanor Matsuura","Marie Zidi","Marianne Graffam ","Gosetsu","Yosuke Akimoto","Nigel Betts","Thierry Desroses","Bernd Vollbrecht"
-33.0,3,"Yotsuyu","Shizuka Itoh","Naoko Mori","Sabrina Marchese","Yesim Meisheit","Soroban","Yuichi Nakamura","Krystian Phillips","Thierry Kazazian","Nic Romm"
-34.0,2,"Fordola","Marika Hayashi","Annabel Scholey","Caroline Mozzone","Lisa Braun","","","","",""
-35.0,2,"Zenos","Kohsuke Toriumi","Luke Allen Gale","Saverio Maligno","René Dawn-Claude","","","","",""
-36.0,1,"Title Logo Designer & Image Illustrator","Yoshitaka Amano","","","","","","","",""
-37.0,1,"Main Theme Composer","Masayoshi Soken","","","","","","","",""
-38.0,3,"Alphinaud","Shinnosuke Tachibana","Colin Ryan","Sébastien Desjours","Markus Haase","Alisaie","Rie Murakawa","Bethan Walker ","Charlyne Pestel","Ann-Cathrin Schaible"
-39.0,3,"Thancred","Yuichi Nakamura","Peter Bramhill","Pierre Tessier","Peter Lehn","Ryne","Kana Ichinose","Emma Ballantine","Julie Costanza","Anne Düe"
-40.0,3,"Urianger","KENN","Timothy Watson","Raphaël Cohen","Florian Hoffmann","Y'shtola","Ai Kayano","Robyn Addison","Laëtitia Lefebvre","Annette Schreier"
-41.0,3,"Tataru","Mariya Ise","Carina Reeves","Kelly Marot","Annette Gunkel","Oracle of Light","Yuna Kamakura","Zoë Tapper","Jessica Monceau","Ann Vielhaben"
-42.0,3,"Feo Ul","Minami Takahashi","Olivia Morgan","Clara Quilichini","Nora Jokhosha","Lyna","Yoshino Nanjo","Salóme R Gunnarsdóttir","Camille Lamache","Ruth Macke"
-43.0,3,"Kai-Shirr","Mutsuki Iwanaka","Charlie Rix","Arnaud Laurent","Mirko Böttcher","Tesleen","Asumi Yoneyama","Rosie Jones","Emma Darmon","Tanja Schmitz"
-44.0,3,"Runar","Itaru Yamamoto","Joe Tandberg","Emmanuel Gradi","Tino Kießling","Magnus","Yasuhiro Mamiya","David Menkin","Nicolas Justamon","Mario Klischies"
-45.0,3,"Chai-Nuzz","Riki Kitazawa","Bruce Mackinnon","Stéphane Ronchewski","Mirko Böttcher","Dulia-Chai","Yuka Keicho","Rachel Atkins","Nathalie Homs","Monika Oschek"
-46.0,3,"Vauthry","Yasuhiro Mamiya","Edward Dogliani","Philippe Pasquini","Tino Kießling","Ran'jit","Akio Nojima","David Rintoul","Patrice Melennec","Klaus Lochthove"
-47.0,3,"Gaius","Akio Otsuka","Michael McElhatton","Philippe Dumond","Thomas Dehler","Estinien","Kenji Hamada","Robert Vernon","Gilduin Tissier","Michael Pink"
-48.0,3,"Zenos","Kohsuke Toriumi","Luke Allen-Gale","Saverio Maligno","René Dawn-Claude","Varis","Jouji Nakata","Michael Maloney","Philippe Valmont","Romanus Fuhrmann"
-49.0,2,"Crystal Exarch","Yuma Uchida","Jonathan Bailey","Loïc Guingand","Marcus Off","","","","",""
-50.0,2,"Emet-Selch","Hiroki Takahashi","René Zagger","Eilias Changuel","Andreas Hofer","","","","",""
-51.0,2,"Ardbert","Junichi Suwabe","Joe Dempsie","Mathias Kozlowski","Tobias Schulze ","","","","",""
-52.0,1,"Title Logo Designer & Image Illustrator","Yoshitaka Amano","","","","","","","",""
-53.0,2,"Alphinaud","Shinnosuke Tachibana","Colin Ryan","Sébastien Desjours","Markus Haase","","","","",""
-54.0,2,"G'raha Tia","Yuma Uchida","Jonathan Bailey","Loïc Guingand","Marcus Off","","","","",""
-55.0,2,"Estinien","Kenji Hamada","Robert Vernon","Guildin Tissier","Michael Pink","","","","",""
-56.0,2,"Y'shtola","Ai Kayano","Robyn Addison","Laëtitia Lefebvre","Annette Schreier","","","","",""
-57.0,2,"Thancred","Yuichi Nakamura","Peter Bramhill","Pierre Tessier","Peter Lehn","","","","",""
-58.0,2,"Urianger","KENN","Timothy Watson","Raphaël Cohen","Florian Hoffmann","","","","",""
-59.0,2,"Alisaie","Rie Murakawa","Bethan Walker","Charlyne Pestel","Ann Cathrin Schaible","","","","",""
-60.0,3,"Livingway","Aya Suzaki","Bethan Cullinane","Anaïs Delva","Moira May","Mappingway","Ayaka Shimoyamada","Bethan Cullinane","Clara Soares","Tabea Boerner"
-61.0,3,"Growingway","Tadaaki Doi","Jonathan Bailey","Hervé Rey","Sophia Laengert","Puddingway","Mizue Tsunashima","Gemma Lawrence","Céline Melloul","Paulina Weiner"
-62.0,3,"Sicard","Kenji Hamada","Luke Allen-Gale","Emmanuel Gradi","René Dawn-Claude","Emmanellain","Kengo Takanashi","Stefano Braschi","Romain Altché","Marcell Mann"
-63.0,3,"Lucia","Sayaka Ohara","Lydia Leonard","Céline Melloul","Kim Pfeiffer","Maxima","Ryota Takeuchi","Gunnar Cauthery","Pierre Tessier","Michael Pink"
-64.0,3,"Nanamo","Mariya Ise","Joanna Ruiz","Adeline Chetail","Antje von der Ahe","Hancock","Kengo Takanashi","Ciarán Owens","Thierry Kazazian","Adam Nümm"
-65.0,3,"A-Ruhn-Senna","Kohei Amasaki","Adam Howden","Tom Trouffier","Patrick Keller","Lyse","Aya Endo","Laura Aikman","Isabelle Volpé","Paulina Weiner"
-66.0,3,"Cirina","Marie Miyake","Jaimi Barbakoff","Emmylou Homs","Sophia Längert","Sadu","Rie Tanaka","Beatriz Romilly","Emmylou Homs","Melanie Blocksdorf"
-67.0,3,"Jullus","Ryota Suzuki","Nigel Pilkington","Martin Faliu","Urs Staempfli","Quintus","Hiroya Egashira","Allan Corduner","Pascal Germain","Thomas Schmuckert"
-68.0,3,"Vrtra","Jun Fukushima","Nigel Betts","Jonathan Gimbord","Martin Schubach","Ahewann","Yutaka Aoyama","Ben Turner","Mario Bastellica","Johannes Hamm"
-69.0,3,"Nidhana","You Taichi","Sheena Bhattessa","Jessie Lambotte","Anika Lehmann","Matsya","Chihiro Ueda","Jay Saighal","Grégory Laisné","Arne Lenk"
-70.0,3,"Garuda","Rie Tanaka","Joanna Ruiz","Charlyne Pestel","Dana Friedrich","Susano","Takuya Nakashima","Timothy Watson","Emmanuel Bonami","Michael Pink"
-71.0,3,"Fourchenault","Kenyu Horiuchi","Anthony Howell","Olivier Benard","Felix Würgler","Ameliance","Rie Tanaka","Gemma Whelan","Christèle Billault","Ilka Teichmüller"
-72.0,3,"Cid","Rikiya Koyama","Gwilym Lee","Lionel Tua","Achim Barrenstein","Kokkol Dankkol","Kenichirou Matsuda","Ciarán Owens","Yann Sundberg","Thomas Schmuckert"
-73.0,3,"Barnier","Mitsuaki Hoshino","John Heffernan","Pascal Germain","Romanus Fuhrmann","Montichaigne","Yutaka Aoyama","Phillip Jackson","Philippe Vincent","Holger Franke"
-74.0,2,"Erenville","Rikuya Yasuda","Ari Oskarsson","Grégory Laisné","Michael Baral","","","","",""
-75.0,3,"Wilfsunn","Hiroya Egashira","Gunnar Cauthery","Jérémie Bédrune","Thomas Schmuckert","Bloewyda","Chihiro Ueda","Rachel Atkins","Jessie Lambotte","Dana Friedrich"
-76.0,3,"Hoary Boulder","Yasutaka Tomioka","Nigel Betts","Thomas Roditi","Andreas Sparberg","Soroban","Yuichi Nakamura","Kristian Phillips","Thierry Kazazian","Nic Romm"
-77.0,2,"Asahi","Junichi Yanagita","Matt McCooey","Laurent Gris","Simon Derksen","","","","",""
-78.0,2,"Tataru","Mariya Ise","Carina Reeves","Kelly Marot","Annette Gunkel","","","","",""
-79.0,2,"Krile","Yoshino Nanjo","Gemma Lawrence","Emmylou Homs","Jennifer Weiß","","","","",""
-80.0,3,"Elidibus","Akira Ishida","Matt Stokoe","Cyrille Monge","Rainer Döring","Hythlodaeus","Soichiro Hoshi","Toby Regbo","Aurélien Raynal","Sebastian Fuchs"
-81.0,2,"Emet-Selch","Hiroki Takahashi","René Zagger","Eilias Changuel","Andreas Hofer","","","","",""
-82.0,2,"Hermes & Amon","Yoshitsugu Matsuoka","Jeremy Ang Jones","Bastien Bourlé","Peter Becker","","","","",""
-83.0,2,"Meteion & The Endsinger","Atsumi Tanezaki","Rosie Day","Zina Khakhoulia","Anna Gamburg","","","","",""
-84.0,2,"Venat & Hydaelyn","Kikuko Inoue","Joanna Roth","Véronique Augereau","Antje von der Ahe","","","","",""
-85.0,2,"Zenos","Kohsuke Toriumi","Luke Allen-Gale","Savério Maligno","René Dawn-Claude","","","","",""
+0.0,0,0,0,0,0,0,0,0,0,0,0
+1.0,1,1,2,0,0,0,0,0,0,0,0
+1.1,1,3,4,0,0,0,0,0,0,0,0
+1.2,3,5,6,7,8,9,10,11,12,13,14
+1.3,3,15,16,17,18,19,20,21,22,23,24
+1.4,3,25,26,27,28,29,30,31,32,33,34
+1.5,3,35,36,37,38,39,40,41,42,43,44
+1.6,3,45,46,47,48,49,50,51,52,53,54
+1.7,2,55,56,57,58,59,0,0,0,0,0
+1.8,3,60,61,62,63,64,65,66,67,68,69
+1.9,3,70,71,72,73,74,75,76,77,78,79
+1.10,3,80,81,82,83,84,85,86,87,88,89
+1.11,3,90,91,92,93,94,95,96,97,98,99
+1.12,3,100,101,102,103,104,105,106,107,108,109
+1.13,3,110,111,112,113,114,115,116,117,118,119
+1.14,3,120,121,122,123,124,125,126,127,128,129
+1.15,3,130,131,132,133,134,135,136,137,138,139
+1.16,3,140,141,142,143,144,145,146,147,148,149
+1.17,3,150,151,152,153,154,155,156,157,158,159
+1.18,2,160,161,162,163,164,0,0,0,0,0
+1.19,2,165,166,167,168,169,0,0,0,0,0
+1.20,2,170,171,172,173,174,0,0,0,0,0
+2.0,1,1,2,0,0,0,0,0,0,0,0
+2.1,1,3,4,0,0,0,0,0,0,0,0
+2.2,3,5,6,7,8,9,10,11,12,13,14
+2.3,3,15,16,17,18,19,20,21,22,23,24
+2.4,3,25,26,27,28,29,30,31,32,33,34
+2.5,3,35,36,37,38,39,40,41,42,43,44
+2.6,3,45,46,47,48,49,50,51,52,53,54
+2.7,2,55,56,57,58,59,0,0,0,0,0
+2.8,3,60,61,62,63,64,65,66,67,68,69
+2.9,3,70,71,72,73,74,75,76,77,78,79
+2.10,3,80,81,82,83,84,85,86,87,88,89
+2.11,3,90,91,92,93,94,95,96,97,98,99
+2.12,3,100,101,102,103,104,105,106,107,108,109
+2.13,3,110,111,112,113,114,115,116,117,118,119
+2.14,3,120,121,122,123,124,125,126,127,128,129
+2.15,3,130,131,132,133,134,135,136,137,138,139
+2.16,3,140,141,142,143,144,145,146,147,148,149
+2.17,3,150,151,152,153,154,155,156,157,158,159
+2.18,2,160,161,162,163,164,0,0,0,0,0
+2.19,2,165,166,167,168,169,0,0,0,0,0
+2.20,2,170,171,172,173,174,0,0,0,0,0
+3.0,1,1,2,0,0,0,0,0,0,0,0
+3.1,1,3,4,0,0,0,0,0,0,0,0
+3.2,3,5,6,7,8,9,10,11,12,13,14
+3.3,3,15,16,17,18,19,20,21,22,23,24
+3.4,3,25,26,27,28,29,30,31,32,33,34
+3.5,3,35,36,37,38,39,40,41,42,43,44
+3.6,3,45,46,47,48,49,50,51,52,53,54
+3.7,2,55,56,57,58,59,0,0,0,0,0
+3.8,3,60,61,62,63,64,65,66,67,68,69
+3.9,3,70,71,72,73,74,75,76,77,78,79
+3.10,3,80,81,82,83,84,85,86,87,88,89
+3.11,3,90,91,92,93,94,95,96,97,98,99
+3.12,3,100,101,102,103,104,105,106,107,108,109
+3.13,3,110,111,112,113,114,115,116,117,118,119
+3.14,3,120,121,122,123,124,125,126,127,128,129
+3.15,3,130,131,132,133,134,135,136,137,138,139
+3.16,3,140,141,142,143,144,145,146,147,148,149
+3.17,3,150,151,152,153,154,155,156,157,158,159
+3.18,2,160,161,162,163,164,0,0,0,0,0
+3.19,2,165,166,167,168,169,0,0,0,0,0
+3.20,2,170,171,172,173,174,0,0,0,0,0
+4.0,1,1,2,0,0,0,0,0,0,0,0
+5.0,1,3,4,0,0,0,0,0,0,0,0
+6.0,3,5,6,7,8,9,10,11,12,13,14
+7.0,3,15,16,17,18,19,20,21,22,23,24
+8.0,3,25,26,27,28,29,30,31,32,33,34
+9.0,3,35,36,37,38,39,40,41,42,43,44
+10.0,3,45,46,47,48,49,50,51,52,53,54
+11.0,2,55,56,57,58,59,0,0,0,0,0
+12.0,3,60,61,62,63,64,65,66,67,68,69
+13.0,3,70,71,72,73,74,75,76,77,78,79
+14.0,3,80,81,82,83,84,85,86,87,88,89
+15.0,3,90,91,92,93,94,95,96,97,98,99
+16.0,3,100,101,102,103,104,105,106,107,108,109
+17.0,3,110,111,112,113,114,115,116,117,118,119
+18.0,3,120,121,122,123,124,125,126,127,128,129
+19.0,3,130,131,132,133,134,135,136,137,138,139
+20.0,3,140,141,142,143,144,145,146,147,148,149
+21.0,3,150,151,152,153,154,155,156,157,158,159
+22.0,2,160,161,162,163,164,0,0,0,0,0
+23.0,2,165,166,167,168,169,0,0,0,0,0
+24.0,2,170,171,172,173,174,0,0,0,0,0
+25.0,1,1,2,0,0,0,0,0,0,0,0
+26.0,1,3,4,0,0,0,0,0,0,0,0
+27.0,2,175,176,177,178,179,0,0,0,0,0
+28.0,3,220,221,222,223,224,180,181,182,183,184
+29.0,2,225,226,227,228,229,0,0,0,0,0
+30.0,3,230,231,232,233,234,185,186,187,188,189
+31.0,2,195,196,197,198,199,0,0,0,0,0
+32.0,3,235,236,237,238,239,200,201,202,203,204
+33.0,3,205,206,207,208,209,190,191,192,193,194
+34.0,2,210,211,212,213,214,0,0,0,0,0
+35.0,2,215,216,217,218,219,0,0,0,0,0
+36.0,1,616,2,0,0,0,0,0,0,0,0
+37.0,1,3,240,0,0,0,0,0,0,0,0
+38.0,3,241,242,243,244,245,246,247,248,249,250
+39.0,3,251,252,253,254,255,256,257,258,259,260
+40.0,3,261,262,263,264,265,266,267,268,269,270
+41.0,3,271,272,273,274,275,276,277,278,279,280
+42.0,3,281,282,283,284,285,286,287,288,289,290
+43.0,3,291,292,293,294,295,296,297,298,299,300
+44.0,3,301,302,303,304,305,306,307,308,309,310
+45.0,3,311,312,313,314,315,316,317,318,319,320
+46.0,3,321,322,323,324,325,326,327,328,329,330
+47.0,3,331,332,333,334,335,336,337,338,339,340
+48.0,3,341,342,343,344,345,346,347,348,349,350
+49.0,2,351,352,353,354,355,0,0,0,0,0
+50.0,2,356,357,358,359,360,0,0,0,0,0
+51.0,2,361,362,363,364,365,0,0,0,0,0
+52.0,1,616,2,0,0,0,0,0,0,0,0
+53.0,2,366,367,368,369,370,0,0,0,0,0
+54.0,2,371,372,373,374,375,0,0,0,0,0
+55.0,2,376,377,378,379,380,0,0,0,0,0
+56.0,2,381,382,383,384,385,0,0,0,0,0
+57.0,2,386,387,388,389,390,0,0,0,0,0
+58.0,2,391,392,393,394,395,0,0,0,0,0
+59.0,2,396,397,398,399,400,0,0,0,0,0
+60.0,3,401,402,403,404,405,406,407,408,409,410
+61.0,3,411,412,413,414,415,416,417,418,419,420
+62.0,3,421,422,423,424,425,426,427,428,429,430
+63.0,3,431,432,433,434,435,436,437,438,439,440
+64.0,3,441,442,443,444,445,446,447,448,449,450
+65.0,3,451,452,453,454,455,456,457,458,459,460
+66.0,3,461,462,463,464,465,466,467,468,469,470
+67.0,3,471,472,473,474,475,476,477,478,479,480
+68.0,3,481,482,483,484,485,486,487,488,489,490
+69.0,3,491,492,493,494,495,496,497,498,499,500
+70.0,3,501,502,503,504,505,506,507,508,509,510
+71.0,3,511,512,513,514,515,516,517,518,519,520
+72.0,3,521,522,523,524,525,526,527,528,529,530
+73.0,3,531,532,533,534,535,536,537,538,539,540
+74.0,2,541,542,543,544,545,0,0,0,0,0
+75.0,3,546,547,548,549,550,551,552,553,554,555
+76.0,3,556,557,558,559,560,561,562,563,564,565
+77.0,2,566,567,568,569,570,0,0,0,0,0
+78.0,2,571,572,573,574,575,0,0,0,0,0
+79.0,2,576,577,578,579,580,0,0,0,0,0
+80.0,3,581,582,583,584,585,586,587,588,589,590
+81.0,2,591,592,593,594,595,0,0,0,0,0
+82.0,2,596,597,598,599,600,0,0,0,0,0
+83.0,2,601,602,603,604,605,0,0,0,0,0
+84.0,2,606,607,608,609,610,0,0,0,0,0
+85.0,2,611,612,613,614,615,0,0,0,0,0

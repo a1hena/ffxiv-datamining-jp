@@ -1,1004 +1,1004 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,IsRandom,ClassJobCategory,RetainerLevel,,RetainerTaskParameter,VentureCost,MaxTime{min},Experience,RequiredItemLevel,ConditionParam[0],ConditionParam[1],RequiredGathering,,Task
 int32,bit&01,ClassJobCategory,byte,uint16,RetainerTaskParameter,uint16,uint16,int32,uint16,byte,byte,uint16,uint16,Row
-0,False,"",1,0,"RetainerTaskParameter#1",1,0,0,0,0,0,0,0,""
-1,False,"ファイター ソーサラー",1,0,"RetainerTaskParameter#1",1,60,500,0,0,0,0,0,"柔らかな粗皮"
-2,False,"ファイター ソーサラー",2,0,"RetainerTaskParameter#2",1,60,800,0,0,0,0,0,"丈夫な腱"
-3,False,"ファイター ソーサラー",3,0,"RetainerTaskParameter#3",1,60,800,0,0,0,0,0,"シュリークシュルーム"
-4,False,"ファイター ソーサラー",4,0,"RetainerTaskParameter#4",1,60,1400,0,0,0,0,0,"蜂蜜"
-5,False,"ファイター ソーサラー",5,0,"RetainerTaskParameter#5",1,60,1400,0,0,0,0,0,"ラムの角"
-6,False,"ファイター ソーサラー",6,0,"RetainerTaskParameter#6",1,60,3000,0,0,0,0,0,"百獣の血"
-7,False,"ファイター ソーサラー",7,0,"RetainerTaskParameter#7",1,60,3000,0,0,0,0,0,"マーモットの肉"
-8,False,"ファイター ソーサラー",8,0,"RetainerTaskParameter#8",1,60,5000,0,0,0,0,0,"ざらついた粗皮"
-9,False,"ファイター ソーサラー",9,0,"RetainerTaskParameter#9",1,60,5000,0,0,0,0,0,"マトンのロイン"
-10,False,"ファイター ソーサラー",10,0,"RetainerTaskParameter#10",1,60,7400,0,0,0,0,0,"バットの牙"
-11,False,"ファイター ソーサラー",10,0,"RetainerTaskParameter#10",1,60,7400,0,0,0,0,0,"ローズリングの葉"
-12,False,"ファイター ソーサラー",10,0,"RetainerTaskParameter#10",1,60,7400,0,0,0,0,0,"しなやかな腱"
-13,False,"ファイター ソーサラー",11,0,"RetainerTaskParameter#11",1,60,7400,0,0,0,0,0,"ドードーの笹身"
-14,False,"ファイター ソーサラー",11,0,"RetainerTaskParameter#11",1,60,7400,0,0,0,0,0,"ジェリーフィッシュの刺胞"
-15,False,"ファイター ソーサラー",12,0,"RetainerTaskParameter#12",1,60,10200,0,0,0,0,0,"モールの肉"
-16,False,"ファイター ソーサラー",12,0,"RetainerTaskParameter#12",1,60,10200,0,0,0,0,0,"プークの翼"
-17,False,"ファイター ソーサラー",13,0,"RetainerTaskParameter#13",1,60,10200,0,0,0,0,0,"スラッグの粘液"
-18,False,"ファイター ソーサラー",14,0,"RetainerTaskParameter#14",1,60,13100,0,0,0,0,0,"ドードーの卵"
-19,False,"ファイター ソーサラー",14,0,"RetainerTaskParameter#14",1,60,13100,0,0,0,0,0,"バットの翼"
-20,False,"ファイター ソーサラー",15,0,"RetainerTaskParameter#15",1,60,13100,0,0,0,0,0,"アンテロープの角"
-21,False,"ファイター ソーサラー",15,0,"RetainerTaskParameter#15",1,60,13100,0,0,0,0,0,"グゥーブーの牙"
-22,False,"ファイター ソーサラー",15,0,"RetainerTaskParameter#15",1,60,13100,0,0,0,0,0,"ラセットヤーゾンの足"
-23,False,"ファイター ソーサラー",16,0,"RetainerTaskParameter#16",1,60,17400,0,0,0,0,0,"インプの翼"
-24,False,"ファイター ソーサラー",17,0,"RetainerTaskParameter#17",1,60,17400,0,0,0,0,0,"ジェリーフィッシュの傘"
-25,False,"ファイター ソーサラー",18,0,"RetainerTaskParameter#18",1,60,21900,0,0,0,0,0,"アルドゴートの粗皮"
-26,False,"ファイター ソーサラー",19,0,"RetainerTaskParameter#19",1,60,21900,0,0,0,0,0,"ドードーの羽根"
-27,False,"ファイター ソーサラー",20,0,"RetainerTaskParameter#20",1,60,24900,0,0,0,0,0,"メガロクラブの甲殻"
-28,False,"ファイター ソーサラー",21,0,"RetainerTaskParameter#21",1,60,24900,1,0,0,0,0,"アンテロープのスネ肉"
-29,False,"ファイター ソーサラー",22,0,"RetainerTaskParameter#22",1,60,26100,2,0,0,0,0,"メガロクラブの足"
-30,False,"ファイター ソーサラー",23,0,"RetainerTaskParameter#23",1,60,26100,3,0,0,0,0,"アリオンの酸液"
-31,False,"ファイター ソーサラー",24,0,"RetainerTaskParameter#24",1,60,27200,4,0,0,0,0,"ダイアマイトウェブ"
-32,False,"ファイター ソーサラー",25,0,"RetainerTaskParameter#25",1,60,27200,5,0,0,0,0,"アルドゴートの角"
-33,False,"ファイター ソーサラー",25,0,"RetainerTaskParameter#25",1,60,27200,5,0,0,0,0,"甲鱗の血"
-34,False,"ファイター ソーサラー",25,0,"RetainerTaskParameter#25",1,60,27200,5,0,0,0,0,"ウルフの牙"
-35,False,"ファイター ソーサラー",25,0,"RetainerTaskParameter#25",1,60,27200,5,0,0,0,0,"トレントの樹液"
-36,False,"ファイター ソーサラー",25,0,"RetainerTaskParameter#25",1,60,27200,5,0,0,0,0,"アルドゴートの肩ロース"
-37,False,"ファイター ソーサラー",25,0,"RetainerTaskParameter#25",1,60,27200,5,0,0,0,0,"ダイアマイトの腱"
-38,False,"ファイター ソーサラー",26,0,"RetainerTaskParameter#26",1,60,32100,6,0,0,0,0,"ギガントードの粗皮"
-39,False,"ファイター ソーサラー",26,0,"RetainerTaskParameter#26",1,60,32100,6,0,0,0,0,"ボムの灰"
-40,False,"ファイター ソーサラー",27,0,"RetainerTaskParameter#27",1,60,32100,7,0,0,0,0,"プークの卵"
-41,False,"ファイター ソーサラー",28,0,"RetainerTaskParameter#28",1,60,34500,8,0,0,0,0,"ワイルドミルク"
-42,False,"ファイター ソーサラー",28,0,"RetainerTaskParameter#28",1,60,34500,8,0,0,0,0,"オロボンの肝臓"
-43,False,"ファイター ソーサラー",29,0,"RetainerTaskParameter#29",1,60,34500,9,0,0,0,0,"ボッグヤーゾンの足"
-44,False,"ファイター ソーサラー",29,0,"RetainerTaskParameter#29",1,60,34500,9,0,0,0,0,"サボテンダーの針"
-45,False,"ファイター ソーサラー",30,0,"RetainerTaskParameter#30",1,60,35200,10,0,0,0,0,"サンドウォームの牙"
-46,False,"ファイター ソーサラー",30,0,"RetainerTaskParameter#30",1,60,35200,10,0,0,0,0,"フライトラップの葉"
-47,False,"ファイター ソーサラー",30,0,"RetainerTaskParameter#30",1,60,35200,10,0,0,0,0,"モルボルのつる"
-48,False,"ファイター ソーサラー",31,0,"RetainerTaskParameter#31",1,60,35200,11,0,0,0,0,"蟻酸"
-49,False,"ファイター ソーサラー",32,0,"RetainerTaskParameter#32",1,60,38600,12,0,0,0,0,"ラプトルのモモ肉"
-50,False,"ファイター ソーサラー",32,0,"RetainerTaskParameter#32",1,60,38600,12,0,0,0,0,"ヒッポグリフの腱"
-51,False,"ファイター ソーサラー",33,0,"RetainerTaskParameter#33",1,60,38600,13,0,0,0,0,"ボアの粗皮"
-52,False,"ファイター ソーサラー",34,0,"RetainerTaskParameter#34",1,60,40800,14,0,0,0,0,"ペイストの粗皮"
-53,False,"ファイター ソーサラー",35,0,"RetainerTaskParameter#35",1,60,40800,15,0,0,0,0,"フリース"
-54,False,"ファイター ソーサラー",36,0,"RetainerTaskParameter#36",1,60,44800,16,0,0,0,0,"六識の血"
-55,False,"ファイター ソーサラー",37,0,"RetainerTaskParameter#37",1,60,44800,17,0,0,0,0,"カラクールの粗皮"
-56,False,"ファイター ソーサラー",38,0,"RetainerTaskParameter#38",1,60,49000,18,0,0,0,0,"グレネードの灰"
-57,False,"ファイター ソーサラー",39,0,"RetainerTaskParameter#39",1,60,49000,19,0,0,0,0,"ラプトルの腱"
-58,False,"ファイター ソーサラー",40,0,"RetainerTaskParameter#40",1,60,52600,20,0,0,0,0,"オチューのつる"
-59,False,"ファイター ソーサラー",41,0,"RetainerTaskParameter#41",1,60,52600,21,0,0,0,0,"プリンの肉"
-60,False,"ファイター ソーサラー",42,0,"RetainerTaskParameter#42",1,60,54200,22,0,0,0,0,"バジリスクの卵"
-61,False,"ファイター ソーサラー",43,0,"RetainerTaskParameter#43",1,60,54200,23,0,0,0,0,"バッファローのサーロイン"
-62,False,"ファイター ソーサラー",44,0,"RetainerTaskParameter#44",1,60,55700,24,0,0,0,0,"アプカルの卵"
-63,False,"ファイター ソーサラー",45,0,"RetainerTaskParameter#45",1,60,55700,25,0,0,0,0,"アプカルの綿毛"
-64,False,"ファイター ソーサラー",46,0,"RetainerTaskParameter#46",1,60,61900,26,0,0,0,0,"アーリマンの翼"
-65,False,"ファイター ソーサラー",47,0,"RetainerTaskParameter#47",1,60,61900,27,0,0,0,0,"エフトの尾肉"
-66,False,"ファイター ソーサラー",48,0,"RetainerTaskParameter#48",1,60,66400,28,0,0,0,0,"ラプトルの粗皮"
-67,False,"ファイター ソーサラー",49,0,"RetainerTaskParameter#49",1,60,66400,29,0,0,0,0,"スナーブルのタテガミ"
-68,False,"ファイター ソーサラー",49,0,"RetainerTaskParameter#49",1,60,66400,29,0,0,0,0,"オーガの角"
-69,False,"採掘師",2,1,"RetainerTaskParameter#2",1,60,800,0,0,0,0,0,"銅鉱"
-70,False,"採掘師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ファイアシャード"
-71,False,"採掘師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"アイスシャード"
-72,False,"採掘師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ウィンドシャード"
-73,False,"採掘師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"アースシャード"
-74,False,"採掘師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ライトニングシャード"
-75,False,"採掘師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ウォーターシャード"
-76,False,"採掘師",3,3,"RetainerTaskParameter#3",1,60,800,0,0,0,0,0,"濁水"
-77,False,"採掘師",5,5,"RetainerTaskParameter#5",1,60,1400,0,0,0,0,0,"骨片"
-78,False,"採掘師",6,6,"RetainerTaskParameter#6",1,60,3000,0,0,0,0,0,"錫鉱"
-79,False,"採掘師",7,7,"RetainerTaskParameter#7",1,60,3000,0,0,0,0,0,"サンストーン原石"
-80,False,"採掘師",7,7,"RetainerTaskParameter#7",1,60,3000,0,0,0,0,0,"ラピスラズリ原石"
-81,False,"採掘師",8,8,"RetainerTaskParameter#8",1,60,5000,0,0,0,0,0,"枯骨"
-82,False,"採掘師",9,9,"RetainerTaskParameter#9",1,60,5000,0,0,0,0,0,"亜鉛鉱"
-83,False,"採掘師",10,10,"RetainerTaskParameter#10",1,60,7400,0,72,0,30,0,"黒曜石"
-84,False,"採掘師",10,10,"RetainerTaskParameter#10",1,60,7400,0,72,0,30,0,"粘土"
-85,False,"採掘師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"細砂"
-86,False,"採掘師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"銅砂"
-87,False,"採掘師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"岩塩"
-88,False,"採掘師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"砂岩"
-89,False,"採掘師",14,14,"RetainerTaskParameter#14",1,60,13100,0,72,0,44,0,"鉄鉱"
-90,False,"採掘師",14,14,"RetainerTaskParameter#14",1,60,13100,0,72,0,44,0,"砂鉄"
-91,False,"採掘師",15,15,"RetainerTaskParameter#15",1,60,13100,0,72,0,45,0,"辰砂"
-92,False,"採掘師",16,16,"RetainerTaskParameter#16",1,60,17400,0,72,0,58,0,"マラカイト原石"
-93,False,"採掘師",17,17,"RetainerTaskParameter#17",1,60,17400,0,72,0,60,0,"スフェーン原石"
-94,False,"採掘師",17,17,"RetainerTaskParameter#17",1,60,17400,0,72,0,60,0,"フローライト原石"
-95,False,"採掘師",17,17,"RetainerTaskParameter#17",1,60,17400,0,72,0,60,0,"石灰岩"
-96,False,"採掘師",18,18,"RetainerTaskParameter#18",1,60,21900,0,72,0,62,0,"ダンビュライト原石"
-97,False,"採掘師",19,19,"RetainerTaskParameter#19",1,60,21900,0,72,0,63,0,"桜貝"
-98,False,"採掘師",19,19,"RetainerTaskParameter#19",1,60,21900,0,72,0,63,0,"アルメン"
-99,False,"採掘師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,""
-100,False,"採掘師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"泥岩"
-101,False,"採掘師",21,21,"RetainerTaskParameter#21",1,60,24900,0,72,0,75,0,"土性岩"
-102,False,"採掘師",22,22,"RetainerTaskParameter#22",1,60,26100,0,72,0,78,0,"銀砂"
-103,False,"採掘師",23,23,"RetainerTaskParameter#23",1,60,26100,0,72,0,81,0,"火性岩"
-104,False,"採掘師",23,23,"RetainerTaskParameter#23",1,60,26100,0,72,0,81,0,"氷性岩"
-105,False,"採掘師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"ソーダ水"
-106,False,"採掘師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"風性岩"
-107,False,"採掘師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"雷性岩"
-108,False,"採掘師",25,25,"RetainerTaskParameter#25",1,60,27200,0,72,0,87,0,"銀鉱"
-109,False,"採掘師",25,25,"RetainerTaskParameter#25",1,60,27200,0,72,0,87,0,"水性岩"
-110,False,"採掘師",26,26,"RetainerTaskParameter#26",1,60,32100,0,72,0,90,0,"ボムの灰"
-111,False,"採掘師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ファイアクリスタル"
-112,False,"採掘師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"アイスクリスタル"
-113,False,"採掘師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ウィンドクリスタル"
-114,False,"採掘師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"アースクリスタル"
-115,False,"採掘師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ライトニングクリスタル"
-116,False,"採掘師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ウォータークリスタル"
-117,False,"採掘師",27,27,"RetainerTaskParameter#27",1,60,32100,0,72,0,92,0,"珪砂"
-118,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"飛竜黒曜石"
-119,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"ブルーピグメント"
-120,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"レッドピグメント"
-121,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"イエローピグメント"
-122,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"グレイピグメント"
-123,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"ブラウンピグメント"
-124,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"グリーンピグメント"
-125,False,"採掘師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"パープルピグメント"
-126,False,"採掘師",29,29,"RetainerTaskParameter#29",1,60,34500,0,72,0,96,0,"硫黄"
-127,False,"採掘師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,""
-128,False,"採掘師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,"シルト岩"
-129,False,"採掘師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,"ラノシアンソイルG1"
-130,False,"採掘師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,"シュラウドソイルG1"
-131,False,"採掘師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,"ザナラーンソイルG1"
-132,False,"採掘師",31,31,"RetainerTaskParameter#31",1,60,35200,0,72,0,101,0,"ガーネット原石"
-133,False,"採掘師",31,31,"RetainerTaskParameter#31",1,60,35200,0,72,0,101,0,"御影石"
-134,False,"採掘師",32,32,"RetainerTaskParameter#32",1,60,38600,0,72,0,103,0,"ヘリオドール原石"
-135,False,"採掘師",33,33,"RetainerTaskParameter#33",1,60,38600,0,72,0,105,0,"ゴシェナイト原石"
-136,False,"採掘師",33,33,"RetainerTaskParameter#33",1,60,38600,0,72,0,105,0,"ペリドット原石"
-137,False,"採掘師",33,33,"RetainerTaskParameter#33",1,60,38600,0,72,0,105,0,"霊銀砂"
-138,False,"採掘師",34,34,"RetainerTaskParameter#34",1,60,40800,0,72,0,107,0,"霊銀鉱"
-139,False,"採掘師",34,34,"RetainerTaskParameter#34",1,60,40800,0,72,0,107,0,"アメジスト原石"
-140,False,"採掘師",35,35,"RetainerTaskParameter#35",1,60,40800,0,72,0,109,0,"アクアマリン原石"
-141,False,"採掘師",36,36,"RetainerTaskParameter#36",1,60,44800,0,72,0,112,0,"トルマリン原石"
-142,False,"採掘師",37,37,"RetainerTaskParameter#37",1,60,44800,0,72,0,113,0,"スピネル原石"
-143,False,"採掘師",38,38,"RetainerTaskParameter#38",1,60,49000,0,72,0,116,0,"ジルコン原石"
-144,False,"採掘師",39,39,"RetainerTaskParameter#39",1,60,49000,0,72,0,118,0,"ジェード"
-145,False,"採掘師",40,40,"RetainerTaskParameter#40",1,60,52600,0,72,0,120,0,"ブラックアルメン"
-146,False,"採掘師",40,40,"RetainerTaskParameter#40",1,60,52600,0,72,0,120,0,"グレネードの灰"
-147,False,"採掘師",40,46,"RetainerTaskParameter#40",1,60,52600,0,72,0,120,0,"ラノシアンソイルG2"
-148,False,"採掘師",40,46,"RetainerTaskParameter#40",1,60,52600,0,72,0,120,0,"シュラウドソイルG2"
-149,False,"採掘師",40,46,"RetainerTaskParameter#40",1,60,52600,0,72,0,120,0,"ザナラーンソイルG2"
-150,False,"採掘師",41,41,"RetainerTaskParameter#41",1,60,52600,0,72,0,125,0,"ターコイズ原石"
-151,False,"採掘師",42,42,"RetainerTaskParameter#42",1,60,54200,0,72,0,127,0,"青金砂"
-152,False,"採掘師",43,43,"RetainerTaskParameter#43",1,60,54200,0,72,0,129,0,"青金鉱"
-153,False,"採掘師",44,44,"RetainerTaskParameter#44",1,60,55700,0,72,0,131,0,"アンバー原石"
-154,False,"採掘師",45,45,"RetainerTaskParameter#45",1,60,55700,0,72,0,133,0,"ルベライト原石"
-155,False,"採掘師",45,45,"RetainerTaskParameter#45",1,60,55700,0,72,0,133,0,"大理石"
-156,False,"採掘師",46,46,"RetainerTaskParameter#46",1,60,61900,0,72,0,140,0,"バジリスクの卵"
-157,False,"採掘師",47,47,"RetainerTaskParameter#47",1,60,61900,0,72,0,142,0,"鏡鉄鉱"
-158,False,"採掘師",48,49,"RetainerTaskParameter#48",1,60,66400,0,72,0,144,0,"陸亀の甲羅"
-159,False,"採掘師",49,50,"RetainerTaskParameter#49",1,60,66400,0,72,0,147,0,"オーガの角"
-160,False,"採掘師",50,50,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,""
-161,False,"園芸師",1,1,"RetainerTaskParameter#1",1,60,500,0,0,0,0,0,"ラテックス"
-162,False,"園芸師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ファイアシャード"
-163,False,"園芸師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"アイスシャード"
-164,False,"園芸師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ウィンドシャード"
-165,False,"園芸師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"アースシャード"
-166,False,"園芸師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ライトニングシャード"
-167,False,"園芸師",1,1,"RetainerTaskParameter#0",1,60,500,0,0,0,0,0,"ウォーターシャード"
-168,False,"園芸師",2,2,"RetainerTaskParameter#2",1,60,800,0,0,0,0,0,"アラガンスネイル"
-169,False,"園芸師",2,2,"RetainerTaskParameter#2",1,60,800,0,0,0,0,0,"メープル樹液"
-170,False,"園芸師",3,3,"RetainerTaskParameter#3",1,60,800,0,0,0,0,0,"メープル原木"
-171,False,"園芸師",4,4,"RetainerTaskParameter#4",1,60,1400,0,0,0,0,0,"シナモン"
-172,False,"園芸師",5,5,"RetainerTaskParameter#5",1,60,1400,0,0,0,0,0,"蜜蜂の巣"
-173,False,"園芸師",5,5,"RetainerTaskParameter#5",1,60,1400,0,0,0,0,0,"メープルの枝"
-174,False,"園芸師",6,6,"RetainerTaskParameter#6",1,60,3000,0,0,0,0,0,"ティノルカミスルトゥ"
-175,False,"園芸師",6,6,"RetainerTaskParameter#6",1,60,3000,0,0,0,0,0,"コックの羽根"
-176,False,"園芸師",7,7,"RetainerTaskParameter#7",1,60,3000,0,0,0,0,0,"ラノシアオレンジ"
-177,False,"園芸師",7,7,"RetainerTaskParameter#7",1,60,3000,0,0,0,0,0,"ラノシアオレンジの種"
-178,False,"園芸師",8,8,"RetainerTaskParameter#8",1,60,5000,0,0,0,0,0,"アッシュ原木"
-179,False,"園芸師",9,9,"RetainerTaskParameter#9",1,60,5000,0,0,0,0,0,"アッシュの枝"
-180,False,"園芸師",9,9,"RetainerTaskParameter#9",1,60,5000,0,0,0,0,0,"ククルビーン"
-181,False,"園芸師",10,10,"RetainerTaskParameter#10",1,60,7400,0,72,0,30,0,"クロウの羽根"
-182,False,"園芸師",10,10,"RetainerTaskParameter#10",1,60,7400,0,72,0,30,0,"クローヴ"
-183,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"モコ草"
-184,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"ジンセン"
-185,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"シャンテレール"
-186,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"ローランドグレープ"
-187,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"ライ麦"
-188,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"小麦"
-189,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"ガーリック"
-190,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"エルム原木"
-191,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"ワイルドオニオン"
-192,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"ラベンダー"
-193,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"麦わら"
-194,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"グラスバイパー"
-195,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"腐葉土"
-196,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"クルザスカロット"
-197,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"オーガパンプキン"
-198,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"カーネーション"
-199,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"ラノシアレタス"
-200,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"オリーヴ"
-201,False,"園芸師",14,14,"RetainerTaskParameter#14",1,60,13100,0,72,0,44,0,"草綿"
-202,False,"園芸師",14,14,"RetainerTaskParameter#14",1,60,13100,0,72,0,44,0,"スピナッチ"
-203,False,"園芸師",14,14,"RetainerTaskParameter#14",1,60,13100,0,72,0,44,0,"ブラックペッパー"
-204,False,"園芸師",15,15,"RetainerTaskParameter#15",1,60,13100,0,72,0,45,0,"ルビートマト"
-205,False,"園芸師",15,15,"RetainerTaskParameter#15",1,60,13100,0,72,0,45,0,"パースニップ"
-206,False,"園芸師",15,15,"RetainerTaskParameter#15",1,60,13100,0,72,0,45,0,"ハイランドパセリ"
-207,False,"園芸師",15,15,"RetainerTaskParameter#15",1,60,13100,0,72,0,45,0,"マージョラム"
-208,False,"園芸師",16,16,"RetainerTaskParameter#16",1,60,17400,0,72,0,58,0,"パプリカ"
-209,False,"園芸師",16,16,"RetainerTaskParameter#16",1,60,17400,0,72,0,58,0,"フェアリーアップル"
-210,False,"園芸師",16,16,"RetainerTaskParameter#16",1,60,17400,0,72,0,58,0,"ガラゴミント"
-211,False,"園芸師",16,16,"RetainerTaskParameter#16",1,60,17400,0,72,0,58,0,"パプリカの種"
-212,False,"園芸師",16,16,"RetainerTaskParameter#16",1,60,17400,0,72,0,58,0,"フェアリーアップルの種"
-213,False,"園芸師",17,17,"RetainerTaskParameter#17",1,60,17400,0,72,0,60,0,"サンレモン"
-214,False,"園芸師",17,17,"RetainerTaskParameter#17",1,60,17400,0,72,0,60,0,"レンティル"
-215,False,"園芸師",17,17,"RetainerTaskParameter#17",1,60,17400,0,72,0,60,0,"サンレモンの種"
-216,False,"園芸師",18,18,"RetainerTaskParameter#18",1,60,21900,0,72,0,62,0,"ベラドンナ"
-217,False,"園芸師",18,18,"RetainerTaskParameter#18",1,60,21900,0,72,0,62,0,"ノパル"
-218,False,"園芸師",18,18,"RetainerTaskParameter#18",1,60,21900,0,72,0,62,0,"ポポト"
-219,False,"園芸師",18,18,"RetainerTaskParameter#18",1,60,21900,0,72,0,62,0,"ポポトの種芋"
-220,False,"園芸師",19,19,"RetainerTaskParameter#19",1,60,21900,0,72,0,63,0,"ユー原木"
-221,False,"園芸師",19,19,"RetainerTaskParameter#19",1,60,21900,0,72,0,63,0,"ギルバン"
-222,False,"園芸師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"ユーの枝"
-223,False,"園芸師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"ラノシアの苗"
-224,False,"園芸師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"黒衣森の苗"
-225,False,"園芸師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"ザナラーンの苗"
-226,False,"園芸師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"ホワイトスコーピオン"
-227,False,"園芸師",20,20,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,""
-228,False,"園芸師",21,21,"RetainerTaskParameter#21",1,60,24900,0,72,0,75,0,"ピクシープラム"
-229,False,"園芸師",21,21,"RetainerTaskParameter#21",1,60,24900,0,72,0,75,0,"ウォルナット"
-230,False,"園芸師",21,21,"RetainerTaskParameter#21",1,60,24900,0,72,0,75,0,"ピクシープラムの種"
-231,False,"園芸師",22,22,"RetainerTaskParameter#22",1,60,26100,0,72,0,78,0,"ボタンマッシュルーム"
-232,False,"園芸師",22,22,"RetainerTaskParameter#22",1,60,26100,0,72,0,78,0,"ノーブルグレープ"
-233,False,"園芸師",23,23,"RetainerTaskParameter#23",1,60,26100,0,72,0,81,0,"ノフィカミスルトゥ"
-234,False,"園芸師",23,23,"RetainerTaskParameter#23",1,60,26100,0,72,0,81,0,"アラミゴマスタード"
-235,False,"園芸師",23,23,"RetainerTaskParameter#23",1,60,26100,0,72,0,81,0,"アラミゴマスタードの種"
-236,False,"園芸師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"ウォルナット原木"
-237,False,"園芸師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"カモミール"
-238,False,"園芸師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"パールジンジャー"
-239,False,"園芸師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"パールジンジャーの種生姜"
-240,False,"園芸師",24,24,"RetainerTaskParameter#24",1,60,27200,0,72,0,84,0,"カモミールの種"
-241,False,"園芸師",25,25,"RetainerTaskParameter#25",1,60,27200,0,72,0,87,0,"スティッキーライス"
-242,False,"園芸師",25,25,"RetainerTaskParameter#25",1,60,27200,0,72,0,87,0,"ミリオンコーン"
-243,False,"園芸師",25,25,"RetainerTaskParameter#25",1,60,27200,0,72,0,87,0,"ミリオンコーンの種"
-244,False,"園芸師",26,26,"RetainerTaskParameter#26",1,60,32100,0,72,0,90,0,"ジェードピー"
-245,False,"園芸師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ファイアクリスタル"
-246,False,"園芸師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"アイスクリスタル"
-247,False,"園芸師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ウィンドクリスタル"
-248,False,"園芸師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"アースクリスタル"
-249,False,"園芸師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ライトニングクリスタル"
-250,False,"園芸師",26,26,"RetainerTaskParameter#0",1,60,32100,0,72,0,90,0,"ウォータークリスタル"
-251,False,"園芸師",27,27,"RetainerTaskParameter#27",1,60,32100,0,72,0,92,0,"エッグプラント"
-252,False,"園芸師",27,27,"RetainerTaskParameter#27",1,60,32100,0,72,0,92,0,"エッグプラントの種"
-253,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"ミッドランドキャベツ"
-254,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"ミッドランドキャベツの種"
-255,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"ブルーピグメント"
-256,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"レッドピグメント"
-257,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"イエローピグメント"
-258,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"グレイピグメント"
-259,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"ブラウンピグメント"
-260,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"グリーンピグメント"
-261,False,"園芸師",28,28,"RetainerTaskParameter#28",1,60,34500,0,72,0,95,0,"パープルピグメント"
-262,False,"園芸師",29,29,"RetainerTaskParameter#29",1,60,34500,0,72,0,96,0,"チョコボの羽根"
-263,False,"園芸師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,"アリゲーターペア"
-264,False,"園芸師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,"ムアリーチ"
-265,False,"園芸師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,""
-266,False,"園芸師",31,31,"RetainerTaskParameter#31",1,60,35200,0,72,0,101,0,"亜麻"
-267,False,"園芸師",31,31,"RetainerTaskParameter#31",1,60,35200,0,72,0,101,0,"オークの枝"
-268,False,"園芸師",31,31,"RetainerTaskParameter#31",1,60,35200,0,72,0,101,0,"亜麻の種"
-269,False,"園芸師",32,32,"RetainerTaskParameter#32",1,60,38600,0,72,0,103,0,"オーク原木"
-270,False,"園芸師",32,32,"RetainerTaskParameter#32",1,60,38600,0,72,0,103,0,"アロエ"
-271,False,"園芸師",32,32,"RetainerTaskParameter#32",1,60,38600,0,72,0,103,0,"ミッドランドバジル"
-272,False,"園芸師",32,32,"RetainerTaskParameter#32",1,60,38600,0,72,0,103,0,"ミッドランドバジルの種"
-273,False,"園芸師",33,33,"RetainerTaskParameter#33",1,60,38600,0,72,0,105,0,"マンドレイク"
-274,False,"園芸師",33,33,"RetainerTaskParameter#33",1,60,38600,0,72,0,105,0,"ブラッドグラス"
-275,False,"園芸師",33,33,"RetainerTaskParameter#33",1,60,38600,0,72,0,105,0,"ホワイトトリュフ"
-276,False,"園芸師",33,33,"RetainerTaskParameter#33",1,60,38600,0,72,0,105,0,"マンドレイクの種"
-277,False,"園芸師",34,34,"RetainerTaskParameter#34",1,60,40800,0,72,0,107,0,"リーキ"
-278,False,"園芸師",34,34,"RetainerTaskParameter#34",1,60,40800,0,72,0,107,0,"フェザントの羽根"
-279,False,"園芸師",34,34,"RetainerTaskParameter#34",1,60,40800,0,72,0,107,0,"ローレル"
-280,False,"園芸師",35,35,"RetainerTaskParameter#35",1,60,40800,0,72,0,109,0,"タランチュラ"
-281,False,"園芸師",35,35,"RetainerTaskParameter#35",1,60,40800,0,72,0,109,0,"ドラゴンペッパー"
-282,False,"園芸師",35,35,"RetainerTaskParameter#35",1,60,40800,0,72,0,109,0,"デザートサフラン"
-283,False,"園芸師",36,36,"RetainerTaskParameter#36",1,60,44800,0,72,0,112,0,"ブラッドカーラント"
-284,False,"園芸師",36,36,"RetainerTaskParameter#36",1,60,44800,0,72,0,112,0,"アイアンエーコン"
-285,False,"園芸師",36,36,"RetainerTaskParameter#36",1,60,44800,0,72,0,112,0,"ブラッドカーラントの種"
-286,False,"園芸師",37,37,"RetainerTaskParameter#37",1,60,44800,0,72,0,113,0,"マホガニー原木"
-287,False,"園芸師",37,37,"RetainerTaskParameter#37",1,60,44800,0,72,0,113,0,"マグワート"
-288,False,"園芸師",38,38,"RetainerTaskParameter#38",1,60,49000,0,72,0,116,0,"アーティチョーク"
-289,False,"園芸師",39,39,"RetainerTaskParameter#39",1,60,49000,0,72,0,118,0,"ズッキーニ"
-290,False,"園芸師",39,39,"RetainerTaskParameter#39",1,60,49000,0,72,0,118,0,"タイム"
-291,False,"園芸師",39,39,"RetainerTaskParameter#39",1,60,49000,0,72,0,118,0,"ナツメグ"
-292,False,"園芸師",40,40,"RetainerTaskParameter#40",1,60,52600,0,72,0,120,0,"アーモンド"
-293,False,"園芸師",40,40,"RetainerTaskParameter#40",1,60,52600,0,72,0,120,0,"アーモンドの種"
-294,False,"園芸師",41,41,"RetainerTaskParameter#41",1,60,52600,0,72,0,125,0,"サゴリーセージ"
-295,False,"園芸師",42,42,"RetainerTaskParameter#42",1,60,54200,0,72,0,127,0,"シャインアップル"
-296,False,"園芸師",42,42,"RetainerTaskParameter#42",1,60,54200,0,72,0,127,0,"ブラックスコーピオン"
-297,False,"園芸師",42,42,"RetainerTaskParameter#42",1,60,54200,0,72,0,127,0,"シャインアップルの種"
-298,False,"園芸師",43,43,"RetainerTaskParameter#43",1,60,54200,0,72,0,129,0,"ロランベリー"
-299,False,"園芸師",43,43,"RetainerTaskParameter#43",1,60,54200,0,72,0,129,0,"ロランベリーの種"
-300,False,"園芸師",44,44,"RetainerTaskParameter#44",1,60,55700,0,72,0,131,0,"ミスルトゥ"
-301,False,"園芸師",45,45,"RetainerTaskParameter#45",1,60,55700,0,72,0,133,0,"ダートフロッグ"
-302,False,"園芸師",46,46,"RetainerTaskParameter#46",1,60,61900,0,72,0,140,0,"ローズウッド原木"
-303,False,"園芸師",47,47,"RetainerTaskParameter#47",1,60,61900,0,72,0,142,0,"ローズウッドの枝"
-304,False,"園芸師",48,48,"RetainerTaskParameter#48",1,60,66400,0,72,0,144,0,"ザナラーン茶葉"
-305,False,"園芸師",49,49,"RetainerTaskParameter#49",1,60,66400,0,72,0,147,0,"ラーヴァトード"
-306,False,"園芸師",49,50,"RetainerTaskParameter#49",1,60,66400,0,72,0,147,0,"メイデングラス"
-307,False,"園芸師",50,50,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,""
-308,False,"漁師",1,0,"RetainerTaskParameter#1",1,60,500,0,0,0,0,0,"ザリガニ"
-309,False,"漁師",4,0,"RetainerTaskParameter#4",1,60,1400,0,0,0,0,0,"フィンガーシュリンプ"
-310,False,"漁師",5,0,"RetainerTaskParameter#5",1,60,1400,0,0,0,0,0,"白珊瑚"
-311,False,"漁師",5,0,"RetainerTaskParameter#5",1,60,1400,0,0,0,0,0,"プリンセストラウト"
-312,False,"漁師",6,0,"RetainerTaskParameter#6",1,60,3000,0,0,0,0,0,"ダスキーゴビー"
-313,False,"漁師",7,0,"RetainerTaskParameter#7",1,60,3000,0,0,0,0,0,"ピピラ"
-314,False,"漁師",8,0,"RetainerTaskParameter#8",1,60,5000,0,0,0,0,0,"ベニザリガニ"
-315,False,"漁師",9,0,"RetainerTaskParameter#9",1,60,5000,0,0,0,0,0,"コーラルバタフライ"
-316,False,"漁師",10,0,"RetainerTaskParameter#10",1,60,7400,0,72,0,21,0,"ブラスローチ"
-317,False,"漁師",11,0,"RetainerTaskParameter#11",1,60,7400,0,72,0,24,0,"メイデンカープ"
-318,False,"漁師",14,0,"RetainerTaskParameter#14",1,60,13100,0,72,0,31,0,"タイガーコッド"
-319,False,"漁師",16,0,"RetainerTaskParameter#16",1,60,17400,0,72,0,35,0,"ヘルメットクラブ"
-320,False,"漁師",17,0,"RetainerTaskParameter#17",1,60,17400,0,72,0,38,0,"ロズリトオイスター"
-321,False,"漁師",18,0,"RetainerTaskParameter#18",1,60,21900,0,72,0,40,0,"リムレーンズダガー"
-322,False,"漁師",19,0,"RetainerTaskParameter#19",1,60,21900,0,72,0,43,0,"ブルーサーモン"
-323,False,"漁師",20,0,"RetainerTaskParameter#20",1,60,24900,0,72,0,45,0,"ジャックナイフ"
-324,False,"漁師",21,0,"RetainerTaskParameter#21",1,60,24900,0,72,0,56,0,"ブローフィッシュ"
-325,False,"漁師",23,0,"RetainerTaskParameter#23",1,60,26100,0,72,0,55,0,"ウォームトラウト"
-326,False,"漁師",24,0,"RetainerTaskParameter#24",1,60,27200,0,72,0,56,0,"ブラックイール"
-327,False,"漁師",25,0,"RetainerTaskParameter#25",1,60,27200,0,72,0,57,0,"ダークバス"
-328,False,"漁師",26,0,"RetainerTaskParameter#26",1,60,32100,0,72,0,59,0,"青珊瑚"
-329,False,"漁師",27,0,"RetainerTaskParameter#27",1,60,32100,0,72,0,60,0,"ビアナックブリーム"
-330,False,"漁師",28,0,"RetainerTaskParameter#28",1,60,34500,0,72,0,62,0,"ブラックソール"
-331,False,"漁師",29,0,"RetainerTaskParameter#29",1,60,34500,0,72,0,63,0,"ハンマーヘッド"
-332,False,"漁師",31,0,"RetainerTaskParameter#31",1,60,35200,0,72,0,71,0,"インディゴヘリング"
-333,False,"漁師",32,0,"RetainerTaskParameter#32",1,60,38600,0,72,0,72,0,"アッシュトゥーナ"
-334,False,"漁師",34,0,"RetainerTaskParameter#34",1,60,40800,0,72,0,75,0,"フルムーンサーディン"
-335,False,"漁師",36,0,"RetainerTaskParameter#36",1,60,44800,0,72,0,85,0,"白蝶貝"
-336,False,"漁師",38,0,"RetainerTaskParameter#38",1,60,49000,0,72,0,89,0,"ベロジナカープ"
-337,False,"漁師",40,0,"RetainerTaskParameter#40",1,60,52600,0,72,0,92,0,"紅珊瑚"
-338,False,"漁師",41,0,"RetainerTaskParameter#41",1,60,52600,0,72,0,97,0,"シルバーシャーク"
-339,False,"漁師",43,0,"RetainerTaskParameter#43",1,60,54200,0,72,0,100,0,"雨乞魚"
-340,False,"漁師",44,0,"RetainerTaskParameter#44",1,60,55700,0,72,0,102,0,"黒蝶貝"
-341,False,"漁師",46,0,"RetainerTaskParameter#46",1,60,61900,0,72,0,105,0,"ノーザンパイク"
-342,False,"漁師",48,0,"RetainerTaskParameter#48",1,60,66400,0,72,0,109,0,"スプリットクラウド"
-343,True,"ファイター ソーサラー",1,0,"RetainerTaskParameter#1",2,1080,4900,0,0,0,0,0,"探索依頼：平地 G1"
-344,True,"ファイター ソーサラー",5,0,"RetainerTaskParameter#1",2,1080,19900,0,0,0,0,0,"探索依頼：平地 G2"
-345,True,"ファイター ソーサラー",10,0,"RetainerTaskParameter#1",2,1080,45200,0,0,0,0,0,"探索依頼：平地 G3"
-346,True,"ファイター ソーサラー",15,0,"RetainerTaskParameter#1",2,1080,87600,0,0,0,0,0,"探索依頼：平地 G4"
-347,True,"ファイター ソーサラー",20,0,"RetainerTaskParameter#1",2,1080,106600,0,0,0,0,0,"探索依頼：平地 G5"
-348,True,"ファイター ソーサラー",25,0,"RetainerTaskParameter#1",2,1080,138100,5,0,0,0,0,"探索依頼：平地 G6"
-349,True,"ファイター ソーサラー",30,0,"RetainerTaskParameter#1",2,1080,158300,20,0,0,0,0,"探索依頼：平地 G7"
-350,True,"ファイター ソーサラー",35,0,"RetainerTaskParameter#1",2,1080,195900,25,0,0,0,0,"探索依頼：平地 G8"
-351,True,"ファイター ソーサラー",40,0,"RetainerTaskParameter#1",2,1080,220000,30,0,0,0,0,"探索依頼：平地 G9"
-352,True,"ファイター ソーサラー",45,0,"RetainerTaskParameter#1",2,1080,265600,35,0,0,0,0,"探索依頼：平地 G10"
-353,True,"ファイター ソーサラー",50,0,"RetainerTaskParameter#1",2,1080,421000,40,0,0,0,0,"探索依頼：平地 G11"
-354,True,"ファイター ソーサラー",50,0,"RetainerTaskParameter#1",2,1080,421000,50,0,0,0,0,"探索依頼：平地 G12"
-355,True,"ファイター ソーサラー",50,0,"RetainerTaskParameter#1",2,1080,421000,60,0,0,0,0,"探索依頼：平地 G13"
-356,True,"採掘師",1,0,"RetainerTaskParameter#1",2,1080,4900,0,0,0,0,0,"探索依頼：山岳 G1"
-357,True,"採掘師",5,0,"RetainerTaskParameter#1",2,1080,19900,0,0,0,0,0,"探索依頼：山岳 G2"
-358,True,"採掘師",10,0,"RetainerTaskParameter#1",2,1080,45200,0,72,0,30,0,"探索依頼：山岳 G3"
-359,True,"採掘師",15,0,"RetainerTaskParameter#1",2,1080,87600,0,72,0,45,0,"探索依頼：山岳 G4"
-360,True,"採掘師",20,0,"RetainerTaskParameter#1",2,1080,106600,0,72,0,65,0,"探索依頼：山岳 G5"
-361,True,"採掘師",25,0,"RetainerTaskParameter#1",2,1080,138100,0,72,0,87,0,"探索依頼：山岳 G6"
-362,True,"採掘師",30,0,"RetainerTaskParameter#1",2,1080,158300,0,72,0,99,0,"探索依頼：山岳 G7"
-363,True,"採掘師",35,0,"RetainerTaskParameter#1",2,1080,195900,0,72,0,109,0,"探索依頼：山岳 G8"
-364,True,"採掘師",40,0,"RetainerTaskParameter#1",2,1080,220000,0,72,0,120,0,"探索依頼：山岳 G9"
-365,True,"採掘師",45,0,"RetainerTaskParameter#1",2,1080,265600,0,72,0,133,0,"探索依頼：山岳 G10"
-366,True,"採掘師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,230,0,"探索依頼：山岳 G11"
-367,True,"採掘師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,238,0,"探索依頼：山岳 G12"
-368,True,"採掘師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,285,0,"探索依頼：山岳 G13"
-369,True,"園芸師",1,0,"RetainerTaskParameter#1",2,1080,4900,0,0,0,0,0,"探索依頼：森林 G1"
-370,True,"園芸師",5,0,"RetainerTaskParameter#1",2,1080,19900,0,0,0,0,0,"探索依頼：森林 G2"
-371,True,"園芸師",10,0,"RetainerTaskParameter#1",2,1080,45200,0,72,0,30,0,"探索依頼：森林 G3"
-372,True,"園芸師",15,0,"RetainerTaskParameter#1",2,1080,87600,0,72,0,45,0,"探索依頼：森林 G4"
-373,True,"園芸師",20,0,"RetainerTaskParameter#1",2,1080,106600,0,72,0,65,0,"探索依頼：森林 G5"
-374,True,"園芸師",25,0,"RetainerTaskParameter#1",2,1080,138100,0,72,0,87,0,"探索依頼：森林 G6"
-375,True,"園芸師",30,0,"RetainerTaskParameter#1",2,1080,158300,0,72,0,99,0,"探索依頼：森林 G7"
-376,True,"園芸師",35,0,"RetainerTaskParameter#1",2,1080,195900,0,72,0,109,0,"探索依頼：森林 G8"
-377,True,"園芸師",40,0,"RetainerTaskParameter#1",2,1080,220000,0,72,0,120,0,"探索依頼：森林 G9"
-378,True,"園芸師",45,0,"RetainerTaskParameter#1",2,1080,265600,0,72,0,133,0,"探索依頼：森林 G10"
-379,True,"園芸師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,230,0,"探索依頼：森林 G11"
-380,True,"園芸師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,238,0,"探索依頼：森林 G12"
-381,True,"園芸師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,285,0,"探索依頼：森林 G13"
-382,True,"漁師",1,0,"RetainerTaskParameter#1",2,1080,4900,0,0,0,0,0,"探索依頼：水辺 G1"
-383,True,"漁師",5,0,"RetainerTaskParameter#1",2,1080,19900,0,0,0,0,0,"探索依頼：水辺 G2"
-384,True,"漁師",10,0,"RetainerTaskParameter#1",2,1080,45200,0,72,0,21,0,"探索依頼：水辺 G3"
-385,True,"漁師",15,0,"RetainerTaskParameter#1",2,1080,87600,0,72,0,33,0,"探索依頼：水辺 G4"
-386,True,"漁師",20,0,"RetainerTaskParameter#1",2,1080,106600,0,72,0,45,0,"探索依頼：水辺 G5"
-387,True,"漁師",25,0,"RetainerTaskParameter#1",2,1080,138100,0,72,0,57,0,"探索依頼：水辺 G6"
-388,True,"漁師",30,0,"RetainerTaskParameter#1",2,1080,158300,0,72,0,64,0,"探索依頼：水辺 G7"
-389,True,"漁師",35,0,"RetainerTaskParameter#1",2,1080,195900,0,72,0,77,0,"探索依頼：水辺 G8"
-390,True,"漁師",40,0,"RetainerTaskParameter#1",2,1080,220000,0,72,0,92,0,"探索依頼：水辺 G9"
-391,True,"漁師",45,0,"RetainerTaskParameter#1",2,1080,265600,0,72,0,104,0,"探索依頼：水辺 G10"
-392,True,"漁師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,180,0,"探索依頼：水辺 G11"
-393,True,"漁師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,184,0,"探索依頼：水辺 G12"
-394,True,"漁師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,186,0,"探索依頼：水辺 G13"
-395,True,"",0,0,"RetainerTaskParameter#1",2,60,-1,0,0,0,0,0,"ほりだしもの依頼"
-396,True,"ファイター ソーサラー",50,0,"RetainerTaskParameter#1",2,1080,421000,70,0,0,0,0,"探索依頼：平地 G14"
-397,True,"採掘師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,286,0,"探索依頼：山岳 G14"
-398,True,"園芸師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,286,0,"探索依頼：森林 G14"
-399,True,"漁師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,200,0,"探索依頼：水辺 G14"
-400,True,"ファイター ソーサラー",50,0,"RetainerTaskParameter#1",2,1080,421000,80,0,0,0,0,"探索依頼：平地 G15"
-401,True,"採掘師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,292,0,"探索依頼：山岳 G15"
-402,True,"園芸師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,292,0,"探索依頼：森林 G15"
-403,True,"漁師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,207,0,"探索依頼：水辺 G15"
-404,True,"ファイター ソーサラー",50,0,"RetainerTaskParameter#1",2,1080,421000,90,0,0,0,0,"探索依頼：平地 G16"
-405,True,"採掘師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,294,0,"探索依頼：山岳 G16"
-406,True,"園芸師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,294,0,"探索依頼：森林 G16"
-407,True,"漁師",50,0,"RetainerTaskParameter#1",2,1080,421000,0,72,0,216,0,"探索依頼：水辺 G16"
-408,True,"ファイター ソーサラー",51,0,"RetainerTaskParameter#1",2,1080,680900,100,0,0,0,0,"探索依頼：平地 G17"
-409,True,"採掘師",51,0,"RetainerTaskParameter#1",2,1080,680900,0,72,0,311,0,"探索依頼：山岳 G17"
-410,True,"園芸師",51,0,"RetainerTaskParameter#1",2,1080,680900,0,72,0,311,0,"探索依頼：森林 G17"
-411,True,"漁師",51,0,"RetainerTaskParameter#1",2,1080,680900,0,72,0,228,0,"探索依頼：水辺 G17"
-412,True,"ファイター ソーサラー",55,0,"RetainerTaskParameter#1",2,1080,988600,116,0,0,0,0,"探索依頼：平地 G18"
-413,True,"採掘師",55,0,"RetainerTaskParameter#1",2,1080,988600,0,72,0,388,0,"探索依頼：山岳 G18"
-414,True,"園芸師",55,0,"RetainerTaskParameter#1",2,1080,988600,0,72,0,388,0,"探索依頼：森林 G18"
-415,True,"漁師",55,0,"RetainerTaskParameter#1",2,1080,988600,0,72,0,312,0,"探索依頼：水辺 G18"
-416,False,"ファイター ソーサラー",51,0,"RetainerTaskParameter#120",1,60,122000,100,0,0,0,0,"ガストルニスの卵"
-417,False,"ファイター ソーサラー",51,0,"RetainerTaskParameter#120",1,60,122000,100,0,0,0,0,"ヤクの乳"
-418,False,"ファイター ソーサラー",51,0,"RetainerTaskParameter#120",1,60,122000,100,0,0,0,0,"アルケオーニスの粗皮"
-419,False,"ファイター ソーサラー",51,0,"RetainerTaskParameter#120",1,60,122000,100,0,0,0,0,"ジェラートの肉"
-420,False,"ファイター ソーサラー",51,0,"RetainerTaskParameter#120",1,60,122000,100,0,0,0,0,"アイストラップの葉"
-421,False,"ファイター ソーサラー",52,0,"RetainerTaskParameter#125",1,60,154200,105,0,0,0,0,"ロフタンのフランク"
-422,False,"ファイター ソーサラー",52,0,"RetainerTaskParameter#125",1,60,154200,105,0,0,0,0,"イエティの牙"
-423,False,"ファイター ソーサラー",52,0,"RetainerTaskParameter#125",1,60,154200,105,0,0,0,0,"熊脂"
-424,False,"ファイター ソーサラー",52,0,"RetainerTaskParameter#125",1,60,154200,105,0,0,0,0,"ディープアイの涙"
-425,False,"ファイター ソーサラー",53,0,"RetainerTaskParameter#130",1,60,154200,110,0,0,0,0,"ワイバーンの粗皮"
-426,False,"ファイター ソーサラー",53,0,"RetainerTaskParameter#130",1,60,154200,110,0,0,0,0,"ワイバーンの翼膜"
-427,False,"ファイター ソーサラー",55,0,"RetainerTaskParameter#136",1,60,186000,116,0,0,0,0,"ダルメルの肉"
-428,False,"ファイター ソーサラー",55,0,"RetainerTaskParameter#136",1,60,186000,116,0,0,0,0,"ダルメルの粗皮"
-429,False,"ファイター ソーサラー",56,0,"RetainerTaskParameter#139",1,60,216800,119,0,0,0,0,"ドレイクの鱗"
-430,False,"ファイター ソーサラー",54,0,"RetainerTaskParameter#133",1,60,186000,113,0,0,0,0,"ビアストの鱗"
-431,False,"ファイター ソーサラー",56,0,"RetainerTaskParameter#139",1,60,216800,119,0,0,0,0,"ダルメルの唾液"
-432,False,"ファイター ソーサラー",57,0,"RetainerTaskParameter#142",1,60,216800,122,0,0,0,0,"オーケアニスの卵"
-433,False,"ファイター ソーサラー",57,0,"RetainerTaskParameter#142",1,60,216800,122,0,0,0,0,"ドラゴンの粗皮"
-434,False,"ファイター ソーサラー",57,0,"RetainerTaskParameter#142",1,60,216800,122,0,0,0,0,"ドラゴンの牙"
-435,False,"ファイター ソーサラー",58,0,"RetainerTaskParameter#145",1,60,247100,125,0,0,0,0,"オーケアニスの肉"
-436,False,"ファイター ソーサラー",58,0,"RetainerTaskParameter#145",1,60,247100,125,0,0,0,0,"コカトリスの肉"
-437,False,"ファイター ソーサラー",58,0,"RetainerTaskParameter#145",1,60,247100,125,0,0,0,0,"クロウラーのマユ"
-438,False,"ファイター ソーサラー",58,0,"RetainerTaskParameter#145",1,60,247100,125,0,0,0,0,"ドラゴンの鱗"
-439,False,"ファイター ソーサラー",58,0,"RetainerTaskParameter#145",1,60,247100,125,0,0,0,0,"竜族の血"
-440,False,"ファイター ソーサラー",59,0,"RetainerTaskParameter#148",1,60,247100,128,0,0,0,0,"アンフィプテレの粗皮"
-441,False,"ファイター ソーサラー",59,0,"RetainerTaskParameter#148",1,60,247100,128,0,0,0,0,"グリフィンの粗皮"
-442,False,"ファイター ソーサラー",59,0,"RetainerTaskParameter#148",1,60,247100,128,0,0,0,0,"グリフィンの爪"
-443,False,"ファイター ソーサラー",60,0,"RetainerTaskParameter#150",1,60,251000,130,0,0,0,0,"キマイラのタテガミ"
-444,False,"採掘師",51,80,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"大龍黒曜石"
-445,False,"採掘師",51,120,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"精霊銀砂"
-446,False,"採掘師",51,120,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"アゲート原石"
-447,False,"採掘師",52,125,"RetainerTaskParameter#125",1,60,154200,0,72,0,314,0,"タイガーズアイ原石"
-448,False,"採掘師",53,130,"RetainerTaskParameter#130",1,60,154200,0,72,0,362,0,"ラリマール原石"
-449,False,"採掘師",54,133,"RetainerTaskParameter#133",1,60,186000,0,72,0,363,0,"ドラヴァニア天然水"
-450,False,"採掘師",54,133,"RetainerTaskParameter#133",1,60,186000,0,72,0,363,0,"モルモリオン原石"
-451,False,"採掘師",55,136,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"スターサファイア原石"
-452,False,"採掘師",55,136,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"スタールビー原石"
-453,False,"採掘師",56,139,"RetainerTaskParameter#139",1,60,216800,0,72,0,389,0,"硬銀砂"
-454,False,"採掘師",57,142,"RetainerTaskParameter#142",1,60,216800,0,72,0,392,0,"オパール原石"
-455,False,"採掘師",57,142,"RetainerTaskParameter#142",1,60,216800,0,72,0,392,0,"アバラシア天然水"
-456,False,"採掘師",58,145,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"白雲母"
-457,False,"採掘師",58,145,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"カーネリアン原石"
-458,False,"採掘師",59,148,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"シトリン原石"
-459,False,"採掘師",59,148,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"皇金砂"
-460,False,"採掘師",60,150,"RetainerTaskParameter#150",1,60,251000,0,72,0,405,0,"クリソライト原石"
-461,False,"採掘師",60,150,"RetainerTaskParameter#150",1,60,251000,0,72,0,405,0,"真龍黒曜石"
-462,False,"園芸師",51,80,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"シーダーの枝"
-463,False,"園芸師",51,80,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"シーダー原木"
-464,False,"園芸師",51,120,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"虹綿"
-465,False,"園芸師",52,125,"RetainerTaskParameter#125",1,60,154200,0,72,0,314,0,"イノンド"
-466,False,"園芸師",53,130,"RetainerTaskParameter#130",1,60,154200,0,72,0,362,0,"ハイランド小麦"
-467,False,"園芸師",54,133,"RetainerTaskParameter#133",1,60,186000,0,72,0,363,0,"青麻"
-468,False,"園芸師",54,133,"RetainerTaskParameter#133",1,60,186000,0,72,0,363,0,"ダークチェスナット原木"
-469,False,"園芸師",55,136,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"ダークチェスナットの枝"
-470,False,"園芸師",55,136,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"マグマビート"
-471,False,"園芸師",56,139,"RetainerTaskParameter#139",1,60,216800,0,72,0,389,0,"エキナセア"
-472,False,"園芸師",57,142,"RetainerTaskParameter#142",1,60,216800,0,72,0,392,0,"セサミ"
-473,False,"園芸師",57,142,"RetainerTaskParameter#142",1,60,216800,0,72,0,392,0,"タンジー"
-474,False,"園芸師",58,145,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"バーチの枝"
-475,False,"園芸師",58,145,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"ヘンルーダ"
-476,False,"園芸師",59,148,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"コリアンダー"
-477,False,"園芸師",59,148,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"ダンデライオン"
-478,False,"園芸師",59,148,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"バーチ樹液"
-479,False,"園芸師",60,150,"RetainerTaskParameter#150",1,60,251000,0,72,0,405,0,"キャットニップ"
-480,False,"漁師",51,0,"RetainerTaskParameter#120",1,60,122000,0,72,0,228,0,"ハルオネ"
-481,False,"漁師",52,0,"RetainerTaskParameter#125",1,60,154200,0,72,0,249,0,"ファングクラム"
-482,False,"漁師",52,0,"RetainerTaskParameter#125",1,60,154200,0,72,0,249,0,"オーガホーン"
-483,False,"漁師",52,0,"RetainerTaskParameter#125",1,60,154200,0,72,0,249,0,"アカザ"
-484,False,"漁師",53,0,"RetainerTaskParameter#130",1,60,154200,0,72,0,271,0,"マイボイ"
-485,False,"漁師",53,0,"RetainerTaskParameter#130",1,60,154200,0,72,0,271,0,"ノーブルシーマ"
-486,False,"漁師",54,0,"RetainerTaskParameter#133",1,60,186000,0,72,0,291,0,"出目金"
-487,False,"漁師",54,0,"RetainerTaskParameter#133",1,60,186000,0,72,0,291,0,"サリャクスカルピン"
-488,False,"漁師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,312,0,"アストロノータス"
-489,False,"漁師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,312,0,"バヌバヌヘッド"
-490,False,"漁師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,312,0,"氷神魚"
-491,False,"漁師",56,0,"RetainerTaskParameter#139",1,60,216800,0,72,0,314,0,"ポリプテルス"
-492,False,"漁師",57,0,"RetainerTaskParameter#142",1,60,216800,0,72,0,320,0,"バタフライフィッシュ"
-493,False,"漁師",57,0,"RetainerTaskParameter#142",1,60,216800,0,72,0,320,0,"学士貝"
-494,False,"漁師",58,0,"RetainerTaskParameter#145",1,60,247100,0,72,0,327,0,"ロッククライマー"
-495,False,"漁師",58,0,"RetainerTaskParameter#145",1,60,247100,0,72,0,327,0,"ガラ・ルファ"
-496,False,"漁師",59,0,"RetainerTaskParameter#148",1,60,247100,0,72,0,336,0,"バトルガレー"
-497,False,"漁師",59,0,"RetainerTaskParameter#148",1,60,247100,0,72,0,336,0,"チェリートラウト"
-498,False,"漁師",60,0,"RetainerTaskParameter#150",1,60,251000,0,72,0,347,0,"サンダーボルト"
-499,False,"漁師",60,0,"RetainerTaskParameter#150",1,60,251000,0,72,0,347,0,"ヒンターランドパーチ"
-500,False,"採掘師",30,30,"RetainerTaskParameter#30",1,60,35200,0,72,0,99,0,"硝石"
-501,False,"漁師",52,0,"RetainerTaskParameter#125",1,60,154200,0,72,0,249,0,"マクロブラキウム"
-502,False,"漁師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,312,0,"イシガイ"
-503,False,"漁師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,312,0,"ポンポンポン"
-504,False,"漁師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,312,0,"香魚"
-505,False,"漁師",54,0,"RetainerTaskParameter#133",1,60,186000,0,72,0,291,0,"青空珊瑚"
-506,False,"採掘師",50,55,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ラノシアンソイルG3"
-507,False,"採掘師",50,55,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"シュラウドソイルG3"
-508,False,"採掘師",50,55,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ザナラーンソイルG3"
-509,False,"採掘師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"金鉱"
-510,False,"採掘師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"闇鉄鉱"
-511,False,"採掘師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ラノシア岩塩"
-512,False,"採掘師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"星性岩"
-513,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ルビー原石"
-514,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"鉄重石"
-515,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"自然金"
-516,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"スプルース原木"
-517,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"サベネアミスルトゥ"
-518,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"生マユ"
-519,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"トリリウム"
-520,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"トリリウムの球根"
-521,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ブラックトリュフ"
-522,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ゼーメルトマトの種"
-523,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ハニーレモンの種"
-524,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"パイナップルの種"
-525,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"緋樹液"
-526,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ティノルカ茶葉"
-527,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ソフトスピナッチ"
-528,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ブラッドオレンジ"
-529,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ダイヤモンド原石"
-530,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"エメラルド原石"
-531,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"トパーズ原石"
-532,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"アイオライト原石"
-533,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"サファイア原石"
-534,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"バンブー材"
-535,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"水鳥の羽根"
-536,False,"採掘師",50,80,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"白金鉱"
-537,False,"園芸師",50,80,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"エボニー原木"
-538,False,"採掘師",50,80,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"パミスストーン"
-539,False,"園芸師",50,80,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"サイプレス原木"
-540,False,"採掘師",50,50,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"黒石灰岩"
-541,False,"採掘師",50,90,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"バジリスクの初卵"
-542,False,"園芸師",50,90,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ローズマリー"
-543,False,"採掘師",50,55,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"グレガリアスワーム"
-544,False,"園芸師",50,55,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"マズラヤの野草"
-545,False,"採掘師",53,130,"RetainerTaskParameter#130",1,60,154200,0,72,0,362,0,"精霊銀鉱"
-546,False,"採掘師",55,136,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"チタン鉱"
-547,False,"採掘師",58,145,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"硬銀鉱"
-548,False,"園芸師",53,130,"RetainerTaskParameter#130",1,60,154200,0,72,0,362,0,"サイクロプスオニオン"
-549,False,"園芸師",55,136,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"ダークマロン"
-550,False,"園芸師",55,136,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"エメラルドビーン"
-551,False,"園芸師",58,145,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"バーチ原木"
-552,True,"ファイター ソーサラー",60,0,"RetainerTaskParameter#1",2,1080,1109600,160,0,0,0,0,"探索依頼：平地 G19"
-553,True,"採掘師",60,0,"RetainerTaskParameter#1",2,1080,1109600,0,72,0,486,0,"探索依頼：山岳 G19"
-554,True,"園芸師",60,0,"RetainerTaskParameter#1",2,1080,1109600,0,72,0,486,0,"探索依頼：森林 G19"
-555,True,"漁師",60,0,"RetainerTaskParameter#1",2,1080,1109600,0,72,0,393,0,"探索依頼：水辺 G19"
-556,False,"採掘師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"金砂"
-557,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"ツリートード"
-558,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"ローランドグレープの種"
-559,False,"園芸師",11,11,"RetainerTaskParameter#11",1,60,7400,0,72,0,40,0,"ガーリックの種球根"
-560,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"バッファロービーン"
-561,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"ワイルドオニオンの種球根"
-562,False,"園芸師",12,12,"RetainerTaskParameter#12",1,60,10200,0,72,0,41,0,"ラベンダーの種"
-563,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"クルザスカロットの種"
-564,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"ラノシアレタスの種"
-565,False,"園芸師",13,13,"RetainerTaskParameter#13",1,60,10200,0,72,0,43,0,"オリーヴの種"
-566,False,"園芸師",14,14,"RetainerTaskParameter#14",1,60,13100,0,72,0,44,0,"チェスナット"
-567,False,"園芸師",14,14,"RetainerTaskParameter#14",1,60,13100,0,72,0,44,0,"ブラックペッパーの種"
-568,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ゼーメルトマト"
-569,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ヴァンパイアプラント"
-570,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ハニーレモン"
-571,False,"園芸師",50,51,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"パイナップル"
-572,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"アプリコット"
-573,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ラノシアリーキ"
-574,False,"園芸師",50,55,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"無属性クリスタル"
-575,False,"採掘師",50,55,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"無属性クリスタル"
-576,False,"園芸師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ダークマタークラスター"
-577,False,"採掘師",50,70,"RetainerTaskParameter#50",1,60,122000,0,72,0,149,0,"ダークマタークラスター"
-578,True,"ファイター ソーサラー",61,0,"RetainerTaskParameter#1",2,1080,1109700,235,0,0,0,0,"探索依頼：平地 G20"
-579,True,"採掘師",61,0,"RetainerTaskParameter#1",2,1080,1109700,0,72,0,700,0,"探索依頼：山岳 G20"
-580,True,"園芸師",61,0,"RetainerTaskParameter#1",2,1080,1109700,0,72,0,700,0,"探索依頼：森林 G20"
-581,True,"漁師",61,0,"RetainerTaskParameter#1",2,1080,1109700,0,72,0,560,0,"探索依頼：水辺 G20"
-582,True,"ファイター ソーサラー",65,0,"RetainerTaskParameter#1",2,1080,1133300,256,0,0,0,0,"探索依頼：平地 G21"
-583,True,"採掘師",65,0,"RetainerTaskParameter#1",2,1080,1133300,0,72,0,739,0,"探索依頼：山岳 G21"
-584,True,"園芸師",65,0,"RetainerTaskParameter#1",2,1080,1133300,0,72,0,739,0,"探索依頼：森林 G21"
-585,True,"漁師",65,0,"RetainerTaskParameter#1",2,1080,1133300,0,72,0,591,0,"探索依頼：水辺 G21"
-586,False,"採掘師",60,0,"RetainerTaskParameter#150",1,60,251000,0,72,0,405,0,"アダマン鉱"
-587,False,"採掘師",50,0,"RetainerTaskParameter#80",1,60,122000,0,72,0,149,0,"黄銅鉱"
-588,False,"採掘師",51,0,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"黄鉄鉱"
-589,False,"採掘師",52,0,"RetainerTaskParameter#125",1,60,154200,0,72,0,314,0,"イエロークォーツ"
-590,False,"採掘師",53,0,"RetainerTaskParameter#130",1,60,154200,0,72,0,362,0,"輝銅鉱"
-591,False,"採掘師",54,0,"RetainerTaskParameter#133",1,60,186000,0,72,0,363,0,"褐鉄鉱"
-592,False,"採掘師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"グリーンクォーツ"
-593,False,"採掘師",56,0,"RetainerTaskParameter#139",1,60,216800,0,72,0,389,0,"アバラシア岩塩"
-594,False,"採掘師",57,0,"RetainerTaskParameter#142",1,60,216800,0,72,0,392,0,"赤鉄鉱"
-595,False,"採掘師",58,0,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"レッドクォーツ"
-596,False,"採掘師",59,0,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"赤銅鉱"
-597,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"皇金鉱"
-598,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"金雲母"
-599,False,"採掘師",60,0,"RetainerTaskParameter#175",1,60,251000,0,72,0,602,0,"レッドアルメン"
-600,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"アストラルグラベル"
-601,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"バイオレットクォーツ"
-602,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"ブルークォーツ"
-603,False,"園芸師",60,0,"RetainerTaskParameter#150",1,60,251000,0,72,0,405,0,"カベイジの野菜"
-604,False,"園芸師",50,0,"RetainerTaskParameter#80",1,60,122000,0,72,0,149,0,"オールドワールドフィグ"
-605,False,"園芸師",51,0,"RetainerTaskParameter#120",1,60,122000,0,72,0,311,0,"ポルチーニ"
-606,False,"園芸師",52,0,"RetainerTaskParameter#125",1,60,154200,0,72,0,314,0,"プチキャベツ"
-607,False,"園芸師",53,0,"RetainerTaskParameter#130",1,60,154200,0,72,0,362,0,"クルザス茶葉"
-608,False,"園芸師",54,0,"RetainerTaskParameter#133",1,60,186000,0,72,0,363,0,"ドラヴァニアミスルトゥ"
-609,False,"園芸師",55,0,"RetainerTaskParameter#136",1,60,186000,0,72,0,388,0,"チャイブ"
-610,False,"園芸師",56,0,"RetainerTaskParameter#139",1,60,216800,0,72,0,389,0,"ヘヴンズドレモン"
-611,False,"園芸師",58,0,"RetainerTaskParameter#145",1,60,247100,0,72,0,396,0,"アバラシアミスルトゥ"
-612,False,"園芸師",57,0,"RetainerTaskParameter#142",1,60,216800,0,72,0,392,0,"クラウドバナナ"
-613,False,"園芸師",59,0,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"モリーユ"
-614,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"アストラルフラワー"
-615,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"ワットル樹皮"
-616,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"スイートアーモンド"
-617,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"バニラビーンズ"
-618,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"ドラヴァニアパプリカ"
-619,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"スナーブルベリー"
-620,False,"園芸師",50,0,"RetainerTaskParameter#80",1,60,122000,0,72,0,149,0,"オールドワールドフィグの種"
-621,False,"園芸師",52,0,"RetainerTaskParameter#125",1,60,154200,0,72,0,314,0,"プチキャベツの種"
-622,False,"園芸師",53,0,"RetainerTaskParameter#130",1,60,154200,0,72,0,362,0,"クルザス茶樹の種"
-623,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"雪綿"
-624,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"淡雪綿"
-625,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"カンファー原木"
-626,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"カンファーの枝"
-627,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"カンファー古木"
-628,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"光霊銀砂"
-629,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"菱亜鉛鉱"
-630,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"枯角"
-631,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"メテオライト"
-632,False,"園芸師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"樹液結晶"
-633,False,"園芸師",20,0,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"火晶草の種"
-634,False,"園芸師",20,0,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"氷晶草の種"
-635,False,"園芸師",20,0,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"風晶草の種"
-636,False,"園芸師",20,0,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"土晶草の種"
-637,False,"園芸師",20,0,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"雷晶草の種"
-638,False,"園芸師",20,0,"RetainerTaskParameter#20",1,60,24900,0,72,0,65,0,"水晶草の種"
-639,False,"園芸師",60,0,"RetainerTaskParameter#200",1,60,251000,0,72,0,644,0,"チーク原木"
-640,False,"園芸師",60,0,"RetainerTaskParameter#200",1,60,251000,0,72,0,644,0,"星綿"
-641,False,"園芸師",60,0,"RetainerTaskParameter#200",1,60,251000,0,72,0,644,0,"ブラウンマッシュルーム"
-642,False,"園芸師",60,0,"RetainerTaskParameter#200",1,60,251000,0,72,0,644,0,"ノーブルセージ"
-643,False,"採掘師",60,0,"RetainerTaskParameter#200",1,60,251000,0,72,0,644,0,"重石華"
-644,False,"採掘師",60,0,"RetainerTaskParameter#200",1,60,251000,0,72,0,644,0,"輝金鉱"
-645,False,"採掘師",60,0,"RetainerTaskParameter#200",1,60,251000,0,72,0,644,0,"沸石"
-646,False,"採掘師",60,0,"RetainerTaskParameter#190",1,60,251000,0,72,0,644,0,"ギラバニアアルメン"
-647,False,"採掘師",60,0,"RetainerTaskParameter#190",1,60,251000,0,72,0,644,0,"トリフェーン原石"
-648,False,"採掘師",61,0,"RetainerTaskParameter#205",1,60,251000,0,72,0,700,0,"ギラバニア鉱泉水"
-649,False,"採掘師",62,0,"RetainerTaskParameter#210",1,60,261500,0,72,0,714,0,"カイヤナイト原石"
-650,False,"採掘師",63,0,"RetainerTaskParameter#215",1,60,261500,0,72,0,728,0,"魔銅鉱"
-651,False,"採掘師",64,0,"RetainerTaskParameter#220",1,60,262000,0,72,0,734,0,"岩清水"
-652,False,"採掘師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"スタースピネル原石"
-653,False,"採掘師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"餅鉄"
-654,False,"採掘師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"アズライト原石"
-655,False,"採掘師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"翠銀鉱"
-656,False,"採掘師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"インペリアルジェード原石"
-657,False,"採掘師",70,0,"RetainerTaskParameter#290",1,60,301800,0,72,0,805,0,"輝水鉛鉱"
-658,False,"採掘師",70,0,"RetainerTaskParameter#290",1,60,301800,0,72,0,805,0,"ロードナイト原石"
-659,False,"採掘師",61,0,"RetainerTaskParameter#205",1,60,251000,0,72,0,700,0,"珪岩"
-660,False,"採掘師",61,0,"RetainerTaskParameter#205",1,60,251000,0,72,0,700,0,"魔銅砂"
-661,False,"採掘師",62,0,"RetainerTaskParameter#210",1,60,261500,0,72,0,714,0,"粘板岩"
-662,False,"採掘師",63,0,"RetainerTaskParameter#215",1,60,261500,0,72,0,728,0,"珪藻土"
-663,False,"採掘師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"翠銀砂"
-664,False,"採掘師",67,0,"RetainerTaskParameter#245",1,60,265800,0,72,0,759,0,"真砂砂鉄"
-665,False,"採掘師",69,0,"RetainerTaskParameter#275",1,60,283300,0,72,0,790,0,"清金砂"
-666,False,"採掘師",69,0,"RetainerTaskParameter#275",1,60,283300,0,72,0,790,0,"アラミゴ塩"
-667,False,"園芸師",61,0,"RetainerTaskParameter#205",1,60,251000,0,72,0,700,0,"ビーチの枝"
-668,False,"園芸師",61,0,"RetainerTaskParameter#205",1,60,251000,0,72,0,700,0,"ロークワット"
-669,False,"園芸師",61,0,"RetainerTaskParameter#205",1,60,251000,0,72,0,700,0,"ビーチ原木"
-670,False,"園芸師",63,0,"RetainerTaskParameter#215",1,60,261500,0,72,0,728,0,"ラーチ原木"
-671,False,"園芸師",64,0,"RetainerTaskParameter#220",1,60,262000,0,72,0,734,0,"松脂"
-672,False,"園芸師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"パイン原木"
-673,False,"園芸師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"タケノコ"
-674,False,"園芸師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"椎茸"
-675,False,"園芸師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"パーシモンリーフ"
-676,False,"園芸師",67,0,"RetainerTaskParameter#245",1,60,265800,0,72,0,759,0,"パーシモン"
-677,False,"園芸師",67,0,"RetainerTaskParameter#245",1,60,265800,0,72,0,759,0,"パーシモン原木"
-678,False,"園芸師",70,0,"RetainerTaskParameter#290",1,60,301800,0,72,0,805,0,"ゼルコバ原木"
-679,False,"園芸師",70,0,"RetainerTaskParameter#290",1,60,301800,0,72,0,805,0,"オサードプラム"
-680,False,"園芸師",60,0,"RetainerTaskParameter#190",1,60,251000,0,72,0,644,0,"高原小麦"
-681,False,"園芸師",60,0,"RetainerTaskParameter#190",1,60,251000,0,72,0,644,0,"赤麻"
-682,False,"園芸師",62,0,"RetainerTaskParameter#210",1,60,261500,0,72,0,714,0,"蕎麦の実"
-683,False,"園芸師",62,0,"RetainerTaskParameter#210",1,60,261500,0,72,0,714,0,"マウンテンポポト"
-684,False,"園芸師",62,0,"RetainerTaskParameter#210",1,60,261500,0,72,0,714,0,"玉藻"
-685,False,"園芸師",63,0,"RetainerTaskParameter#215",1,60,261500,0,72,0,728,0,"ホーリーバジル"
-686,False,"園芸師",63,0,"RetainerTaskParameter#215",1,60,261500,0,72,0,728,0,"紅玉綿花"
-687,False,"園芸師",64,0,"RetainerTaskParameter#220",1,60,262000,0,72,0,734,0,"シュガービート"
-688,False,"園芸師",64,0,"RetainerTaskParameter#220",1,60,262000,0,72,0,734,0,"グリーンリーキ"
-689,False,"園芸師",64,0,"RetainerTaskParameter#220",1,60,262000,0,72,0,734,0,"大豆"
-690,False,"園芸師",64,0,"RetainerTaskParameter#220",1,60,262000,0,72,0,734,0,"アマノリ"
-691,False,"園芸師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"葛根"
-692,False,"園芸師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"馬芹"
-693,False,"園芸師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,739,0,"葛のつる"
-694,False,"園芸師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"大根"
-695,False,"園芸師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"ギラバニアカロット"
-696,False,"園芸師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"蓮根"
-697,False,"園芸師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"サンキャベツ"
-698,False,"園芸師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,744,0,"フェンネル"
-699,False,"園芸師",67,0,"RetainerTaskParameter#245",1,60,265800,0,72,0,759,0,"紅玉昆布"
-700,False,"園芸師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"ジャムメルジンジャー"
-701,False,"園芸師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"ヤンサセリ"
-702,False,"園芸師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"アリッサム"
-703,False,"園芸師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"御形"
-704,False,"園芸師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"チックウィード"
-705,False,"園芸師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,775,0,"ニップルワート"
-706,False,"園芸師",69,0,"RetainerTaskParameter#275",1,60,283300,0,72,0,790,0,"ドマ茄子"
-707,False,"園芸師",69,0,"RetainerTaskParameter#275",1,60,283300,0,72,0,790,0,"玉繭"
-708,False,"園芸師",70,0,"RetainerTaskParameter#300",1,60,301800,0,72,0,875,0,"ハロードバジル"
-709,False,"ファイター ソーサラー",61,0,"RetainerTaskParameter#255",1,60,251000,235,0,0,0,0,"ガガナの卵"
-710,False,"ファイター ソーサラー",61,0,"RetainerTaskParameter#255",1,60,251000,235,0,0,0,0,"ムードスードの角"
-711,False,"ファイター ソーサラー",62,0,"RetainerTaskParameter#265",1,60,261500,245,0,0,0,0,"鱗粉"
-712,False,"ファイター ソーサラー",62,0,"RetainerTaskParameter#265",1,60,261500,245,0,0,0,0,"サイカブトの甲殻"
-713,False,"ファイター ソーサラー",62,0,"RetainerTaskParameter#265",1,60,261500,245,0,0,0,0,"ガガナの粗皮"
-714,False,"ファイター ソーサラー",63,0,"RetainerTaskParameter#270",1,60,261500,250,0,0,0,0,"ベニツノの笹身"
-715,False,"ファイター ソーサラー",63,0,"RetainerTaskParameter#270",1,60,261500,250,0,0,0,0,"ハリセンボムの棘"
-716,False,"ファイター ソーサラー",64,0,"RetainerTaskParameter#273",1,60,262000,253,0,0,0,0,"ギュウキの粗皮"
-717,False,"ファイター ソーサラー",65,0,"RetainerTaskParameter#276",1,60,262000,256,0,0,0,0,"ケナガウシの角"
-718,False,"ファイター ソーサラー",66,0,"RetainerTaskParameter#279",1,60,265800,259,0,0,0,0,"ケナガウシの肩肉"
-719,False,"ファイター ソーサラー",66,0,"RetainerTaskParameter#279",1,60,265800,259,0,0,0,0,"ステップミルク"
-720,False,"ファイター ソーサラー",66,0,"RetainerTaskParameter#279",1,60,265800,259,0,0,0,0,"タイガーの粗皮"
-721,False,"ファイター ソーサラー",67,0,"RetainerTaskParameter#282",1,60,265800,262,0,0,0,0,"ガゼルの角"
-722,False,"ファイター ソーサラー",67,0,"RetainerTaskParameter#282",1,60,265800,262,0,0,0,0,"ハルガイのタテガミ"
-723,False,"ファイター ソーサラー",68,0,"RetainerTaskParameter#285",1,60,283300,265,0,0,0,0,"マンザシリの毛"
-724,False,"ファイター ソーサラー",68,0,"RetainerTaskParameter#285",1,60,283300,265,0,0,0,0,"マーリドの粗皮"
-725,False,"ファイター ソーサラー",69,0,"RetainerTaskParameter#288",1,60,283300,268,0,0,0,0,"ジャムメルの肉"
-726,False,"ファイター ソーサラー",69,0,"RetainerTaskParameter#288",1,60,283300,268,0,0,0,0,"玉繭"
-727,False,"ファイター ソーサラー",70,0,"RetainerTaskParameter#290",1,60,301800,270,0,0,0,0,"ガゼルの粗皮"
-728,False,"ファイター ソーサラー",70,0,"RetainerTaskParameter#290",1,60,301800,270,0,0,0,0,"トゥルーグリフィンの粗皮"
-729,False,"漁師",61,0,"RetainerTaskParameter#205",1,60,251000,0,72,0,560,0,"ハイランドパーチ"
-730,False,"漁師",62,0,"RetainerTaskParameter#210",1,60,261500,0,72,0,571,0,"ヒースチャー"
-731,False,"漁師",63,0,"RetainerTaskParameter#215",1,60,261500,0,72,0,582,0,"ナマコ"
-732,False,"漁師",64,0,"RetainerTaskParameter#220",1,60,262000,0,72,0,587,0,"モクズガニ"
-733,False,"漁師",65,0,"RetainerTaskParameter#225",1,60,262000,0,72,0,591,0,"天幕魚"
-734,False,"漁師",66,0,"RetainerTaskParameter#230",1,60,265800,0,72,0,595,0,"ウシガエル"
-735,False,"漁師",67,0,"RetainerTaskParameter#245",1,60,265800,0,72,0,607,0,"磯の灯篭"
-736,False,"漁師",68,0,"RetainerTaskParameter#260",1,60,283300,0,72,0,620,0,"具足海老"
-737,False,"漁師",69,0,"RetainerTaskParameter#275",1,60,283300,0,72,0,632,0,"コロモダコ"
-738,False,"漁師",70,0,"RetainerTaskParameter#290",1,60,301800,0,72,0,644,0,"イシダイ"
-739,False,"採掘師",60,0,"RetainerTaskParameter#180",1,60,251000,0,72,0,602,0,"光霊銀鉱"
-740,True,"ファイター ソーサラー",70,0,"RetainerTaskParameter#1",2,1080,1169200,270,0,0,0,0,"探索依頼：平地 G22"
-741,True,"採掘師",70,0,"RetainerTaskParameter#1",2,1080,1169200,0,72,0,805,0,"探索依頼：山岳 G22"
-742,True,"園芸師",70,0,"RetainerTaskParameter#1",2,1080,1169200,0,72,0,805,0,"探索依頼：森林 G22"
-743,True,"漁師",70,0,"RetainerTaskParameter#1",2,1080,1169200,0,72,0,644,0,"探索依頼：水辺 G22"
-744,False,"採掘師",70,300,"RetainerTaskParameter#300",1,60,301800,0,72,0,875,0,"清金鉱"
-745,False,"採掘師",70,300,"RetainerTaskParameter#300",1,60,301800,0,72,0,875,0,"クロマイト"
-746,False,"園芸師",70,300,"RetainerTaskParameter#300",1,60,301800,0,72,0,875,0,"トレヤ原木"
-747,False,"園芸師",70,300,"RetainerTaskParameter#300",1,60,301800,0,72,0,875,0,"藍麻"
-748,False,"採掘師",70,300,"RetainerTaskParameter#300",1,60,301800,0,72,0,875,0,"ギラバニア清水"
-749,False,"園芸師",70,300,"RetainerTaskParameter#300",1,60,301800,0,72,0,875,0,"アジム綿花"
-750,False,"漁師",70,300,"RetainerTaskParameter#300",1,60,301800,0,72,0,700,0,"ザラビクニン"
-751,False,"採掘師",70,320,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"夜鉄鉱"
-752,False,"採掘師",70,320,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"清銀鉱"
-753,False,"園芸師",70,320,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"ブラックウィロー原木"
-754,False,"園芸師",70,320,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"真麻"
-755,False,"漁師",70,320,"RetainerTaskParameter#320",1,60,301800,0,72,0,812,0,"ウスギヌダコ"
-756,False,"採掘師",70,320,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"鷹目石"
-757,False,"園芸師",70,320,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"老木樹液塊"
-758,False,"採掘師",70,350,"RetainerTaskParameter#350",1,60,301800,0,72,0,1015,0,"アジム湧水"
-759,False,"採掘師",70,350,"RetainerTaskParameter#350",1,60,301800,0,72,0,1155,0,"岩鉄"
-760,False,"採掘師",70,355,"RetainerTaskParameter#355",1,60,301800,0,72,0,1155,0,"常輝鉱"
-761,False,"園芸師",70,370,"RetainerTaskParameter#370",1,60,301800,0,72,0,1155,0,"ウルンダイ原木"
-762,False,"園芸師",70,370,"RetainerTaskParameter#370",1,60,301800,0,72,0,1155,0,"延夏綿"
-763,True,"ファイター ソーサラー",71,0,"RetainerTaskParameter#1",2,1080,1412800,370,0,0,0,0,"探索依頼：平地 G23"
-764,True,"採掘師",71,0,"RetainerTaskParameter#1",2,1080,1412800,0,72,0,1190,0,"探索依頼：山岳 G23"
-765,True,"園芸師",71,0,"RetainerTaskParameter#1",2,1080,1412800,0,72,0,1190,0,"探索依頼：森林 G23"
-766,True,"漁師",71,0,"RetainerTaskParameter#1",2,1080,1412800,0,72,0,952,0,"探索依頼：水辺 G23"
-767,True,"ファイター ソーサラー",75,0,"RetainerTaskParameter#1",2,1080,2102400,386,0,0,0,0,"探索依頼：平地 G24"
-768,True,"採掘師",75,0,"RetainerTaskParameter#1",2,1080,2102400,0,72,0,1294,0,"探索依頼：山岳 G24"
-769,True,"園芸師",75,0,"RetainerTaskParameter#1",2,1080,2102400,0,72,0,1294,0,"探索依頼：森林 G24"
-770,True,"漁師",75,0,"RetainerTaskParameter#1",2,1080,2102400,0,72,0,1035,0,"探索依頼：水辺 G24"
-771,False,"ファイター ソーサラー",70,0,"RetainerTaskParameter#290",1,60,301800,270,0,0,0,0,"アイランド・ウルフの牙"
-772,False,"ファイター ソーサラー",71,0,"RetainerTaskParameter#390",1,60,301800,370,0,0,0,0,"スミロドンの粗皮"
-773,False,"ファイター ソーサラー",71,0,"RetainerTaskParameter#390",1,60,301800,370,0,0,0,0,"ホップトラップの葉"
-774,False,"ファイター ソーサラー",71,0,"RetainerTaskParameter#390",1,60,301800,370,0,0,0,0,"シルクモスの鱗粉"
-775,False,"ファイター ソーサラー",71,0,"RetainerTaskParameter#390",1,60,301800,370,0,0,0,0,"レイルの笹身"
-776,False,"ファイター ソーサラー",72,0,"RetainerTaskParameter#400",1,60,332400,375,0,0,0,0,"グリーングライダーの粗皮"
-777,False,"ファイター ソーサラー",73,0,"RetainerTaskParameter#400",1,60,332400,380,0,0,0,0,"ロリキートの羽毛"
-778,False,"ファイター ソーサラー",73,0,"RetainerTaskParameter#400",1,60,332400,380,0,0,0,0,"ロリキートの卵"
-779,False,"ファイター ソーサラー",74,0,"RetainerTaskParameter#406",1,60,377100,383,0,0,0,0,"アトロシラプトルの粗皮"
-780,False,"ファイター ソーサラー",75,0,"RetainerTaskParameter#406",1,60,377100,386,0,0,0,0,"ヴァンパイアカップのつる"
-781,False,"ファイター ソーサラー",75,0,"RetainerTaskParameter#406",1,60,377100,386,0,0,0,0,"ヴァンパイアヴァインの樹液"
-782,False,"ファイター ソーサラー",76,0,"RetainerTaskParameter#409",1,60,437700,389,0,0,0,0,"オヴィムの肉"
-783,False,"ファイター ソーサラー",77,0,"RetainerTaskParameter#412",1,60,437700,392,0,0,0,0,"ゾヌールの粗皮"
-784,False,"ファイター ソーサラー",77,0,"RetainerTaskParameter#412",1,60,437700,392,0,0,0,0,"オヴィムの獣毛"
-785,False,"ファイター ソーサラー",78,0,"RetainerTaskParameter#415",1,60,525600,395,0,0,0,0,"シースワローの粗皮"
-786,False,"ファイター ソーサラー",79,0,"RetainerTaskParameter#418",1,60,525600,398,0,0,0,0,"カブスの肉"
-787,False,"ファイター ソーサラー",79,0,"RetainerTaskParameter#418",1,60,525600,398,0,0,0,0,"ヒドロゾアの傘"
-788,False,"採掘師",70,0,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"ヘマタイト原石"
-789,False,"採掘師",72,0,"RetainerTaskParameter#350",1,60,332400,0,72,0,1225,0,"ダイアスポア原石"
-790,False,"採掘師",72,0,"RetainerTaskParameter#350",1,60,332400,0,72,0,1225,0,"硬金鉱"
-791,False,"採掘師",73,0,"RetainerTaskParameter#355",1,60,332400,0,72,0,1235,0,"高地天然水"
-792,False,"採掘師",74,0,"RetainerTaskParameter#370",1,60,377100,0,72,0,1260,0,"ラズライト原石"
-793,False,"採掘師",74,0,"RetainerTaskParameter#370",1,60,377100,0,72,0,1260,0,"霊青岩"
-794,False,"採掘師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"強ソーダ水"
-795,False,"採掘師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"トリプライト原石"
-796,False,"採掘師",77,0,"RetainerTaskParameter#400",1,60,437700,0,72,0,1360,0,"賢銅鉱"
-797,False,"採掘師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1393,0,"地下天然水"
-798,False,"採掘師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1393,0,"ペタライト原石"
-799,False,"採掘師",80,0,"RetainerTaskParameter#430",1,60,599200,0,72,0,1459,0,"闇霊銀鉱"
-800,False,"採掘師",70,0,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"イエローアルメン"
-801,False,"採掘師",70,0,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"粗硝石"
-802,False,"採掘師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"硬泥岩"
-803,False,"採掘師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"硬金砂"
-804,False,"採掘師",75,0,"RetainerTaskParameter#380",1,60,377100,0,72,0,1294,0,"魔銀砂"
-805,False,"採掘師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"凝灰岩"
-806,False,"採掘師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"賢銅砂"
-807,False,"採掘師",79,0,"RetainerTaskParameter#420",1,60,525600,0,72,0,1426,0,"闇霊銀砂"
-808,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"フラントーヨ"
-809,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"ピクシーアップル"
-810,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"ホワイトオーク原木"
-811,False,"園芸師",72,0,"RetainerTaskParameter#350",1,60,332400,0,72,0,1225,0,"ミラクルアップル原木"
-812,False,"園芸師",74,0,"RetainerTaskParameter#370",1,60,377100,0,72,0,1260,0,"ホワイトアッシュ原木"
-813,False,"園芸師",75,0,"RetainerTaskParameter#380",1,60,377100,0,72,0,1294,0,"オオミツバチの巣"
-814,False,"園芸師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"アンバークローヴ"
-815,False,"園芸師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"サンドチーク原木"
-816,False,"園芸師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1393,0,"ハーコット"
-817,False,"園芸師",80,0,"RetainerTaskParameter#430",1,60,599200,0,72,0,1459,0,"リグナムバイタ原木"
-818,False,"園芸師",70,0,"RetainerTaskParameter#320",1,60,301800,0,72,0,1015,0,"ダークペッパー"
-819,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"ブラッドトマト"
-820,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"白亜麻"
-821,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"パープルカロット"
-822,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"カーリーパセリ"
-823,False,"園芸師",72,0,"RetainerTaskParameter#350",1,60,332400,0,72,0,1225,0,"ブロードビーン"
-824,False,"園芸師",72,0,"RetainerTaskParameter#350",1,60,332400,0,72,0,1225,0,"ガーデンビート"
-825,False,"園芸師",72,0,"RetainerTaskParameter#350",1,60,332400,0,72,0,1225,0,"虹マユ"
-826,False,"園芸師",73,0,"RetainerTaskParameter#355",1,60,332400,0,72,0,1235,0,"アップランド小麦"
-827,False,"園芸師",74,0,"RetainerTaskParameter#370",1,60,377100,0,72,0,1260,0,"ペパーミント"
-828,False,"園芸師",74,0,"RetainerTaskParameter#370",1,60,377100,0,72,0,1260,0,"妖綿花"
-829,False,"園芸師",75,0,"RetainerTaskParameter#380",1,60,377100,0,72,0,1294,0,"クリームマッシュルーム"
-830,False,"園芸師",75,0,"RetainerTaskParameter#380",1,60,377100,0,72,0,1294,0,"ロイヤルグレープ"
-831,False,"園芸師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"ラセットポポト"
-832,False,"園芸師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1327,0,"スイートアリッサム"
-833,False,"園芸師",77,0,"RetainerTaskParameter#400",1,60,437700,0,72,0,1360,0,"ピナータラベンダー"
-834,False,"園芸師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1393,0,"コーヒービーン"
-835,False,"園芸師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1393,0,"ボンバライス"
-836,False,"園芸師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1393,0,"ライムバジル"
-837,False,"園芸師",79,0,"RetainerTaskParameter#420",1,60,525600,0,72,0,1426,0,"タイガーリリー"
-838,False,"園芸師",79,0,"RetainerTaskParameter#420",1,60,525600,0,72,0,1426,0,"ライトガーベラ"
-839,False,"園芸師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1393,0,"ミストスピナッチ"
-840,False,"園芸師",79,0,"RetainerTaskParameter#420",1,60,525600,0,72,0,1426,0,"ドワーフ綿花"
-841,False,"漁師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,952,0,"サンドエッグ"
-842,False,"漁師",72,0,"RetainerTaskParameter#350",1,60,332400,0,72,0,980,0,"スピアヘッド"
-843,False,"漁師",73,0,"RetainerTaskParameter#355",1,60,332400,0,72,0,988,0,"チェリーヘリング"
-844,False,"漁師",74,0,"RetainerTaskParameter#370",1,60,377100,0,72,0,1008,0,"レモンフィッシュ"
-845,False,"漁師",77,0,"RetainerTaskParameter#400",1,60,437700,0,72,0,1088,0,"ブラックトライスター"
-846,False,"漁師",74,0,"RetainerTaskParameter#370",1,60,377100,0,72,0,1008,0,"プチクピド"
-847,False,"漁師",76,0,"RetainerTaskParameter#390",1,60,437700,0,72,0,1061,0,"グルマンクラブ"
-848,False,"漁師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1114,0,"メガピラニア"
-849,False,"漁師",78,0,"RetainerTaskParameter#410",1,60,525600,0,72,0,1114,0,"ローズシュリンプ"
-850,False,"漁師",79,0,"RetainerTaskParameter#420",1,60,525600,0,72,0,1140,0,"エディブルオイスター"
-851,True,"ファイター ソーサラー",80,0,"RetainerTaskParameter#1",2,1080,2396800,400,0,0,0,0,"探索依頼：平地 G25"
-852,True,"採掘師",80,0,"RetainerTaskParameter#1",2,1080,2396800,0,72,0,1459,0,"探索依頼：山岳 G25"
-853,True,"園芸師",80,0,"RetainerTaskParameter#1",2,1080,2396800,0,72,0,1459,0,"探索依頼：森林 G25"
-854,True,"漁師",80,0,"RetainerTaskParameter#1",2,1080,2396800,0,72,0,1167,0,"探索依頼：水辺 G25"
-855,False,"採掘師",80,430,"RetainerTaskParameter#430",1,60,599200,0,72,0,1459,0,"オニキス原石"
-856,False,"採掘師",80,440,"RetainerTaskParameter#440",1,60,599200,0,72,0,1528,0,"虹結晶"
-857,False,"採掘師",80,440,"RetainerTaskParameter#440",1,60,599200,0,72,0,1528,0,"タングステン鉱"
-858,False,"園芸師",80,430,"RetainerTaskParameter#430",1,60,599200,0,72,0,1459,0,"リトルレモン"
-859,False,"園芸師",80,440,"RetainerTaskParameter#440",1,60,599200,0,72,0,1528,0,"サンダルウッド原木"
-860,False,"園芸師",80,440,"RetainerTaskParameter#440",1,60,599200,0,72,0,1528,0,"泡マユ"
-861,False,"採掘師",80,441,"RetainerTaskParameter#440",1,60,599200,0,72,0,1528,0,"ベリリウム鉱"
-862,False,"園芸師",80,441,"RetainerTaskParameter#440",1,60,599200,0,72,0,1528,0,"サンダルウッド樹液"
-863,False,"漁師",80,0,"RetainerTaskParameter#440",1,60,599200,0,72,0,1222,0,"ムセル"
-864,False,"採掘師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"輝コバルト鉱"
-865,False,"採掘師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"プルプラシェルチップ"
-866,False,"採掘師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"アッシュアルメン"
-867,False,"園芸師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"メルバウ原木"
-868,False,"園芸師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"紫根"
-869,False,"園芸師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"レガリスゼンマイ"
-870,False,"採掘師",80,461,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"金錫鉱"
-871,False,"園芸師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1584,0,"テンダーイノンド"
-872,False,"漁師",80,460,"RetainerTaskParameter#460",1,60,599200,0,72,0,1267,0,"ブルークラブ"
-873,False,"採掘師",59,0,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"テクタイト"
-874,False,"採掘師",60,0,"RetainerTaskParameter#150",1,60,251000,0,72,0,405,0,"イブニングジェード"
-875,False,"採掘師",56,0,"RetainerTaskParameter#139",1,60,216800,0,72,0,389,0,"古竜骨片"
-876,False,"園芸師",60,0,"RetainerTaskParameter#150",1,60,251000,0,72,0,405,0,"ペリウィンクル"
-877,False,"園芸師",59,0,"RetainerTaskParameter#148",1,60,247100,0,72,0,401,0,"クラウドマッシュルーム"
-878,False,"園芸師",56,0,"RetainerTaskParameter#139",1,60,216800,0,72,0,389,0,"スカイウィドー"
-879,False,"園芸師",71,0,"RetainerTaskParameter#345",1,60,301800,0,72,0,1190,0,"ホワイトオークの枝"
-880,True,"ファイター ソーサラー",81,0,"RetainerTaskParameter#1",2,1080,3179200,500,0,0,0,0,"探索依頼：平地 G26"
-881,True,"ファイター ソーサラー",85,0,"RetainerTaskParameter#1",2,1080,4335200,516,0,0,0,0,"探索依頼：平地 G27"
-882,True,"採掘師",81,0,"RetainerTaskParameter#1",2,1080,3179200,0,72,0,1815,0,"探索依頼：山岳 G26"
-883,True,"採掘師",85,0,"RetainerTaskParameter#1",2,1080,4335200,0,72,0,2027,0,"探索依頼：山岳 G27"
-884,True,"園芸師",81,0,"RetainerTaskParameter#1",2,1080,3179200,0,72,0,1815,0,"探索依頼：森林 G26"
-885,True,"園芸師",85,0,"RetainerTaskParameter#1",2,1080,4335200,0,72,0,2027,0,"探索依頼：森林 G27"
-886,True,"漁師",81,0,"RetainerTaskParameter#1",2,1080,3179200,0,72,0,1452,0,"探索依頼：水辺 G26"
-887,True,"漁師",85,0,"RetainerTaskParameter#1",2,1080,4335200,0,72,0,1621,0,"探索依頼：水辺 G27"
-888,False,"園芸師",80,490,"RetainerTaskParameter#490",1,60,599200,0,72,0,1782,0,"シルバービーチ原木"
-889,False,"採掘師",80,490,"RetainerTaskParameter#490",1,60,599200,0,72,0,1782,0,"苦灰石"
-890,False,"採掘師",80,490,"RetainerTaskParameter#490",1,60,599200,0,72,0,1782,0,"白夜結晶"
-891,False,"園芸師",80,490,"RetainerTaskParameter#490",1,60,599200,0,72,0,1782,0,"蒼綿花"
-892,False,"園芸師",80,490,"RetainerTaskParameter#490",1,60,599200,0,72,0,1782,0,"ハードワットル樹皮"
-893,False,"採掘師",80,490,"RetainerTaskParameter#490",1,60,599200,0,72,0,1782,0,"超硬水"
-894,False,"採掘師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"アメトリン原石"
-895,False,"採掘師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"北洋岩塩"
-896,False,"採掘師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"輝翠銀砂"
-897,False,"採掘師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"緑色片岩"
-898,False,"採掘師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1848,0,"輝翠銀鉱"
-899,False,"採掘師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1848,0,"白目鉱"
-900,False,"採掘師",83,0,"RetainerTaskParameter#510",1,60,794800,0,72,0,1914,0,"フリギアンゴールド鉱"
-901,False,"採掘師",84,0,"RetainerTaskParameter#520",1,60,794800,0,72,0,1980,0,"エブラーナアルメン"
-902,False,"採掘師",85,0,"RetainerTaskParameter#527",1,60,828700,0,72,0,2027,0,"蒼鉛鉱"
-903,False,"採掘師",86,0,"RetainerTaskParameter#534",1,60,923100,0,72,0,2073,0,"満俺鉱"
-904,False,"採掘師",86,0,"RetainerTaskParameter#534",1,60,923100,0,72,0,2073,0,"ブルージルコン原石"
-905,False,"採掘師",87,0,"RetainerTaskParameter#540",1,60,952900,0,72,0,2119,0,"鉄雲母"
-906,False,"採掘師",88,0,"RetainerTaskParameter#547",1,60,1045900,0,72,0,2165,0,"天水"
-907,False,"採掘師",89,0,"RetainerTaskParameter#554",1,60,1083800,0,72,0,2211,0,"コンドライト"
-908,False,"採掘師",90,560,"RetainerTaskParameter#560",1,60,1327800,0,72,0,2258,0,"スタークォーツ原石"
-909,False,"園芸師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"ホースチェスナット原木"
-910,False,"園芸師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"黒麻"
-911,False,"園芸師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"黒麦"
-912,False,"園芸師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1815,0,"アイスバーグレタス"
-913,False,"園芸師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1848,0,"パーム原木"
-914,False,"園芸師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1848,0,"パームシロップ"
-915,False,"園芸師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1848,0,"ココナッツ"
-916,False,"園芸師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1848,0,"サベネアンペリラ"
-917,False,"園芸師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1848,0,"サベネアンパプリカ"
-918,False,"園芸師",83,0,"RetainerTaskParameter#510",1,60,794800,0,72,0,1914,0,"キューカンバー"
-919,False,"園芸師",83,0,"RetainerTaskParameter#510",1,60,794800,0,72,0,1914,0,"エブラーナレンティル"
-920,False,"園芸師",84,0,"RetainerTaskParameter#520",1,60,794800,0,72,0,1980,0,"レッドパイン原木"
-921,False,"園芸師",84,0,"RetainerTaskParameter#520",1,60,794800,0,72,0,1980,0,"雪亜麻"
-922,False,"園芸師",84,0,"RetainerTaskParameter#520",1,60,794800,0,72,0,1980,0,"ビーツ"
-923,False,"園芸師",85,0,"RetainerTaskParameter#527",1,60,828700,0,72,0,2027,0,"ハピネスキャロット"
-924,False,"園芸師",86,0,"RetainerTaskParameter#534",1,60,923100,0,72,0,2073,0,"アイアンウッド原木"
-925,False,"園芸師",86,0,"RetainerTaskParameter#534",1,60,923100,0,72,0,2073,0,"紅モコ草"
-926,False,"園芸師",87,0,"RetainerTaskParameter#540",1,60,952900,0,72,0,2119,0,"シューコン"
-927,False,"園芸師",87,0,"RetainerTaskParameter#540",1,60,952900,0,72,0,2119,0,"ジャイアントポポト"
-928,False,"園芸師",88,0,"RetainerTaskParameter#547",1,60,1045900,0,72,0,2165,0,"エルダーナツメグ"
-929,False,"園芸師",88,0,"RetainerTaskParameter#547",1,60,1045900,0,72,0,2165,0,"シデリティス茶葉"
-930,False,"園芸師",89,0,"RetainerTaskParameter#554",1,60,1083800,0,72,0,2211,0,"インテグラル原木"
-931,False,"園芸師",89,0,"RetainerTaskParameter#554",1,60,1083800,0,72,0,2211,0,"カエアン綿"
-932,False,"園芸師",90,560,"RetainerTaskParameter#560",1,60,1327800,0,72,0,2258,0,"エイリアンオニオン"
-933,False,"ファイター ソーサラー",80,0,"RetainerTaskParameter#515",1,60,599200,495,0,0,0,0,"ガジャの粗皮"
-934,False,"ファイター ソーサラー",80,0,"RetainerTaskParameter#515",1,60,599200,495,0,0,0,0,"ハンサの笹身"
-935,False,"ファイター ソーサラー",80,0,"RetainerTaskParameter#515",1,60,599200,495,0,0,0,0,"アームラ"
-936,False,"ファイター ソーサラー",82,0,"RetainerTaskParameter#525",1,60,694200,505,0,0,0,0,"マウンテンチキンの粗皮"
-937,False,"ファイター ソーサラー",82,0,"RetainerTaskParameter#525",1,60,694200,505,0,0,0,0,"アルマスティの毛"
-938,False,"ファイター ソーサラー",84,0,"RetainerTaskParameter#533",1,60,794800,513,0,0,0,0,"サイガの粗皮"
-939,False,"ファイター ソーサラー",82,0,"RetainerTaskParameter#525",1,60,694200,505,0,0,0,0,"オウヴィボスの乳"
-940,False,"ファイター ソーサラー",81,0,"RetainerTaskParameter#520",1,60,694200,500,0,0,0,0,"ヤーコウの肩肉"
-941,False,"ファイター ソーサラー",83,0,"RetainerTaskParameter#530",1,60,794800,510,0,0,0,0,"ルナテンダーの花"
-942,False,"ファイター ソーサラー",84,0,"RetainerTaskParameter#533",1,60,794800,513,0,0,0,0,"ムースの肉"
-943,False,"ファイター ソーサラー",84,0,"RetainerTaskParameter#533",1,60,794800,513,0,0,0,0,"ダイナマイトの灰"
-944,False,"ファイター ソーサラー",86,0,"RetainerTaskParameter#539",1,60,923100,519,0,0,0,0,"クンビーラの粗皮"
-945,False,"ファイター ソーサラー",86,0,"RetainerTaskParameter#539",1,60,923100,519,0,0,0,0,"エッグ・オブ・エルピス"
-946,False,"ファイター ソーサラー",86,0,"RetainerTaskParameter#539",1,60,923100,519,0,0,0,0,"ペタルダの鱗粉"
-947,False,"ファイター ソーサラー",88,0,"RetainerTaskParameter#545",1,60,1045900,525,0,0,0,0,"オピオタウロスの粗皮"
-948,False,"ファイター ソーサラー",88,0,"RetainerTaskParameter#545",1,60,1045900,525,0,0,0,0,"ベルカナの樹液"
-949,False,"ファイター ソーサラー",89,0,"RetainerTaskParameter#548",1,60,1083800,528,0,0,0,0,"デュナミスシャード"
-950,False,"ファイター ソーサラー",86,0,"RetainerTaskParameter#539",1,60,923100,519,0,0,0,0,"ブレスト・オブ・エルピス"
-951,False,"漁師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1452,0,"ノーザンヘリング"
-952,False,"漁師",83,0,"RetainerTaskParameter#510",1,60,794800,0,72,0,1531,0,"イガグリガニ"
-953,False,"漁師",83,0,"RetainerTaskParameter#510",1,60,794800,0,72,0,1531,0,"アイシィガー"
-954,False,"漁師",87,0,"RetainerTaskParameter#540",1,60,952900,0,72,0,1695,0,"ボラ"
-955,False,"漁師",88,0,"RetainerTaskParameter#547",1,60,1045900,0,72,0,1732,0,"シャロウコッド"
-956,False,"漁師",81,0,"RetainerTaskParameter#495",1,60,694200,0,72,0,1452,0,"ベニホシマンジュウガニ"
-957,False,"漁師",82,0,"RetainerTaskParameter#500",1,60,694200,0,72,0,1478,0,"マクロブラキウム・ラー"
-958,False,"漁師",84,0,"RetainerTaskParameter#520",1,60,794800,0,72,0,1584,0,"シロナマコ"
-959,False,"漁師",86,0,"RetainerTaskParameter#534",1,60,923100,0,72,0,1658,0,"不完全菌類987"
-960,False,"漁師",88,0,"RetainerTaskParameter#547",1,60,1045900,0,72,0,1732,0,"ラミーノーズテトラ"
-961,True,"ファイター ソーサラー",90,0,"RetainerTaskParameter#1",2,1080,5311200,530,0,0,0,0,"探索依頼：平地 G28"
-962,True,"採掘師",90,0,"RetainerTaskParameter#1",2,1080,5311200,0,72,0,2258,0,"探索依頼：山岳 G28"
-963,True,"園芸師",90,0,"RetainerTaskParameter#1",2,1080,5311200,0,72,0,2258,0,"探索依頼：森林 G28"
-964,True,"漁師",90,0,"RetainerTaskParameter#1",2,1080,5311200,0,72,0,1806,0,"探索依頼：水辺 G28"
-965,False,"採掘師",90,560,"RetainerTaskParameter#560",1,60,1327800,0,72,0,2258,0,"極硬水"
-966,False,"採掘師",90,570,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"北州苦灰石"
-967,False,"採掘師",90,570,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"ルナアダマン鉱"
-968,False,"採掘師",90,570,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"ロジウム砂"
-969,False,"園芸師",90,560,"RetainerTaskParameter#560",1,60,1327800,0,72,0,2258,0,"天然香辛料"
-970,False,"園芸師",90,570,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"メンピサン原木"
-971,False,"園芸師",90,570,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"金マユ"
-972,False,"園芸師",90,570,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"迷い草"
-973,False,"採掘師",90,580,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"エブラーナダンビュライト原石"
-974,False,"園芸師",90,580,"RetainerTaskParameter#570",1,60,1327800,0,72,0,2327,0,"サベネアンコーン"
-975,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-976,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-977,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-978,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-979,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-980,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-981,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-982,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-983,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-984,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-985,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-986,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-987,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-988,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-989,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-990,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-991,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-992,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-993,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-994,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-995,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-996,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-997,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-998,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-999,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
-1000,False,"",0,0,"RetainerTaskParameter#0",0,0,0,0,0,0,0,0,""
+0,False,0,1,0,1,1,0,0,0,0,0,0,0,0
+1,False,34,1,0,1,1,60,500,0,0,0,0,0,1
+2,False,34,2,0,2,1,60,800,0,0,0,0,0,2
+3,False,34,3,0,3,1,60,800,0,0,0,0,0,3
+4,False,34,4,0,4,1,60,1400,0,0,0,0,0,4
+5,False,34,5,0,5,1,60,1400,0,0,0,0,0,5
+6,False,34,6,0,6,1,60,3000,0,0,0,0,0,6
+7,False,34,7,0,7,1,60,3000,0,0,0,0,0,7
+8,False,34,8,0,8,1,60,5000,0,0,0,0,0,8
+9,False,34,9,0,9,1,60,5000,0,0,0,0,0,9
+10,False,34,10,0,10,1,60,7400,0,0,0,0,0,10
+11,False,34,10,0,10,1,60,7400,0,0,0,0,0,11
+12,False,34,10,0,10,1,60,7400,0,0,0,0,0,12
+13,False,34,11,0,11,1,60,7400,0,0,0,0,0,13
+14,False,34,11,0,11,1,60,7400,0,0,0,0,0,14
+15,False,34,12,0,12,1,60,10200,0,0,0,0,0,15
+16,False,34,12,0,12,1,60,10200,0,0,0,0,0,16
+17,False,34,13,0,13,1,60,10200,0,0,0,0,0,17
+18,False,34,14,0,14,1,60,13100,0,0,0,0,0,18
+19,False,34,14,0,14,1,60,13100,0,0,0,0,0,19
+20,False,34,15,0,15,1,60,13100,0,0,0,0,0,20
+21,False,34,15,0,15,1,60,13100,0,0,0,0,0,21
+22,False,34,15,0,15,1,60,13100,0,0,0,0,0,22
+23,False,34,16,0,16,1,60,17400,0,0,0,0,0,23
+24,False,34,17,0,17,1,60,17400,0,0,0,0,0,24
+25,False,34,18,0,18,1,60,21900,0,0,0,0,0,25
+26,False,34,19,0,19,1,60,21900,0,0,0,0,0,26
+27,False,34,20,0,20,1,60,24900,0,0,0,0,0,27
+28,False,34,21,0,21,1,60,24900,1,0,0,0,0,28
+29,False,34,22,0,22,1,60,26100,2,0,0,0,0,29
+30,False,34,23,0,23,1,60,26100,3,0,0,0,0,30
+31,False,34,24,0,24,1,60,27200,4,0,0,0,0,31
+32,False,34,25,0,25,1,60,27200,5,0,0,0,0,32
+33,False,34,25,0,25,1,60,27200,5,0,0,0,0,33
+34,False,34,25,0,25,1,60,27200,5,0,0,0,0,34
+35,False,34,25,0,25,1,60,27200,5,0,0,0,0,35
+36,False,34,25,0,25,1,60,27200,5,0,0,0,0,36
+37,False,34,25,0,25,1,60,27200,5,0,0,0,0,37
+38,False,34,26,0,26,1,60,32100,6,0,0,0,0,38
+39,False,34,26,0,26,1,60,32100,6,0,0,0,0,39
+40,False,34,27,0,27,1,60,32100,7,0,0,0,0,40
+41,False,34,28,0,28,1,60,34500,8,0,0,0,0,41
+42,False,34,28,0,28,1,60,34500,8,0,0,0,0,42
+43,False,34,29,0,29,1,60,34500,9,0,0,0,0,43
+44,False,34,29,0,29,1,60,34500,9,0,0,0,0,44
+45,False,34,30,0,30,1,60,35200,10,0,0,0,0,45
+46,False,34,30,0,30,1,60,35200,10,0,0,0,0,46
+47,False,34,30,0,30,1,60,35200,10,0,0,0,0,47
+48,False,34,31,0,31,1,60,35200,11,0,0,0,0,48
+49,False,34,32,0,32,1,60,38600,12,0,0,0,0,49
+50,False,34,32,0,32,1,60,38600,12,0,0,0,0,50
+51,False,34,33,0,33,1,60,38600,13,0,0,0,0,51
+52,False,34,34,0,34,1,60,40800,14,0,0,0,0,52
+53,False,34,35,0,35,1,60,40800,15,0,0,0,0,53
+54,False,34,36,0,36,1,60,44800,16,0,0,0,0,54
+55,False,34,37,0,37,1,60,44800,17,0,0,0,0,55
+56,False,34,38,0,38,1,60,49000,18,0,0,0,0,56
+57,False,34,39,0,39,1,60,49000,19,0,0,0,0,57
+58,False,34,40,0,40,1,60,52600,20,0,0,0,0,58
+59,False,34,41,0,41,1,60,52600,21,0,0,0,0,59
+60,False,34,42,0,42,1,60,54200,22,0,0,0,0,60
+61,False,34,43,0,43,1,60,54200,23,0,0,0,0,61
+62,False,34,44,0,44,1,60,55700,24,0,0,0,0,62
+63,False,34,45,0,45,1,60,55700,25,0,0,0,0,63
+64,False,34,46,0,46,1,60,61900,26,0,0,0,0,64
+65,False,34,47,0,47,1,60,61900,27,0,0,0,0,65
+66,False,34,48,0,48,1,60,66400,28,0,0,0,0,66
+67,False,34,49,0,49,1,60,66400,29,0,0,0,0,67
+68,False,34,49,0,49,1,60,66400,29,0,0,0,0,68
+69,False,17,2,1,2,1,60,800,0,0,0,0,0,69
+70,False,17,1,1,0,1,60,500,0,0,0,0,0,70
+71,False,17,1,1,0,1,60,500,0,0,0,0,0,71
+72,False,17,1,1,0,1,60,500,0,0,0,0,0,72
+73,False,17,1,1,0,1,60,500,0,0,0,0,0,73
+74,False,17,1,1,0,1,60,500,0,0,0,0,0,74
+75,False,17,1,1,0,1,60,500,0,0,0,0,0,75
+76,False,17,3,3,3,1,60,800,0,0,0,0,0,76
+77,False,17,5,5,5,1,60,1400,0,0,0,0,0,77
+78,False,17,6,6,6,1,60,3000,0,0,0,0,0,78
+79,False,17,7,7,7,1,60,3000,0,0,0,0,0,79
+80,False,17,7,7,7,1,60,3000,0,0,0,0,0,80
+81,False,17,8,8,8,1,60,5000,0,0,0,0,0,81
+82,False,17,9,9,9,1,60,5000,0,0,0,0,0,82
+83,False,17,10,10,10,1,60,7400,0,72,0,30,0,83
+84,False,17,10,10,10,1,60,7400,0,72,0,30,0,84
+85,False,17,11,11,11,1,60,7400,0,72,0,40,0,85
+86,False,17,11,11,11,1,60,7400,0,72,0,40,0,86
+87,False,17,12,12,12,1,60,10200,0,72,0,41,0,87
+88,False,17,13,13,13,1,60,10200,0,72,0,43,0,88
+89,False,17,14,14,14,1,60,13100,0,72,0,44,0,89
+90,False,17,14,14,14,1,60,13100,0,72,0,44,0,90
+91,False,17,15,15,15,1,60,13100,0,72,0,45,0,91
+92,False,17,16,16,16,1,60,17400,0,72,0,58,0,92
+93,False,17,17,17,17,1,60,17400,0,72,0,60,0,93
+94,False,17,17,17,17,1,60,17400,0,72,0,60,0,94
+95,False,17,17,17,17,1,60,17400,0,72,0,60,0,95
+96,False,17,18,18,18,1,60,21900,0,72,0,62,0,96
+97,False,17,19,19,19,1,60,21900,0,72,0,63,0,97
+98,False,17,19,19,19,1,60,21900,0,72,0,63,0,98
+99,False,17,20,20,20,1,60,24900,0,72,0,65,0,0
+100,False,17,20,20,20,1,60,24900,0,72,0,65,0,100
+101,False,17,21,21,21,1,60,24900,0,72,0,75,0,101
+102,False,17,22,22,22,1,60,26100,0,72,0,78,0,102
+103,False,17,23,23,23,1,60,26100,0,72,0,81,0,103
+104,False,17,23,23,23,1,60,26100,0,72,0,81,0,104
+105,False,17,24,24,24,1,60,27200,0,72,0,84,0,105
+106,False,17,24,24,24,1,60,27200,0,72,0,84,0,106
+107,False,17,24,24,24,1,60,27200,0,72,0,84,0,107
+108,False,17,25,25,25,1,60,27200,0,72,0,87,0,108
+109,False,17,25,25,25,1,60,27200,0,72,0,87,0,109
+110,False,17,26,26,26,1,60,32100,0,72,0,90,0,110
+111,False,17,26,26,0,1,60,32100,0,72,0,90,0,111
+112,False,17,26,26,0,1,60,32100,0,72,0,90,0,112
+113,False,17,26,26,0,1,60,32100,0,72,0,90,0,113
+114,False,17,26,26,0,1,60,32100,0,72,0,90,0,114
+115,False,17,26,26,0,1,60,32100,0,72,0,90,0,115
+116,False,17,26,26,0,1,60,32100,0,72,0,90,0,116
+117,False,17,27,27,27,1,60,32100,0,72,0,92,0,117
+118,False,17,28,28,28,1,60,34500,0,72,0,95,0,118
+119,False,17,28,28,28,1,60,34500,0,72,0,95,0,119
+120,False,17,28,28,28,1,60,34500,0,72,0,95,0,120
+121,False,17,28,28,28,1,60,34500,0,72,0,95,0,121
+122,False,17,28,28,28,1,60,34500,0,72,0,95,0,122
+123,False,17,28,28,28,1,60,34500,0,72,0,95,0,123
+124,False,17,28,28,28,1,60,34500,0,72,0,95,0,124
+125,False,17,28,28,28,1,60,34500,0,72,0,95,0,125
+126,False,17,29,29,29,1,60,34500,0,72,0,96,0,126
+127,False,17,30,30,30,1,60,35200,0,72,0,99,0,0
+128,False,17,30,30,30,1,60,35200,0,72,0,99,0,128
+129,False,17,30,30,30,1,60,35200,0,72,0,99,0,129
+130,False,17,30,30,30,1,60,35200,0,72,0,99,0,130
+131,False,17,30,30,30,1,60,35200,0,72,0,99,0,131
+132,False,17,31,31,31,1,60,35200,0,72,0,101,0,132
+133,False,17,31,31,31,1,60,35200,0,72,0,101,0,133
+134,False,17,32,32,32,1,60,38600,0,72,0,103,0,134
+135,False,17,33,33,33,1,60,38600,0,72,0,105,0,135
+136,False,17,33,33,33,1,60,38600,0,72,0,105,0,136
+137,False,17,33,33,33,1,60,38600,0,72,0,105,0,137
+138,False,17,34,34,34,1,60,40800,0,72,0,107,0,138
+139,False,17,34,34,34,1,60,40800,0,72,0,107,0,139
+140,False,17,35,35,35,1,60,40800,0,72,0,109,0,140
+141,False,17,36,36,36,1,60,44800,0,72,0,112,0,141
+142,False,17,37,37,37,1,60,44800,0,72,0,113,0,142
+143,False,17,38,38,38,1,60,49000,0,72,0,116,0,143
+144,False,17,39,39,39,1,60,49000,0,72,0,118,0,144
+145,False,17,40,40,40,1,60,52600,0,72,0,120,0,145
+146,False,17,40,40,40,1,60,52600,0,72,0,120,0,146
+147,False,17,40,46,40,1,60,52600,0,72,0,120,0,147
+148,False,17,40,46,40,1,60,52600,0,72,0,120,0,148
+149,False,17,40,46,40,1,60,52600,0,72,0,120,0,149
+150,False,17,41,41,41,1,60,52600,0,72,0,125,0,150
+151,False,17,42,42,42,1,60,54200,0,72,0,127,0,151
+152,False,17,43,43,43,1,60,54200,0,72,0,129,0,152
+153,False,17,44,44,44,1,60,55700,0,72,0,131,0,153
+154,False,17,45,45,45,1,60,55700,0,72,0,133,0,154
+155,False,17,45,45,45,1,60,55700,0,72,0,133,0,155
+156,False,17,46,46,46,1,60,61900,0,72,0,140,0,156
+157,False,17,47,47,47,1,60,61900,0,72,0,142,0,157
+158,False,17,48,49,48,1,60,66400,0,72,0,144,0,158
+159,False,17,49,50,49,1,60,66400,0,72,0,147,0,159
+160,False,17,50,50,50,1,60,122000,0,72,0,149,0,0
+161,False,18,1,1,1,1,60,500,0,0,0,0,0,161
+162,False,18,1,1,0,1,60,500,0,0,0,0,0,162
+163,False,18,1,1,0,1,60,500,0,0,0,0,0,163
+164,False,18,1,1,0,1,60,500,0,0,0,0,0,164
+165,False,18,1,1,0,1,60,500,0,0,0,0,0,165
+166,False,18,1,1,0,1,60,500,0,0,0,0,0,166
+167,False,18,1,1,0,1,60,500,0,0,0,0,0,167
+168,False,18,2,2,2,1,60,800,0,0,0,0,0,168
+169,False,18,2,2,2,1,60,800,0,0,0,0,0,169
+170,False,18,3,3,3,1,60,800,0,0,0,0,0,170
+171,False,18,4,4,4,1,60,1400,0,0,0,0,0,171
+172,False,18,5,5,5,1,60,1400,0,0,0,0,0,172
+173,False,18,5,5,5,1,60,1400,0,0,0,0,0,173
+174,False,18,6,6,6,1,60,3000,0,0,0,0,0,174
+175,False,18,6,6,6,1,60,3000,0,0,0,0,0,175
+176,False,18,7,7,7,1,60,3000,0,0,0,0,0,176
+177,False,18,7,7,7,1,60,3000,0,0,0,0,0,177
+178,False,18,8,8,8,1,60,5000,0,0,0,0,0,178
+179,False,18,9,9,9,1,60,5000,0,0,0,0,0,179
+180,False,18,9,9,9,1,60,5000,0,0,0,0,0,180
+181,False,18,10,10,10,1,60,7400,0,72,0,30,0,181
+182,False,18,10,10,10,1,60,7400,0,72,0,30,0,182
+183,False,18,11,11,11,1,60,7400,0,72,0,40,0,183
+184,False,18,11,11,11,1,60,7400,0,72,0,40,0,184
+185,False,18,11,11,11,1,60,7400,0,72,0,40,0,185
+186,False,18,11,11,11,1,60,7400,0,72,0,40,0,186
+187,False,18,11,11,11,1,60,7400,0,72,0,40,0,187
+188,False,18,11,11,11,1,60,7400,0,72,0,40,0,188
+189,False,18,11,11,11,1,60,7400,0,72,0,40,0,189
+190,False,18,12,12,12,1,60,10200,0,72,0,41,0,190
+191,False,18,12,12,12,1,60,10200,0,72,0,41,0,191
+192,False,18,12,12,12,1,60,10200,0,72,0,41,0,192
+193,False,18,12,12,12,1,60,10200,0,72,0,41,0,193
+194,False,18,12,12,12,1,60,10200,0,72,0,41,0,194
+195,False,18,13,13,13,1,60,10200,0,72,0,43,0,195
+196,False,18,13,13,13,1,60,10200,0,72,0,43,0,196
+197,False,18,13,13,13,1,60,10200,0,72,0,43,0,197
+198,False,18,13,13,13,1,60,10200,0,72,0,43,0,198
+199,False,18,13,13,13,1,60,10200,0,72,0,43,0,199
+200,False,18,13,13,13,1,60,10200,0,72,0,43,0,200
+201,False,18,14,14,14,1,60,13100,0,72,0,44,0,201
+202,False,18,14,14,14,1,60,13100,0,72,0,44,0,202
+203,False,18,14,14,14,1,60,13100,0,72,0,44,0,203
+204,False,18,15,15,15,1,60,13100,0,72,0,45,0,204
+205,False,18,15,15,15,1,60,13100,0,72,0,45,0,205
+206,False,18,15,15,15,1,60,13100,0,72,0,45,0,206
+207,False,18,15,15,15,1,60,13100,0,72,0,45,0,207
+208,False,18,16,16,16,1,60,17400,0,72,0,58,0,208
+209,False,18,16,16,16,1,60,17400,0,72,0,58,0,209
+210,False,18,16,16,16,1,60,17400,0,72,0,58,0,210
+211,False,18,16,16,16,1,60,17400,0,72,0,58,0,211
+212,False,18,16,16,16,1,60,17400,0,72,0,58,0,212
+213,False,18,17,17,17,1,60,17400,0,72,0,60,0,213
+214,False,18,17,17,17,1,60,17400,0,72,0,60,0,214
+215,False,18,17,17,17,1,60,17400,0,72,0,60,0,215
+216,False,18,18,18,18,1,60,21900,0,72,0,62,0,216
+217,False,18,18,18,18,1,60,21900,0,72,0,62,0,217
+218,False,18,18,18,18,1,60,21900,0,72,0,62,0,218
+219,False,18,18,18,18,1,60,21900,0,72,0,62,0,219
+220,False,18,19,19,19,1,60,21900,0,72,0,63,0,220
+221,False,18,19,19,19,1,60,21900,0,72,0,63,0,221
+222,False,18,20,20,20,1,60,24900,0,72,0,65,0,222
+223,False,18,20,20,20,1,60,24900,0,72,0,65,0,223
+224,False,18,20,20,20,1,60,24900,0,72,0,65,0,224
+225,False,18,20,20,20,1,60,24900,0,72,0,65,0,225
+226,False,18,20,20,20,1,60,24900,0,72,0,65,0,226
+227,False,18,20,20,20,1,60,24900,0,72,0,65,0,0
+228,False,18,21,21,21,1,60,24900,0,72,0,75,0,228
+229,False,18,21,21,21,1,60,24900,0,72,0,75,0,229
+230,False,18,21,21,21,1,60,24900,0,72,0,75,0,230
+231,False,18,22,22,22,1,60,26100,0,72,0,78,0,231
+232,False,18,22,22,22,1,60,26100,0,72,0,78,0,232
+233,False,18,23,23,23,1,60,26100,0,72,0,81,0,233
+234,False,18,23,23,23,1,60,26100,0,72,0,81,0,234
+235,False,18,23,23,23,1,60,26100,0,72,0,81,0,235
+236,False,18,24,24,24,1,60,27200,0,72,0,84,0,236
+237,False,18,24,24,24,1,60,27200,0,72,0,84,0,237
+238,False,18,24,24,24,1,60,27200,0,72,0,84,0,238
+239,False,18,24,24,24,1,60,27200,0,72,0,84,0,239
+240,False,18,24,24,24,1,60,27200,0,72,0,84,0,240
+241,False,18,25,25,25,1,60,27200,0,72,0,87,0,241
+242,False,18,25,25,25,1,60,27200,0,72,0,87,0,242
+243,False,18,25,25,25,1,60,27200,0,72,0,87,0,243
+244,False,18,26,26,26,1,60,32100,0,72,0,90,0,244
+245,False,18,26,26,0,1,60,32100,0,72,0,90,0,245
+246,False,18,26,26,0,1,60,32100,0,72,0,90,0,246
+247,False,18,26,26,0,1,60,32100,0,72,0,90,0,247
+248,False,18,26,26,0,1,60,32100,0,72,0,90,0,248
+249,False,18,26,26,0,1,60,32100,0,72,0,90,0,249
+250,False,18,26,26,0,1,60,32100,0,72,0,90,0,250
+251,False,18,27,27,27,1,60,32100,0,72,0,92,0,251
+252,False,18,27,27,27,1,60,32100,0,72,0,92,0,252
+253,False,18,28,28,28,1,60,34500,0,72,0,95,0,253
+254,False,18,28,28,28,1,60,34500,0,72,0,95,0,254
+255,False,18,28,28,28,1,60,34500,0,72,0,95,0,255
+256,False,18,28,28,28,1,60,34500,0,72,0,95,0,256
+257,False,18,28,28,28,1,60,34500,0,72,0,95,0,257
+258,False,18,28,28,28,1,60,34500,0,72,0,95,0,258
+259,False,18,28,28,28,1,60,34500,0,72,0,95,0,259
+260,False,18,28,28,28,1,60,34500,0,72,0,95,0,260
+261,False,18,28,28,28,1,60,34500,0,72,0,95,0,261
+262,False,18,29,29,29,1,60,34500,0,72,0,96,0,262
+263,False,18,30,30,30,1,60,35200,0,72,0,99,0,263
+264,False,18,30,30,30,1,60,35200,0,72,0,99,0,264
+265,False,18,30,30,30,1,60,35200,0,72,0,99,0,0
+266,False,18,31,31,31,1,60,35200,0,72,0,101,0,266
+267,False,18,31,31,31,1,60,35200,0,72,0,101,0,267
+268,False,18,31,31,31,1,60,35200,0,72,0,101,0,268
+269,False,18,32,32,32,1,60,38600,0,72,0,103,0,269
+270,False,18,32,32,32,1,60,38600,0,72,0,103,0,270
+271,False,18,32,32,32,1,60,38600,0,72,0,103,0,271
+272,False,18,32,32,32,1,60,38600,0,72,0,103,0,272
+273,False,18,33,33,33,1,60,38600,0,72,0,105,0,273
+274,False,18,33,33,33,1,60,38600,0,72,0,105,0,274
+275,False,18,33,33,33,1,60,38600,0,72,0,105,0,275
+276,False,18,33,33,33,1,60,38600,0,72,0,105,0,276
+277,False,18,34,34,34,1,60,40800,0,72,0,107,0,277
+278,False,18,34,34,34,1,60,40800,0,72,0,107,0,278
+279,False,18,34,34,34,1,60,40800,0,72,0,107,0,279
+280,False,18,35,35,35,1,60,40800,0,72,0,109,0,280
+281,False,18,35,35,35,1,60,40800,0,72,0,109,0,281
+282,False,18,35,35,35,1,60,40800,0,72,0,109,0,282
+283,False,18,36,36,36,1,60,44800,0,72,0,112,0,283
+284,False,18,36,36,36,1,60,44800,0,72,0,112,0,284
+285,False,18,36,36,36,1,60,44800,0,72,0,112,0,285
+286,False,18,37,37,37,1,60,44800,0,72,0,113,0,286
+287,False,18,37,37,37,1,60,44800,0,72,0,113,0,287
+288,False,18,38,38,38,1,60,49000,0,72,0,116,0,288
+289,False,18,39,39,39,1,60,49000,0,72,0,118,0,289
+290,False,18,39,39,39,1,60,49000,0,72,0,118,0,290
+291,False,18,39,39,39,1,60,49000,0,72,0,118,0,291
+292,False,18,40,40,40,1,60,52600,0,72,0,120,0,292
+293,False,18,40,40,40,1,60,52600,0,72,0,120,0,293
+294,False,18,41,41,41,1,60,52600,0,72,0,125,0,294
+295,False,18,42,42,42,1,60,54200,0,72,0,127,0,295
+296,False,18,42,42,42,1,60,54200,0,72,0,127,0,296
+297,False,18,42,42,42,1,60,54200,0,72,0,127,0,297
+298,False,18,43,43,43,1,60,54200,0,72,0,129,0,298
+299,False,18,43,43,43,1,60,54200,0,72,0,129,0,299
+300,False,18,44,44,44,1,60,55700,0,72,0,131,0,300
+301,False,18,45,45,45,1,60,55700,0,72,0,133,0,301
+302,False,18,46,46,46,1,60,61900,0,72,0,140,0,302
+303,False,18,47,47,47,1,60,61900,0,72,0,142,0,303
+304,False,18,48,48,48,1,60,66400,0,72,0,144,0,304
+305,False,18,49,49,49,1,60,66400,0,72,0,147,0,305
+306,False,18,49,50,49,1,60,66400,0,72,0,147,0,306
+307,False,18,50,50,50,1,60,122000,0,72,0,149,0,0
+308,False,19,1,0,1,1,60,500,0,0,0,0,0,308
+309,False,19,4,0,4,1,60,1400,0,0,0,0,0,309
+310,False,19,5,0,5,1,60,1400,0,0,0,0,0,310
+311,False,19,5,0,5,1,60,1400,0,0,0,0,0,311
+312,False,19,6,0,6,1,60,3000,0,0,0,0,0,312
+313,False,19,7,0,7,1,60,3000,0,0,0,0,0,313
+314,False,19,8,0,8,1,60,5000,0,0,0,0,0,314
+315,False,19,9,0,9,1,60,5000,0,0,0,0,0,315
+316,False,19,10,0,10,1,60,7400,0,72,0,21,0,316
+317,False,19,11,0,11,1,60,7400,0,72,0,24,0,317
+318,False,19,14,0,14,1,60,13100,0,72,0,31,0,318
+319,False,19,16,0,16,1,60,17400,0,72,0,35,0,319
+320,False,19,17,0,17,1,60,17400,0,72,0,38,0,320
+321,False,19,18,0,18,1,60,21900,0,72,0,40,0,321
+322,False,19,19,0,19,1,60,21900,0,72,0,43,0,322
+323,False,19,20,0,20,1,60,24900,0,72,0,45,0,323
+324,False,19,21,0,21,1,60,24900,0,72,0,56,0,324
+325,False,19,23,0,23,1,60,26100,0,72,0,55,0,325
+326,False,19,24,0,24,1,60,27200,0,72,0,56,0,326
+327,False,19,25,0,25,1,60,27200,0,72,0,57,0,327
+328,False,19,26,0,26,1,60,32100,0,72,0,59,0,328
+329,False,19,27,0,27,1,60,32100,0,72,0,60,0,329
+330,False,19,28,0,28,1,60,34500,0,72,0,62,0,330
+331,False,19,29,0,29,1,60,34500,0,72,0,63,0,331
+332,False,19,31,0,31,1,60,35200,0,72,0,71,0,332
+333,False,19,32,0,32,1,60,38600,0,72,0,72,0,333
+334,False,19,34,0,34,1,60,40800,0,72,0,75,0,334
+335,False,19,36,0,36,1,60,44800,0,72,0,85,0,335
+336,False,19,38,0,38,1,60,49000,0,72,0,89,0,336
+337,False,19,40,0,40,1,60,52600,0,72,0,92,0,337
+338,False,19,41,0,41,1,60,52600,0,72,0,97,0,338
+339,False,19,43,0,43,1,60,54200,0,72,0,100,0,339
+340,False,19,44,0,44,1,60,55700,0,72,0,102,0,340
+341,False,19,46,0,46,1,60,61900,0,72,0,105,0,341
+342,False,19,48,0,48,1,60,66400,0,72,0,109,0,342
+343,True,34,1,0,1,2,1080,4900,0,0,0,0,0,30001
+344,True,34,5,0,1,2,1080,19900,0,0,0,0,0,30002
+345,True,34,10,0,1,2,1080,45200,0,0,0,0,0,30003
+346,True,34,15,0,1,2,1080,87600,0,0,0,0,0,30004
+347,True,34,20,0,1,2,1080,106600,0,0,0,0,0,30005
+348,True,34,25,0,1,2,1080,138100,5,0,0,0,0,30006
+349,True,34,30,0,1,2,1080,158300,20,0,0,0,0,30007
+350,True,34,35,0,1,2,1080,195900,25,0,0,0,0,30008
+351,True,34,40,0,1,2,1080,220000,30,0,0,0,0,30009
+352,True,34,45,0,1,2,1080,265600,35,0,0,0,0,30010
+353,True,34,50,0,1,2,1080,421000,40,0,0,0,0,30011
+354,True,34,50,0,1,2,1080,421000,50,0,0,0,0,30012
+355,True,34,50,0,1,2,1080,421000,60,0,0,0,0,30013
+356,True,17,1,0,1,2,1080,4900,0,0,0,0,0,30014
+357,True,17,5,0,1,2,1080,19900,0,0,0,0,0,30015
+358,True,17,10,0,1,2,1080,45200,0,72,0,30,0,30016
+359,True,17,15,0,1,2,1080,87600,0,72,0,45,0,30017
+360,True,17,20,0,1,2,1080,106600,0,72,0,65,0,30018
+361,True,17,25,0,1,2,1080,138100,0,72,0,87,0,30019
+362,True,17,30,0,1,2,1080,158300,0,72,0,99,0,30020
+363,True,17,35,0,1,2,1080,195900,0,72,0,109,0,30021
+364,True,17,40,0,1,2,1080,220000,0,72,0,120,0,30022
+365,True,17,45,0,1,2,1080,265600,0,72,0,133,0,30023
+366,True,17,50,0,1,2,1080,421000,0,72,0,230,0,30024
+367,True,17,50,0,1,2,1080,421000,0,72,0,238,0,30025
+368,True,17,50,0,1,2,1080,421000,0,72,0,285,0,30026
+369,True,18,1,0,1,2,1080,4900,0,0,0,0,0,30027
+370,True,18,5,0,1,2,1080,19900,0,0,0,0,0,30028
+371,True,18,10,0,1,2,1080,45200,0,72,0,30,0,30029
+372,True,18,15,0,1,2,1080,87600,0,72,0,45,0,30030
+373,True,18,20,0,1,2,1080,106600,0,72,0,65,0,30031
+374,True,18,25,0,1,2,1080,138100,0,72,0,87,0,30032
+375,True,18,30,0,1,2,1080,158300,0,72,0,99,0,30033
+376,True,18,35,0,1,2,1080,195900,0,72,0,109,0,30034
+377,True,18,40,0,1,2,1080,220000,0,72,0,120,0,30035
+378,True,18,45,0,1,2,1080,265600,0,72,0,133,0,30036
+379,True,18,50,0,1,2,1080,421000,0,72,0,230,0,30037
+380,True,18,50,0,1,2,1080,421000,0,72,0,238,0,30038
+381,True,18,50,0,1,2,1080,421000,0,72,0,285,0,30039
+382,True,19,1,0,1,2,1080,4900,0,0,0,0,0,30040
+383,True,19,5,0,1,2,1080,19900,0,0,0,0,0,30041
+384,True,19,10,0,1,2,1080,45200,0,72,0,21,0,30042
+385,True,19,15,0,1,2,1080,87600,0,72,0,33,0,30043
+386,True,19,20,0,1,2,1080,106600,0,72,0,45,0,30044
+387,True,19,25,0,1,2,1080,138100,0,72,0,57,0,30045
+388,True,19,30,0,1,2,1080,158300,0,72,0,64,0,30046
+389,True,19,35,0,1,2,1080,195900,0,72,0,77,0,30047
+390,True,19,40,0,1,2,1080,220000,0,72,0,92,0,30048
+391,True,19,45,0,1,2,1080,265600,0,72,0,104,0,30049
+392,True,19,50,0,1,2,1080,421000,0,72,0,180,0,30050
+393,True,19,50,0,1,2,1080,421000,0,72,0,184,0,30051
+394,True,19,50,0,1,2,1080,421000,0,72,0,186,0,30052
+395,True,0,0,0,1,2,60,-1,0,0,0,0,0,30053
+396,True,34,50,0,1,2,1080,421000,70,0,0,0,0,30054
+397,True,17,50,0,1,2,1080,421000,0,72,0,286,0,30055
+398,True,18,50,0,1,2,1080,421000,0,72,0,286,0,30056
+399,True,19,50,0,1,2,1080,421000,0,72,0,200,0,30057
+400,True,34,50,0,1,2,1080,421000,80,0,0,0,0,30058
+401,True,17,50,0,1,2,1080,421000,0,72,0,292,0,30059
+402,True,18,50,0,1,2,1080,421000,0,72,0,292,0,30060
+403,True,19,50,0,1,2,1080,421000,0,72,0,207,0,30061
+404,True,34,50,0,1,2,1080,421000,90,0,0,0,0,30062
+405,True,17,50,0,1,2,1080,421000,0,72,0,294,0,30063
+406,True,18,50,0,1,2,1080,421000,0,72,0,294,0,30064
+407,True,19,50,0,1,2,1080,421000,0,72,0,216,0,30065
+408,True,34,51,0,1,2,1080,680900,100,0,0,0,0,30066
+409,True,17,51,0,1,2,1080,680900,0,72,0,311,0,30067
+410,True,18,51,0,1,2,1080,680900,0,72,0,311,0,30068
+411,True,19,51,0,1,2,1080,680900,0,72,0,228,0,30069
+412,True,34,55,0,1,2,1080,988600,116,0,0,0,0,30070
+413,True,17,55,0,1,2,1080,988600,0,72,0,388,0,30071
+414,True,18,55,0,1,2,1080,988600,0,72,0,388,0,30072
+415,True,19,55,0,1,2,1080,988600,0,72,0,312,0,30073
+416,False,34,51,0,120,1,60,122000,100,0,0,0,0,343
+417,False,34,51,0,120,1,60,122000,100,0,0,0,0,344
+418,False,34,51,0,120,1,60,122000,100,0,0,0,0,345
+419,False,34,51,0,120,1,60,122000,100,0,0,0,0,346
+420,False,34,51,0,120,1,60,122000,100,0,0,0,0,347
+421,False,34,52,0,125,1,60,154200,105,0,0,0,0,348
+422,False,34,52,0,125,1,60,154200,105,0,0,0,0,349
+423,False,34,52,0,125,1,60,154200,105,0,0,0,0,350
+424,False,34,52,0,125,1,60,154200,105,0,0,0,0,351
+425,False,34,53,0,130,1,60,154200,110,0,0,0,0,352
+426,False,34,53,0,130,1,60,154200,110,0,0,0,0,353
+427,False,34,55,0,136,1,60,186000,116,0,0,0,0,354
+428,False,34,55,0,136,1,60,186000,116,0,0,0,0,355
+429,False,34,56,0,139,1,60,216800,119,0,0,0,0,356
+430,False,34,54,0,133,1,60,186000,113,0,0,0,0,357
+431,False,34,56,0,139,1,60,216800,119,0,0,0,0,358
+432,False,34,57,0,142,1,60,216800,122,0,0,0,0,359
+433,False,34,57,0,142,1,60,216800,122,0,0,0,0,360
+434,False,34,57,0,142,1,60,216800,122,0,0,0,0,361
+435,False,34,58,0,145,1,60,247100,125,0,0,0,0,362
+436,False,34,58,0,145,1,60,247100,125,0,0,0,0,363
+437,False,34,58,0,145,1,60,247100,125,0,0,0,0,364
+438,False,34,58,0,145,1,60,247100,125,0,0,0,0,365
+439,False,34,58,0,145,1,60,247100,125,0,0,0,0,366
+440,False,34,59,0,148,1,60,247100,128,0,0,0,0,367
+441,False,34,59,0,148,1,60,247100,128,0,0,0,0,368
+442,False,34,59,0,148,1,60,247100,128,0,0,0,0,369
+443,False,34,60,0,150,1,60,251000,130,0,0,0,0,370
+444,False,17,51,80,120,1,60,122000,0,72,0,311,0,371
+445,False,17,51,120,120,1,60,122000,0,72,0,311,0,372
+446,False,17,51,120,120,1,60,122000,0,72,0,311,0,373
+447,False,17,52,125,125,1,60,154200,0,72,0,314,0,374
+448,False,17,53,130,130,1,60,154200,0,72,0,362,0,375
+449,False,17,54,133,133,1,60,186000,0,72,0,363,0,376
+450,False,17,54,133,133,1,60,186000,0,72,0,363,0,377
+451,False,17,55,136,136,1,60,186000,0,72,0,388,0,378
+452,False,17,55,136,136,1,60,186000,0,72,0,388,0,379
+453,False,17,56,139,139,1,60,216800,0,72,0,389,0,380
+454,False,17,57,142,142,1,60,216800,0,72,0,392,0,381
+455,False,17,57,142,142,1,60,216800,0,72,0,392,0,382
+456,False,17,58,145,145,1,60,247100,0,72,0,396,0,383
+457,False,17,58,145,145,1,60,247100,0,72,0,396,0,384
+458,False,17,59,148,148,1,60,247100,0,72,0,401,0,385
+459,False,17,59,148,148,1,60,247100,0,72,0,401,0,386
+460,False,17,60,150,150,1,60,251000,0,72,0,405,0,387
+461,False,17,60,150,150,1,60,251000,0,72,0,405,0,388
+462,False,18,51,80,120,1,60,122000,0,72,0,311,0,389
+463,False,18,51,80,120,1,60,122000,0,72,0,311,0,390
+464,False,18,51,120,120,1,60,122000,0,72,0,311,0,391
+465,False,18,52,125,125,1,60,154200,0,72,0,314,0,392
+466,False,18,53,130,130,1,60,154200,0,72,0,362,0,393
+467,False,18,54,133,133,1,60,186000,0,72,0,363,0,394
+468,False,18,54,133,133,1,60,186000,0,72,0,363,0,395
+469,False,18,55,136,136,1,60,186000,0,72,0,388,0,396
+470,False,18,55,136,136,1,60,186000,0,72,0,388,0,397
+471,False,18,56,139,139,1,60,216800,0,72,0,389,0,398
+472,False,18,57,142,142,1,60,216800,0,72,0,392,0,399
+473,False,18,57,142,142,1,60,216800,0,72,0,392,0,400
+474,False,18,58,145,145,1,60,247100,0,72,0,396,0,401
+475,False,18,58,145,145,1,60,247100,0,72,0,396,0,402
+476,False,18,59,148,148,1,60,247100,0,72,0,401,0,403
+477,False,18,59,148,148,1,60,247100,0,72,0,401,0,404
+478,False,18,59,148,148,1,60,247100,0,72,0,401,0,405
+479,False,18,60,150,150,1,60,251000,0,72,0,405,0,406
+480,False,19,51,0,120,1,60,122000,0,72,0,228,0,407
+481,False,19,52,0,125,1,60,154200,0,72,0,249,0,408
+482,False,19,52,0,125,1,60,154200,0,72,0,249,0,409
+483,False,19,52,0,125,1,60,154200,0,72,0,249,0,410
+484,False,19,53,0,130,1,60,154200,0,72,0,271,0,411
+485,False,19,53,0,130,1,60,154200,0,72,0,271,0,412
+486,False,19,54,0,133,1,60,186000,0,72,0,291,0,413
+487,False,19,54,0,133,1,60,186000,0,72,0,291,0,414
+488,False,19,55,0,136,1,60,186000,0,72,0,312,0,415
+489,False,19,55,0,136,1,60,186000,0,72,0,312,0,416
+490,False,19,55,0,136,1,60,186000,0,72,0,312,0,417
+491,False,19,56,0,139,1,60,216800,0,72,0,314,0,418
+492,False,19,57,0,142,1,60,216800,0,72,0,320,0,419
+493,False,19,57,0,142,1,60,216800,0,72,0,320,0,420
+494,False,19,58,0,145,1,60,247100,0,72,0,327,0,421
+495,False,19,58,0,145,1,60,247100,0,72,0,327,0,422
+496,False,19,59,0,148,1,60,247100,0,72,0,336,0,423
+497,False,19,59,0,148,1,60,247100,0,72,0,336,0,424
+498,False,19,60,0,150,1,60,251000,0,72,0,347,0,425
+499,False,19,60,0,150,1,60,251000,0,72,0,347,0,426
+500,False,17,30,30,30,1,60,35200,0,72,0,99,0,427
+501,False,19,52,0,125,1,60,154200,0,72,0,249,0,428
+502,False,19,55,0,136,1,60,186000,0,72,0,312,0,429
+503,False,19,55,0,136,1,60,186000,0,72,0,312,0,430
+504,False,19,55,0,136,1,60,186000,0,72,0,312,0,431
+505,False,19,54,0,133,1,60,186000,0,72,0,291,0,432
+506,False,17,50,55,50,1,60,122000,0,72,0,149,0,433
+507,False,17,50,55,50,1,60,122000,0,72,0,149,0,434
+508,False,17,50,55,50,1,60,122000,0,72,0,149,0,435
+509,False,17,50,51,50,1,60,122000,0,72,0,149,0,436
+510,False,17,50,51,50,1,60,122000,0,72,0,149,0,437
+511,False,17,50,51,50,1,60,122000,0,72,0,149,0,438
+512,False,17,50,51,50,1,60,122000,0,72,0,149,0,439
+513,False,17,50,70,50,1,60,122000,0,72,0,149,0,440
+514,False,17,50,70,50,1,60,122000,0,72,0,149,0,441
+515,False,17,50,70,50,1,60,122000,0,72,0,149,0,442
+516,False,18,50,51,50,1,60,122000,0,72,0,149,0,443
+517,False,18,50,51,50,1,60,122000,0,72,0,149,0,444
+518,False,18,50,51,50,1,60,122000,0,72,0,149,0,445
+519,False,18,50,51,50,1,60,122000,0,72,0,149,0,446
+520,False,18,50,51,50,1,60,122000,0,72,0,149,0,447
+521,False,18,50,51,50,1,60,122000,0,72,0,149,0,448
+522,False,18,50,51,50,1,60,122000,0,72,0,149,0,449
+523,False,18,50,51,50,1,60,122000,0,72,0,149,0,450
+524,False,18,50,51,50,1,60,122000,0,72,0,149,0,451
+525,False,18,50,70,50,1,60,122000,0,72,0,149,0,452
+526,False,18,50,70,50,1,60,122000,0,72,0,149,0,453
+527,False,18,50,70,50,1,60,122000,0,72,0,149,0,454
+528,False,18,50,70,50,1,60,122000,0,72,0,149,0,455
+529,False,17,50,70,50,1,60,122000,0,72,0,149,0,456
+530,False,17,50,70,50,1,60,122000,0,72,0,149,0,457
+531,False,17,50,70,50,1,60,122000,0,72,0,149,0,458
+532,False,17,50,70,50,1,60,122000,0,72,0,149,0,459
+533,False,17,50,70,50,1,60,122000,0,72,0,149,0,460
+534,False,18,50,70,50,1,60,122000,0,72,0,149,0,461
+535,False,18,50,70,50,1,60,122000,0,72,0,149,0,462
+536,False,17,50,80,50,1,60,122000,0,72,0,149,0,463
+537,False,18,50,80,50,1,60,122000,0,72,0,149,0,464
+538,False,17,50,80,50,1,60,122000,0,72,0,149,0,465
+539,False,18,50,80,50,1,60,122000,0,72,0,149,0,466
+540,False,17,50,50,50,1,60,122000,0,72,0,149,0,467
+541,False,17,50,90,50,1,60,122000,0,72,0,149,0,468
+542,False,18,50,90,50,1,60,122000,0,72,0,149,0,469
+543,False,17,50,55,50,1,60,122000,0,72,0,149,0,470
+544,False,18,50,55,50,1,60,122000,0,72,0,149,0,471
+545,False,17,53,130,130,1,60,154200,0,72,0,362,0,472
+546,False,17,55,136,136,1,60,186000,0,72,0,388,0,473
+547,False,17,58,145,145,1,60,247100,0,72,0,396,0,474
+548,False,18,53,130,130,1,60,154200,0,72,0,362,0,475
+549,False,18,55,136,136,1,60,186000,0,72,0,388,0,476
+550,False,18,55,136,136,1,60,186000,0,72,0,388,0,477
+551,False,18,58,145,145,1,60,247100,0,72,0,396,0,478
+552,True,34,60,0,1,2,1080,1109600,160,0,0,0,0,30074
+553,True,17,60,0,1,2,1080,1109600,0,72,0,486,0,30075
+554,True,18,60,0,1,2,1080,1109600,0,72,0,486,0,30076
+555,True,19,60,0,1,2,1080,1109600,0,72,0,393,0,30077
+556,False,17,50,51,50,1,60,122000,0,72,0,149,0,479
+557,False,18,11,11,11,1,60,7400,0,72,0,40,0,480
+558,False,18,11,11,11,1,60,7400,0,72,0,40,0,481
+559,False,18,11,11,11,1,60,7400,0,72,0,40,0,482
+560,False,18,12,12,12,1,60,10200,0,72,0,41,0,483
+561,False,18,12,12,12,1,60,10200,0,72,0,41,0,484
+562,False,18,12,12,12,1,60,10200,0,72,0,41,0,485
+563,False,18,13,13,13,1,60,10200,0,72,0,43,0,486
+564,False,18,13,13,13,1,60,10200,0,72,0,43,0,487
+565,False,18,13,13,13,1,60,10200,0,72,0,43,0,488
+566,False,18,14,14,14,1,60,13100,0,72,0,44,0,489
+567,False,18,14,14,14,1,60,13100,0,72,0,44,0,490
+568,False,18,50,51,50,1,60,122000,0,72,0,149,0,491
+569,False,18,50,51,50,1,60,122000,0,72,0,149,0,492
+570,False,18,50,51,50,1,60,122000,0,72,0,149,0,493
+571,False,18,50,51,50,1,60,122000,0,72,0,149,0,494
+572,False,18,50,70,50,1,60,122000,0,72,0,149,0,495
+573,False,18,50,70,50,1,60,122000,0,72,0,149,0,496
+574,False,18,50,55,50,1,60,122000,0,72,0,149,0,497
+575,False,17,50,55,50,1,60,122000,0,72,0,149,0,498
+576,False,18,50,70,50,1,60,122000,0,72,0,149,0,499
+577,False,17,50,70,50,1,60,122000,0,72,0,149,0,500
+578,True,34,61,0,1,2,1080,1109700,235,0,0,0,0,30078
+579,True,17,61,0,1,2,1080,1109700,0,72,0,700,0,30079
+580,True,18,61,0,1,2,1080,1109700,0,72,0,700,0,30080
+581,True,19,61,0,1,2,1080,1109700,0,72,0,560,0,30081
+582,True,34,65,0,1,2,1080,1133300,256,0,0,0,0,30082
+583,True,17,65,0,1,2,1080,1133300,0,72,0,739,0,30083
+584,True,18,65,0,1,2,1080,1133300,0,72,0,739,0,30084
+585,True,19,65,0,1,2,1080,1133300,0,72,0,591,0,30085
+586,False,17,60,0,150,1,60,251000,0,72,0,405,0,501
+587,False,17,50,0,80,1,60,122000,0,72,0,149,0,502
+588,False,17,51,0,120,1,60,122000,0,72,0,311,0,503
+589,False,17,52,0,125,1,60,154200,0,72,0,314,0,504
+590,False,17,53,0,130,1,60,154200,0,72,0,362,0,505
+591,False,17,54,0,133,1,60,186000,0,72,0,363,0,506
+592,False,17,55,0,136,1,60,186000,0,72,0,388,0,507
+593,False,17,56,0,139,1,60,216800,0,72,0,389,0,508
+594,False,17,57,0,142,1,60,216800,0,72,0,392,0,509
+595,False,17,58,0,145,1,60,247100,0,72,0,396,0,510
+596,False,17,59,0,148,1,60,247100,0,72,0,401,0,511
+597,False,17,60,0,180,1,60,251000,0,72,0,602,0,512
+598,False,17,60,0,180,1,60,251000,0,72,0,602,0,513
+599,False,17,60,0,175,1,60,251000,0,72,0,602,0,514
+600,False,17,60,0,180,1,60,251000,0,72,0,602,0,515
+601,False,17,60,0,180,1,60,251000,0,72,0,602,0,516
+602,False,17,60,0,180,1,60,251000,0,72,0,602,0,517
+603,False,18,60,0,150,1,60,251000,0,72,0,405,0,518
+604,False,18,50,0,80,1,60,122000,0,72,0,149,0,519
+605,False,18,51,0,120,1,60,122000,0,72,0,311,0,520
+606,False,18,52,0,125,1,60,154200,0,72,0,314,0,521
+607,False,18,53,0,130,1,60,154200,0,72,0,362,0,522
+608,False,18,54,0,133,1,60,186000,0,72,0,363,0,523
+609,False,18,55,0,136,1,60,186000,0,72,0,388,0,524
+610,False,18,56,0,139,1,60,216800,0,72,0,389,0,525
+611,False,18,58,0,145,1,60,247100,0,72,0,396,0,526
+612,False,18,57,0,142,1,60,216800,0,72,0,392,0,527
+613,False,18,59,0,148,1,60,247100,0,72,0,401,0,528
+614,False,18,60,0,180,1,60,251000,0,72,0,602,0,529
+615,False,18,60,0,180,1,60,251000,0,72,0,602,0,530
+616,False,18,60,0,180,1,60,251000,0,72,0,602,0,531
+617,False,18,60,0,180,1,60,251000,0,72,0,602,0,532
+618,False,18,60,0,180,1,60,251000,0,72,0,602,0,533
+619,False,18,60,0,180,1,60,251000,0,72,0,602,0,534
+620,False,18,50,0,80,1,60,122000,0,72,0,149,0,535
+621,False,18,52,0,125,1,60,154200,0,72,0,314,0,536
+622,False,18,53,0,130,1,60,154200,0,72,0,362,0,537
+623,False,18,60,0,180,1,60,251000,0,72,0,602,0,538
+624,False,18,60,0,180,1,60,251000,0,72,0,602,0,539
+625,False,18,60,0,180,1,60,251000,0,72,0,602,0,540
+626,False,18,60,0,180,1,60,251000,0,72,0,602,0,541
+627,False,18,60,0,180,1,60,251000,0,72,0,602,0,542
+628,False,17,60,0,180,1,60,251000,0,72,0,602,0,543
+629,False,17,60,0,180,1,60,251000,0,72,0,602,0,544
+630,False,17,60,0,180,1,60,251000,0,72,0,602,0,545
+631,False,17,60,0,180,1,60,251000,0,72,0,602,0,546
+632,False,18,60,0,180,1,60,251000,0,72,0,602,0,547
+633,False,18,20,0,20,1,60,24900,0,72,0,65,0,548
+634,False,18,20,0,20,1,60,24900,0,72,0,65,0,549
+635,False,18,20,0,20,1,60,24900,0,72,0,65,0,550
+636,False,18,20,0,20,1,60,24900,0,72,0,65,0,551
+637,False,18,20,0,20,1,60,24900,0,72,0,65,0,552
+638,False,18,20,0,20,1,60,24900,0,72,0,65,0,553
+639,False,18,60,0,200,1,60,251000,0,72,0,644,0,554
+640,False,18,60,0,200,1,60,251000,0,72,0,644,0,555
+641,False,18,60,0,200,1,60,251000,0,72,0,644,0,556
+642,False,18,60,0,200,1,60,251000,0,72,0,644,0,557
+643,False,17,60,0,200,1,60,251000,0,72,0,644,0,558
+644,False,17,60,0,200,1,60,251000,0,72,0,644,0,559
+645,False,17,60,0,200,1,60,251000,0,72,0,644,0,560
+646,False,17,60,0,190,1,60,251000,0,72,0,644,0,561
+647,False,17,60,0,190,1,60,251000,0,72,0,644,0,562
+648,False,17,61,0,205,1,60,251000,0,72,0,700,0,563
+649,False,17,62,0,210,1,60,261500,0,72,0,714,0,564
+650,False,17,63,0,215,1,60,261500,0,72,0,728,0,565
+651,False,17,64,0,220,1,60,262000,0,72,0,734,0,566
+652,False,17,65,0,225,1,60,262000,0,72,0,739,0,567
+653,False,17,65,0,225,1,60,262000,0,72,0,739,0,568
+654,False,17,66,0,230,1,60,265800,0,72,0,744,0,569
+655,False,17,68,0,260,1,60,283300,0,72,0,775,0,570
+656,False,17,68,0,260,1,60,283300,0,72,0,775,0,571
+657,False,17,70,0,290,1,60,301800,0,72,0,805,0,572
+658,False,17,70,0,290,1,60,301800,0,72,0,805,0,573
+659,False,17,61,0,205,1,60,251000,0,72,0,700,0,574
+660,False,17,61,0,205,1,60,251000,0,72,0,700,0,575
+661,False,17,62,0,210,1,60,261500,0,72,0,714,0,576
+662,False,17,63,0,215,1,60,261500,0,72,0,728,0,577
+663,False,17,66,0,230,1,60,265800,0,72,0,744,0,578
+664,False,17,67,0,245,1,60,265800,0,72,0,759,0,579
+665,False,17,69,0,275,1,60,283300,0,72,0,790,0,580
+666,False,17,69,0,275,1,60,283300,0,72,0,790,0,581
+667,False,18,61,0,205,1,60,251000,0,72,0,700,0,582
+668,False,18,61,0,205,1,60,251000,0,72,0,700,0,583
+669,False,18,61,0,205,1,60,251000,0,72,0,700,0,584
+670,False,18,63,0,215,1,60,261500,0,72,0,728,0,585
+671,False,18,64,0,220,1,60,262000,0,72,0,734,0,586
+672,False,18,65,0,225,1,60,262000,0,72,0,739,0,587
+673,False,18,65,0,225,1,60,262000,0,72,0,739,0,588
+674,False,18,65,0,225,1,60,262000,0,72,0,739,0,589
+675,False,18,66,0,230,1,60,265800,0,72,0,744,0,590
+676,False,18,67,0,245,1,60,265800,0,72,0,759,0,591
+677,False,18,67,0,245,1,60,265800,0,72,0,759,0,592
+678,False,18,70,0,290,1,60,301800,0,72,0,805,0,593
+679,False,18,70,0,290,1,60,301800,0,72,0,805,0,594
+680,False,18,60,0,190,1,60,251000,0,72,0,644,0,595
+681,False,18,60,0,190,1,60,251000,0,72,0,644,0,596
+682,False,18,62,0,210,1,60,261500,0,72,0,714,0,597
+683,False,18,62,0,210,1,60,261500,0,72,0,714,0,598
+684,False,18,62,0,210,1,60,261500,0,72,0,714,0,599
+685,False,18,63,0,215,1,60,261500,0,72,0,728,0,600
+686,False,18,63,0,215,1,60,261500,0,72,0,728,0,601
+687,False,18,64,0,220,1,60,262000,0,72,0,734,0,602
+688,False,18,64,0,220,1,60,262000,0,72,0,734,0,603
+689,False,18,64,0,220,1,60,262000,0,72,0,734,0,604
+690,False,18,64,0,220,1,60,262000,0,72,0,734,0,605
+691,False,18,65,0,225,1,60,262000,0,72,0,739,0,606
+692,False,18,65,0,225,1,60,262000,0,72,0,739,0,607
+693,False,18,65,0,225,1,60,262000,0,72,0,739,0,608
+694,False,18,66,0,230,1,60,265800,0,72,0,744,0,609
+695,False,18,66,0,230,1,60,265800,0,72,0,744,0,610
+696,False,18,66,0,230,1,60,265800,0,72,0,744,0,611
+697,False,18,66,0,230,1,60,265800,0,72,0,744,0,612
+698,False,18,66,0,230,1,60,265800,0,72,0,744,0,613
+699,False,18,67,0,245,1,60,265800,0,72,0,759,0,614
+700,False,18,68,0,260,1,60,283300,0,72,0,775,0,615
+701,False,18,68,0,260,1,60,283300,0,72,0,775,0,616
+702,False,18,68,0,260,1,60,283300,0,72,0,775,0,617
+703,False,18,68,0,260,1,60,283300,0,72,0,775,0,618
+704,False,18,68,0,260,1,60,283300,0,72,0,775,0,619
+705,False,18,68,0,260,1,60,283300,0,72,0,775,0,620
+706,False,18,69,0,275,1,60,283300,0,72,0,790,0,621
+707,False,18,69,0,275,1,60,283300,0,72,0,790,0,622
+708,False,18,70,0,300,1,60,301800,0,72,0,875,0,623
+709,False,34,61,0,255,1,60,251000,235,0,0,0,0,624
+710,False,34,61,0,255,1,60,251000,235,0,0,0,0,625
+711,False,34,62,0,265,1,60,261500,245,0,0,0,0,626
+712,False,34,62,0,265,1,60,261500,245,0,0,0,0,627
+713,False,34,62,0,265,1,60,261500,245,0,0,0,0,628
+714,False,34,63,0,270,1,60,261500,250,0,0,0,0,629
+715,False,34,63,0,270,1,60,261500,250,0,0,0,0,630
+716,False,34,64,0,273,1,60,262000,253,0,0,0,0,631
+717,False,34,65,0,276,1,60,262000,256,0,0,0,0,632
+718,False,34,66,0,279,1,60,265800,259,0,0,0,0,633
+719,False,34,66,0,279,1,60,265800,259,0,0,0,0,634
+720,False,34,66,0,279,1,60,265800,259,0,0,0,0,635
+721,False,34,67,0,282,1,60,265800,262,0,0,0,0,636
+722,False,34,67,0,282,1,60,265800,262,0,0,0,0,637
+723,False,34,68,0,285,1,60,283300,265,0,0,0,0,638
+724,False,34,68,0,285,1,60,283300,265,0,0,0,0,639
+725,False,34,69,0,288,1,60,283300,268,0,0,0,0,640
+726,False,34,69,0,288,1,60,283300,268,0,0,0,0,641
+727,False,34,70,0,290,1,60,301800,270,0,0,0,0,642
+728,False,34,70,0,290,1,60,301800,270,0,0,0,0,643
+729,False,19,61,0,205,1,60,251000,0,72,0,560,0,644
+730,False,19,62,0,210,1,60,261500,0,72,0,571,0,645
+731,False,19,63,0,215,1,60,261500,0,72,0,582,0,646
+732,False,19,64,0,220,1,60,262000,0,72,0,587,0,647
+733,False,19,65,0,225,1,60,262000,0,72,0,591,0,648
+734,False,19,66,0,230,1,60,265800,0,72,0,595,0,649
+735,False,19,67,0,245,1,60,265800,0,72,0,607,0,650
+736,False,19,68,0,260,1,60,283300,0,72,0,620,0,651
+737,False,19,69,0,275,1,60,283300,0,72,0,632,0,652
+738,False,19,70,0,290,1,60,301800,0,72,0,644,0,653
+739,False,17,60,0,180,1,60,251000,0,72,0,602,0,654
+740,True,34,70,0,1,2,1080,1169200,270,0,0,0,0,30086
+741,True,17,70,0,1,2,1080,1169200,0,72,0,805,0,30087
+742,True,18,70,0,1,2,1080,1169200,0,72,0,805,0,30088
+743,True,19,70,0,1,2,1080,1169200,0,72,0,644,0,30089
+744,False,17,70,300,300,1,60,301800,0,72,0,875,0,655
+745,False,17,70,300,300,1,60,301800,0,72,0,875,0,656
+746,False,18,70,300,300,1,60,301800,0,72,0,875,0,657
+747,False,18,70,300,300,1,60,301800,0,72,0,875,0,658
+748,False,17,70,300,300,1,60,301800,0,72,0,875,0,659
+749,False,18,70,300,300,1,60,301800,0,72,0,875,0,660
+750,False,19,70,300,300,1,60,301800,0,72,0,700,0,661
+751,False,17,70,320,320,1,60,301800,0,72,0,1015,0,662
+752,False,17,70,320,320,1,60,301800,0,72,0,1015,0,663
+753,False,18,70,320,320,1,60,301800,0,72,0,1015,0,664
+754,False,18,70,320,320,1,60,301800,0,72,0,1015,0,665
+755,False,19,70,320,320,1,60,301800,0,72,0,812,0,666
+756,False,17,70,320,320,1,60,301800,0,72,0,1015,0,667
+757,False,18,70,320,320,1,60,301800,0,72,0,1015,0,668
+758,False,17,70,350,350,1,60,301800,0,72,0,1015,0,669
+759,False,17,70,350,350,1,60,301800,0,72,0,1155,0,670
+760,False,17,70,355,355,1,60,301800,0,72,0,1155,0,671
+761,False,18,70,370,370,1,60,301800,0,72,0,1155,0,672
+762,False,18,70,370,370,1,60,301800,0,72,0,1155,0,673
+763,True,34,71,0,1,2,1080,1412800,370,0,0,0,0,30090
+764,True,17,71,0,1,2,1080,1412800,0,72,0,1190,0,30091
+765,True,18,71,0,1,2,1080,1412800,0,72,0,1190,0,30092
+766,True,19,71,0,1,2,1080,1412800,0,72,0,952,0,30093
+767,True,34,75,0,1,2,1080,2102400,386,0,0,0,0,30094
+768,True,17,75,0,1,2,1080,2102400,0,72,0,1294,0,30095
+769,True,18,75,0,1,2,1080,2102400,0,72,0,1294,0,30096
+770,True,19,75,0,1,2,1080,2102400,0,72,0,1035,0,30097
+771,False,34,70,0,290,1,60,301800,270,0,0,0,0,674
+772,False,34,71,0,390,1,60,301800,370,0,0,0,0,675
+773,False,34,71,0,390,1,60,301800,370,0,0,0,0,676
+774,False,34,71,0,390,1,60,301800,370,0,0,0,0,677
+775,False,34,71,0,390,1,60,301800,370,0,0,0,0,678
+776,False,34,72,0,400,1,60,332400,375,0,0,0,0,679
+777,False,34,73,0,400,1,60,332400,380,0,0,0,0,680
+778,False,34,73,0,400,1,60,332400,380,0,0,0,0,681
+779,False,34,74,0,406,1,60,377100,383,0,0,0,0,682
+780,False,34,75,0,406,1,60,377100,386,0,0,0,0,683
+781,False,34,75,0,406,1,60,377100,386,0,0,0,0,684
+782,False,34,76,0,409,1,60,437700,389,0,0,0,0,685
+783,False,34,77,0,412,1,60,437700,392,0,0,0,0,686
+784,False,34,77,0,412,1,60,437700,392,0,0,0,0,687
+785,False,34,78,0,415,1,60,525600,395,0,0,0,0,688
+786,False,34,79,0,418,1,60,525600,398,0,0,0,0,689
+787,False,34,79,0,418,1,60,525600,398,0,0,0,0,690
+788,False,17,70,0,320,1,60,301800,0,72,0,1015,0,691
+789,False,17,72,0,350,1,60,332400,0,72,0,1225,0,692
+790,False,17,72,0,350,1,60,332400,0,72,0,1225,0,693
+791,False,17,73,0,355,1,60,332400,0,72,0,1235,0,694
+792,False,17,74,0,370,1,60,377100,0,72,0,1260,0,695
+793,False,17,74,0,370,1,60,377100,0,72,0,1260,0,696
+794,False,17,76,0,390,1,60,437700,0,72,0,1327,0,697
+795,False,17,76,0,390,1,60,437700,0,72,0,1327,0,698
+796,False,17,77,0,400,1,60,437700,0,72,0,1360,0,699
+797,False,17,78,0,410,1,60,525600,0,72,0,1393,0,700
+798,False,17,78,0,410,1,60,525600,0,72,0,1393,0,701
+799,False,17,80,0,430,1,60,599200,0,72,0,1459,0,702
+800,False,17,70,0,320,1,60,301800,0,72,0,1015,0,703
+801,False,17,70,0,320,1,60,301800,0,72,0,1015,0,704
+802,False,17,71,0,345,1,60,301800,0,72,0,1190,0,705
+803,False,17,71,0,345,1,60,301800,0,72,0,1190,0,706
+804,False,17,75,0,380,1,60,377100,0,72,0,1294,0,707
+805,False,17,76,0,390,1,60,437700,0,72,0,1327,0,708
+806,False,17,76,0,390,1,60,437700,0,72,0,1327,0,709
+807,False,17,79,0,420,1,60,525600,0,72,0,1426,0,710
+808,False,18,71,0,345,1,60,301800,0,72,0,1190,0,711
+809,False,18,71,0,345,1,60,301800,0,72,0,1190,0,712
+810,False,18,71,0,345,1,60,301800,0,72,0,1190,0,713
+811,False,18,72,0,350,1,60,332400,0,72,0,1225,0,714
+812,False,18,74,0,370,1,60,377100,0,72,0,1260,0,715
+813,False,18,75,0,380,1,60,377100,0,72,0,1294,0,716
+814,False,18,76,0,390,1,60,437700,0,72,0,1327,0,717
+815,False,18,76,0,390,1,60,437700,0,72,0,1327,0,718
+816,False,18,78,0,410,1,60,525600,0,72,0,1393,0,719
+817,False,18,80,0,430,1,60,599200,0,72,0,1459,0,720
+818,False,18,70,0,320,1,60,301800,0,72,0,1015,0,721
+819,False,18,71,0,345,1,60,301800,0,72,0,1190,0,722
+820,False,18,71,0,345,1,60,301800,0,72,0,1190,0,723
+821,False,18,71,0,345,1,60,301800,0,72,0,1190,0,724
+822,False,18,71,0,345,1,60,301800,0,72,0,1190,0,725
+823,False,18,72,0,350,1,60,332400,0,72,0,1225,0,726
+824,False,18,72,0,350,1,60,332400,0,72,0,1225,0,727
+825,False,18,72,0,350,1,60,332400,0,72,0,1225,0,728
+826,False,18,73,0,355,1,60,332400,0,72,0,1235,0,729
+827,False,18,74,0,370,1,60,377100,0,72,0,1260,0,730
+828,False,18,74,0,370,1,60,377100,0,72,0,1260,0,731
+829,False,18,75,0,380,1,60,377100,0,72,0,1294,0,732
+830,False,18,75,0,380,1,60,377100,0,72,0,1294,0,733
+831,False,18,76,0,390,1,60,437700,0,72,0,1327,0,734
+832,False,18,76,0,390,1,60,437700,0,72,0,1327,0,735
+833,False,18,77,0,400,1,60,437700,0,72,0,1360,0,736
+834,False,18,78,0,410,1,60,525600,0,72,0,1393,0,737
+835,False,18,78,0,410,1,60,525600,0,72,0,1393,0,738
+836,False,18,78,0,410,1,60,525600,0,72,0,1393,0,739
+837,False,18,79,0,420,1,60,525600,0,72,0,1426,0,740
+838,False,18,79,0,420,1,60,525600,0,72,0,1426,0,741
+839,False,18,78,0,410,1,60,525600,0,72,0,1393,0,742
+840,False,18,79,0,420,1,60,525600,0,72,0,1426,0,743
+841,False,19,71,0,345,1,60,301800,0,72,0,952,0,744
+842,False,19,72,0,350,1,60,332400,0,72,0,980,0,745
+843,False,19,73,0,355,1,60,332400,0,72,0,988,0,746
+844,False,19,74,0,370,1,60,377100,0,72,0,1008,0,747
+845,False,19,77,0,400,1,60,437700,0,72,0,1088,0,748
+846,False,19,74,0,370,1,60,377100,0,72,0,1008,0,749
+847,False,19,76,0,390,1,60,437700,0,72,0,1061,0,750
+848,False,19,78,0,410,1,60,525600,0,72,0,1114,0,751
+849,False,19,78,0,410,1,60,525600,0,72,0,1114,0,752
+850,False,19,79,0,420,1,60,525600,0,72,0,1140,0,753
+851,True,34,80,0,1,2,1080,2396800,400,0,0,0,0,30098
+852,True,17,80,0,1,2,1080,2396800,0,72,0,1459,0,30099
+853,True,18,80,0,1,2,1080,2396800,0,72,0,1459,0,30100
+854,True,19,80,0,1,2,1080,2396800,0,72,0,1167,0,30101
+855,False,17,80,430,430,1,60,599200,0,72,0,1459,0,754
+856,False,17,80,440,440,1,60,599200,0,72,0,1528,0,755
+857,False,17,80,440,440,1,60,599200,0,72,0,1528,0,756
+858,False,18,80,430,430,1,60,599200,0,72,0,1459,0,757
+859,False,18,80,440,440,1,60,599200,0,72,0,1528,0,758
+860,False,18,80,440,440,1,60,599200,0,72,0,1528,0,759
+861,False,17,80,441,440,1,60,599200,0,72,0,1528,0,99
+862,False,18,80,441,440,1,60,599200,0,72,0,1528,0,127
+863,False,19,80,0,440,1,60,599200,0,72,0,1222,0,160
+864,False,17,80,460,460,1,60,599200,0,72,0,1584,0,227
+865,False,17,80,460,460,1,60,599200,0,72,0,1584,0,265
+866,False,17,80,460,460,1,60,599200,0,72,0,1584,0,307
+867,False,18,80,460,460,1,60,599200,0,72,0,1584,0,760
+868,False,18,80,460,460,1,60,599200,0,72,0,1584,0,761
+869,False,18,80,460,460,1,60,599200,0,72,0,1584,0,762
+870,False,17,80,461,460,1,60,599200,0,72,0,1584,0,763
+871,False,18,80,460,460,1,60,599200,0,72,0,1584,0,764
+872,False,19,80,460,460,1,60,599200,0,72,0,1267,0,765
+873,False,17,59,0,148,1,60,247100,0,72,0,401,0,766
+874,False,17,60,0,150,1,60,251000,0,72,0,405,0,767
+875,False,17,56,0,139,1,60,216800,0,72,0,389,0,768
+876,False,18,60,0,150,1,60,251000,0,72,0,405,0,769
+877,False,18,59,0,148,1,60,247100,0,72,0,401,0,770
+878,False,18,56,0,139,1,60,216800,0,72,0,389,0,771
+879,False,18,71,0,345,1,60,301800,0,72,0,1190,0,772
+880,True,34,81,0,1,2,1080,3179200,500,0,0,0,0,30102
+881,True,34,85,0,1,2,1080,4335200,516,0,0,0,0,30106
+882,True,17,81,0,1,2,1080,3179200,0,72,0,1815,0,30103
+883,True,17,85,0,1,2,1080,4335200,0,72,0,2027,0,30107
+884,True,18,81,0,1,2,1080,3179200,0,72,0,1815,0,30104
+885,True,18,85,0,1,2,1080,4335200,0,72,0,2027,0,30108
+886,True,19,81,0,1,2,1080,3179200,0,72,0,1452,0,30105
+887,True,19,85,0,1,2,1080,4335200,0,72,0,1621,0,30109
+888,False,18,80,490,490,1,60,599200,0,72,0,1782,0,773
+889,False,17,80,490,490,1,60,599200,0,72,0,1782,0,774
+890,False,17,80,490,490,1,60,599200,0,72,0,1782,0,775
+891,False,18,80,490,490,1,60,599200,0,72,0,1782,0,776
+892,False,18,80,490,490,1,60,599200,0,72,0,1782,0,777
+893,False,17,80,490,490,1,60,599200,0,72,0,1782,0,778
+894,False,17,81,0,495,1,60,694200,0,72,0,1815,0,779
+895,False,17,81,0,495,1,60,694200,0,72,0,1815,0,780
+896,False,17,81,0,495,1,60,694200,0,72,0,1815,0,781
+897,False,17,81,0,495,1,60,694200,0,72,0,1815,0,782
+898,False,17,82,0,500,1,60,694200,0,72,0,1848,0,783
+899,False,17,82,0,500,1,60,694200,0,72,0,1848,0,784
+900,False,17,83,0,510,1,60,794800,0,72,0,1914,0,785
+901,False,17,84,0,520,1,60,794800,0,72,0,1980,0,786
+902,False,17,85,0,527,1,60,828700,0,72,0,2027,0,787
+903,False,17,86,0,534,1,60,923100,0,72,0,2073,0,788
+904,False,17,86,0,534,1,60,923100,0,72,0,2073,0,789
+905,False,17,87,0,540,1,60,952900,0,72,0,2119,0,790
+906,False,17,88,0,547,1,60,1045900,0,72,0,2165,0,791
+907,False,17,89,0,554,1,60,1083800,0,72,0,2211,0,792
+908,False,17,90,560,560,1,60,1327800,0,72,0,2258,0,793
+909,False,18,81,0,495,1,60,694200,0,72,0,1815,0,794
+910,False,18,81,0,495,1,60,694200,0,72,0,1815,0,795
+911,False,18,81,0,495,1,60,694200,0,72,0,1815,0,796
+912,False,18,81,0,495,1,60,694200,0,72,0,1815,0,797
+913,False,18,82,0,500,1,60,694200,0,72,0,1848,0,798
+914,False,18,82,0,500,1,60,694200,0,72,0,1848,0,799
+915,False,18,82,0,500,1,60,694200,0,72,0,1848,0,800
+916,False,18,82,0,500,1,60,694200,0,72,0,1848,0,801
+917,False,18,82,0,500,1,60,694200,0,72,0,1848,0,802
+918,False,18,83,0,510,1,60,794800,0,72,0,1914,0,803
+919,False,18,83,0,510,1,60,794800,0,72,0,1914,0,804
+920,False,18,84,0,520,1,60,794800,0,72,0,1980,0,805
+921,False,18,84,0,520,1,60,794800,0,72,0,1980,0,806
+922,False,18,84,0,520,1,60,794800,0,72,0,1980,0,807
+923,False,18,85,0,527,1,60,828700,0,72,0,2027,0,808
+924,False,18,86,0,534,1,60,923100,0,72,0,2073,0,809
+925,False,18,86,0,534,1,60,923100,0,72,0,2073,0,810
+926,False,18,87,0,540,1,60,952900,0,72,0,2119,0,811
+927,False,18,87,0,540,1,60,952900,0,72,0,2119,0,812
+928,False,18,88,0,547,1,60,1045900,0,72,0,2165,0,813
+929,False,18,88,0,547,1,60,1045900,0,72,0,2165,0,814
+930,False,18,89,0,554,1,60,1083800,0,72,0,2211,0,815
+931,False,18,89,0,554,1,60,1083800,0,72,0,2211,0,816
+932,False,18,90,560,560,1,60,1327800,0,72,0,2258,0,817
+933,False,34,80,0,515,1,60,599200,495,0,0,0,0,818
+934,False,34,80,0,515,1,60,599200,495,0,0,0,0,819
+935,False,34,80,0,515,1,60,599200,495,0,0,0,0,820
+936,False,34,82,0,525,1,60,694200,505,0,0,0,0,821
+937,False,34,82,0,525,1,60,694200,505,0,0,0,0,822
+938,False,34,84,0,533,1,60,794800,513,0,0,0,0,823
+939,False,34,82,0,525,1,60,694200,505,0,0,0,0,824
+940,False,34,81,0,520,1,60,694200,500,0,0,0,0,825
+941,False,34,83,0,530,1,60,794800,510,0,0,0,0,826
+942,False,34,84,0,533,1,60,794800,513,0,0,0,0,827
+943,False,34,84,0,533,1,60,794800,513,0,0,0,0,828
+944,False,34,86,0,539,1,60,923100,519,0,0,0,0,829
+945,False,34,86,0,539,1,60,923100,519,0,0,0,0,830
+946,False,34,86,0,539,1,60,923100,519,0,0,0,0,831
+947,False,34,88,0,545,1,60,1045900,525,0,0,0,0,832
+948,False,34,88,0,545,1,60,1045900,525,0,0,0,0,833
+949,False,34,89,0,548,1,60,1083800,528,0,0,0,0,834
+950,False,34,86,0,539,1,60,923100,519,0,0,0,0,835
+951,False,19,81,0,495,1,60,694200,0,72,0,1452,0,836
+952,False,19,83,0,510,1,60,794800,0,72,0,1531,0,837
+953,False,19,83,0,510,1,60,794800,0,72,0,1531,0,838
+954,False,19,87,0,540,1,60,952900,0,72,0,1695,0,839
+955,False,19,88,0,547,1,60,1045900,0,72,0,1732,0,840
+956,False,19,81,0,495,1,60,694200,0,72,0,1452,0,841
+957,False,19,82,0,500,1,60,694200,0,72,0,1478,0,842
+958,False,19,84,0,520,1,60,794800,0,72,0,1584,0,843
+959,False,19,86,0,534,1,60,923100,0,72,0,1658,0,844
+960,False,19,88,0,547,1,60,1045900,0,72,0,1732,0,845
+961,True,34,90,0,1,2,1080,5311200,530,0,0,0,0,30110
+962,True,17,90,0,1,2,1080,5311200,0,72,0,2258,0,30111
+963,True,18,90,0,1,2,1080,5311200,0,72,0,2258,0,30112
+964,True,19,90,0,1,2,1080,5311200,0,72,0,1806,0,30113
+965,False,17,90,560,560,1,60,1327800,0,72,0,2258,0,846
+966,False,17,90,570,570,1,60,1327800,0,72,0,2327,0,847
+967,False,17,90,570,570,1,60,1327800,0,72,0,2327,0,848
+968,False,17,90,570,570,1,60,1327800,0,72,0,2327,0,849
+969,False,18,90,560,560,1,60,1327800,0,72,0,2258,0,850
+970,False,18,90,570,570,1,60,1327800,0,72,0,2327,0,851
+971,False,18,90,570,570,1,60,1327800,0,72,0,2327,0,852
+972,False,18,90,570,570,1,60,1327800,0,72,0,2327,0,853
+973,False,17,90,580,570,1,60,1327800,0,72,0,2327,0,854
+974,False,18,90,580,570,1,60,1327800,0,72,0,2327,0,855
+975,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+976,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+977,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+978,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+979,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+980,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+981,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+982,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+983,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+984,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+985,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+986,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+987,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+988,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+989,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+990,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+991,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+992,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+993,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+994,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+995,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+996,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+997,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+998,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+999,False,0,0,0,0,0,0,0,0,0,0,0,0,0
+1000,False,0,0,0,0,0,0,0,0,0,0,0,0,0
