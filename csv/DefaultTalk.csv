@@ -149,8 +149,8 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 いつまでいるつもりなんだ。","まったく、口を開けば損だ得だと、
 奴らは頭がソロバンでできてるんじゃないか？","0"
 589894,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここはグリダニア随一の商店街だ。
-北側の「<74>FF07E9BB92E6AA80FF0DE38193E3818FE3819FE38293</74>商店街」は雑貨や薬品を、
-南側の「<74>FF07E7B4ABE6AA80FF0AE38197E3819FE38293</74>商店街」は武器や防具を扱っている。","0","0"
+北側の「<RubyCharaters>FF07E9BB92E6AA80FF0DE38193E3818FE3819FE38293</RubyCharaters>商店街」は雑貨や薬品を、
+南側の「<RubyCharaters>FF07E7B4ABE6AA80FF0AE38197E3819FE38293</RubyCharaters>商店街」は武器や防具を扱っている。","0","0"
 589895,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"グリダニアが誇る革細工師たちの
 技と魂を、よく目に焼き付けていくといい。","0","0"
 589896,0,1,1,0,0,"event/event_add_talk","","",1,1,1,0,0,0,0,0,0,False,False,False,"未使用","0","0"
@@ -339,7 +339,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 589977,0,1,1,0,0,"event/event_add_talk","","",1,1,1,0,0,0,0,0,0,False,False,False,"未使用","0","0"
 589978,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"未使用","0","0"
 589979,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"未使用","0","0"
-589980,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは<74>FF10E8B18AE7A9A3E7A59EE7A5ADE5A387FF22E381BBE38186E38198E38287E38186E38197E38293E38195E38184E381A0E38293</74>。
+589980,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは<RubyCharaters>FF10E8B18AE7A9A3E7A59EE7A5ADE5A387FF22E381BBE38186E38198E38287E38186E38197E38293E38195E38184E381A0E38293</RubyCharaters>。
 選ばれた道士さまが精霊の声を聴き、
 それを民ぐさに伝える場所だ。","森の狩猟伐採について……
 他都市からの品の持ち込みについて……
@@ -354,10 +354,10 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 精霊の怒りに触れるようなことはしてねぇはずだが……。","0","0"
 589985,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"瞑想の儀式に、君も参加するかね？","0","0"
 589986,0,1,1,0,0,"event/event_add_talk","","",1,1,1,0,0,0,0,0,0,False,False,False,"これより先は、幻術士たちの瞑想の場、
-<74>FF13E7A2A9E88081E6A8B9E79E91E683B3E7AA9FFF25E3819BE3818DE3828DE38186E38198E38285E38281E38184E3819DE38186E3818FE381A4</74>だ。
+<RubyCharaters>FF13E7A2A9E88081E6A8B9E79E91E683B3E7AA9FFF25E3819BE3818DE3828DE38186E38198E38285E38281E38184E3819DE38186E3818FE381A4</RubyCharaters>だ。
 幻術士ギルドに用があるなら進むがいい。","0","0"
 589987,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは木工師たちが集う製材所兼木工所。
-「<74>FF07E58FA4E6A8ABFF0AE38193E3818CE38197</74>の<74>FF07E9AB98E5A082FF0DE38193E38186E381A9E38186</74>」とも呼ばれてるわ。","大型の密閉型水車「フィガガ大水車」の動力を用いた
+「<RubyCharaters>FF07E58FA4E6A8ABFF0AE38193E3818CE38197</RubyCharaters>の<RubyCharaters>FF07E9AB98E5A082FF0DE38193E38186E381A9E38186</RubyCharaters>」とも呼ばれてるわ。","大型の密閉型水車「フィガガ大水車」の動力を用いた
 効率的な製材施設が自慢なの。","0"
 589988,0,1,1,0,0,"event/event_add_talk","","",1,1,1,0,0,0,0,0,0,False,False,False,"未使用","0","0"
 589989,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"イクサル族への効果的な対応策について議論している。
@@ -1077,7 +1077,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 今は大分落ち着いたが、あの冒険者たちには感謝してるよ。"
 590229,0,1,1,1,0,"event/event_add_talk","event/event_add_talk","",1,1,1,0,0,0,0,0,0,False,False,False,"フォールゴウドの一帯は、
 自然を切り開かなくてもいいように、という考えから、
-この「<74>FF0AE7A78BE7939CE6B996FF10E38197E38285E38186E3818BE38193</74>」の湖上に建てられた。","湖の上に浮かんでいるように見える様から、
+この「<RubyCharaters>FF0AE7A78BE7939CE6B996FF10E38197E38285E38186E3818BE38193</RubyCharaters>」の湖上に建てられた。","湖の上に浮かんでいるように見える様から、
 親しみを込めて「浮き村」とも呼ばれているよ。","0"
 590230,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"いらっしゃい。
 あら、冒険者の方ね？","フォールゴウドへようこそ。
@@ -1511,7 +1511,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 活躍してくれると思ったんだが……","0"
 590371,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"あそこに松明が見えるか？
 あれは、海に出て帰らぬ者となった魂を慰める場
-「シーソング<74>FF07E79FB3E7AA9FFF0DE3819BE381A3E3818FE381A4</74>」だ。","あそこの石碑に刻まれた詩は、リムサ・ロミンサで生きる
+「シーソング<RubyCharaters>FF07E79FB3E7AA9FFF0DE3819BE381A3E3818FE381A4</RubyCharaters>」だ。","あそこの石碑に刻まれた詩は、リムサ・ロミンサで生きる
 船乗りたちに親しまれてるって聞いたよ。
 ある難破船の甲板に刻まれてた作者不明の詩らしい。","0"
 590372,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"この納屋は、農具なんかをしまう倉庫だよ。
@@ -1676,7 +1676,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 もう雇われ船長としては、ベテランといえるな。","いざ船を買うほどの金がたまったところで、霊災だ……
 さすがに、船主の船を奪うような形は気が引けてな。
 未だに、船主のためにがんばってるのさ。","0"
-590416,0,1,2,0,0,"event/event_talk_forefinger","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<74>FF10E585ABE58886E58480E5BA83E5A0B4FF19E381AFE381A1E381B6E38293E3818EE381B2E3828DE381B0</74>」。
+590416,0,1,2,0,0,"event/event_talk_forefinger","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<RubyCharaters>FF10E585ABE58886E58480E5BA83E5A0B4FF19E381AFE381A1E381B6E38293E3818EE381B2E3828DE381B0</RubyCharaters>」。
 今や航海には必須になっている道具、
 「八分儀」の発明者、ジョバンニ・ノーノを称えた記念公園さ。","エーテライトも設置されて、都市にとっても
 冒険者にとっても重要な場所になっているよ。","0"
@@ -1724,7 +1724,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 給仕のハ・ラホノに、お申し付けください。
 さまざまな料理を、最高級の味でご賞味いただけます。","0"
 590428,0,1,1,0,0,"","event/event_talk2","",1,1,1,0,0,0,0,0,0,False,False,False,"この先は海都「リムサ・ロミンサ」の主門、
-「ゼファー<74>FF07E999B8E99680FF0DE3828AE3818FE38282E38293</74>」さ。
+「ゼファー<RubyCharaters>FF07E999B8E99680FF0DE3828AE3818FE38282E38293</RubyCharaters>」さ。
 そこをくぐれば、中央ラノシアへ出るぞ。","ここらは、ゼファーと呼ばれる
 穏やかな西風が心地よく吹く場所だからね。
 「ゼファー・ドリフト」と呼ばれているよ。","0"
@@ -2016,19 +2016,19 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 お乗りになられますか？","0","0"
 590523,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"この船は、「キャンドルキープ埠頭」行きだよ。
 乗ってくかい？","0","0"
-590524,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<74>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</74>」だ。
+590524,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<RubyCharaters>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</RubyCharaters>」だ。
 門を通り、中央森林へ出るのか？","0","0"
-590525,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<74>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</74>」だ。
+590525,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<RubyCharaters>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</RubyCharaters>」だ。
 門の先は危険な魔物が多いゆえ、お前のような
 未熟な冒険者を通すことはできん。","0","0"
 590526,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"この門は、現在封鎖中だ。
 森都グリダニアへ入りたいのなら、南東の地神の忘却を降り、
-「<74>FF0AE99D92E78BA2E99680FF13E3819BE38184E3818BE3818FE38282E38293</74>」から入ることだ。","0","0"
+「<RubyCharaters>FF0AE99D92E78BA2E99680FF13E3819BE38184E3818BE3818FE38282E38293</RubyCharaters>」から入ることだ。","0","0"
 590527,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"この船は、「レインキャッチャー」行きだよ。
 乗ってくかい？","0","0"
 590528,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"この船は、「隠れ滝」行きだよ。
 乗ってくかい？","0","0"
-590529,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<74>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</74>」だ。
+590529,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここは「<RubyCharaters>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</RubyCharaters>」だ。
 門を通り、森都グリダニアへ入るのか？","0","0"
 590530,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"……申し訳ありません。
 お客様は現在、搭乗許可証をお持ちでないため、
@@ -2398,7 +2398,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 あそこは危険だから、今は運航を中止してんだ。","0","0"
 590640,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"乗船するには40ギル必要なんだ。
 悪いが、金を貯めて出直してくれ。","0","0"
-590641,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"私はしがない「<74>FF0DE98592E4BF9DE59586E4BABAFF19E38197E38285E381BBE38197E38287E38186E381ABE38293</74>」。
+590641,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"私はしがない「<RubyCharaters>FF0DE98592E4BF9DE59586E4BABAFF19E38197E38285E381BBE38197E38287E38186E381ABE38293</RubyCharaters>」。
 騎兵団みたいな連中に、くっついて回って、
 必要な物資をそろえてやるのが仕事なんだ。","0","0"
 590642,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"私はランケール。
@@ -2501,7 +2501,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 590675,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"この辺りって、ハンノキが多いでしょう？
 だから、アルダースプリングスなんて呼ばれているのよ。","0","0"
 590676,0,1,1,0,0,"event/event_add_talk","","",1,1,1,0,0,0,0,0,0,False,False,False,"フォールゴウドは、
-「<74>FF0AE7A78BE7939CE6B996FF10E38197E38285E38186E3818BE38193</74>」の上に築かれた集落。
+「<RubyCharaters>FF0AE7A78BE7939CE6B996FF10E38197E38285E38186E3818BE38193</RubyCharaters>」の上に築かれた集落。
 森の木々を傷つけないように作った「浮き村」なのです。","0","0"
 590677,0,1,1,0,0,"event/event_add_talk","","",1,1,1,0,0,0,0,0,0,False,False,False,"ソーレ　山から山へと　よいこらさー♪
 山師のツルハシ　トンテンカン♪
@@ -2675,7 +2675,7 @@ int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,by
 一度吹雪くと、他の砦と連絡がとれなくなる。
 天候は常に気にしておかないとな。","0","0"
 590735,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"イシュガルドの騎士にとって、聖戦で死すことは本望。
-男と生まれた者は、誰もが竜を狩る<74>FF04E585B5FF0DE381A4E3828FE38282E381AE</74>となる。
+男と生まれた者は、誰もが竜を狩る<RubyCharaters>FF04E585B5FF0DE381A4E3828FE38282E381AE</RubyCharaters>となる。
 それが我らの矜持であり、宿命なのだ。","0","0"
 590736,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"フォルタン家の紋章は「黒地に赤の一角獣」。
 一角獣っていうのは、クルザス特有の獣なんだけど……
@@ -11975,7 +11975,7 @@ MGP獲得量が1.5倍になるキャンペーンを実施しております！
 すべてを味わいつくすのが、我が野望よ……。","0","0"
 593786,0,1,1,0,0,"","","",1,1,1,0,0,0,0,0,0,False,False,False,"おお、異国の者、わしと酒を酌み交わさんか？
 ちょうど、旅の話を肴にしたかったところでな。","0","0"
-593787,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"<74>FF0AE5BEA1E888B9E894B5FF10E3818AE381B5E381AAE3818FE38289</74>に何か用かい？
+593787,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"<RubyCharaters>FF0AE5BEA1E888B9E894B5FF10E3818AE381B5E381AAE3818FE38289</RubyCharaters>に何か用かい？
 ここじゃ、主に寄港する船の修理や小船を造ってるんだ。
 関船みたいな大きな船は、さすがにここじゃ造れんからな。","0","0"
 593788,0,1,2,0,0,"emote/huh","","",1,1,1,0,0,0,0,0,0,False,False,False,"官職の連中は、てめえらで御船蔵を作っておきながら、
@@ -12070,7 +12070,7 @@ MGP獲得量が1.5倍になるキャンペーンを実施しております！
 593820,0,1,1,0,0,"","","",1,1,1,0,0,0,0,0,0,False,False,False,"どうだ、かわいいだろぉ～？
 こう見えて、海で役立つ働き者なんだぁ～。","0","0"
 593821,0,1,2,0,0,"event/event_greeting","","",1,1,1,0,0,0,0,0,0,False,False,False,"よお、陸のヒト～何か面白い話をしてくれよぉ～？
-噂話は、<74>FF04E7B881FF0AE38188E381ABE38197</74>を繋ぎ、商売を紡ぐんだぁ～。","0","0"
+噂話は、<RubyCharaters>FF04E7B881FF0AE38188E381ABE38197</RubyCharaters>を繋ぎ、商売を紡ぐんだぁ～。","0","0"
 593822,0,1,2,0,0,"event/event_talk1","","",1,1,1,0,0,0,0,0,0,False,False,False,"年に数度の宴会の準備をしてるんだぁ～。
 珍しい食材を知ってたら、教えてくれよぉ～。","0","0"
 593823,0,1,0,0,0,"","","",1,1,1,0,0,0,0,0,0,False,False,False,"ホレホレ　磨けぇ～　ピカピカ　磨けぇ～
@@ -14672,7 +14672,7 @@ MGP獲得量が1.5倍になるキャンペーンを実施しております！
 594749,0,1,1,0,0,"","","",1,1,1,0,0,0,0,0,0,False,False,False,"オイシイ仕事を紹介するだけのはずが、
 いつの間にかオイラまで働かされるなんてなぁ～……。","0","0"
 594750,0,1,2,0,0,"event/event_talk1","","",1,1,1,0,0,0,5,0,0,False,False,False,"ああ、玉藻御前様……今頃どこで何をしているやら……。","0","0"
-594751,0,1,2,0,0,"event/event_talk1","event/event_talk_big","",1,1,1,0,0,0,5,5,0,False,False,False,"オラは<74>FF04E9B5BAFF07E381ACE38188</74>と呼ばれる瑞獣だ。
+594751,0,1,2,0,0,"event/event_talk1","event/event_talk_big","",1,1,1,0,0,0,5,5,0,False,False,False,"オラは<RubyCharaters>FF04E9B5BAFF07E381ACE38188</RubyCharaters>と呼ばれる瑞獣だ。
 自慢の神通力で、雷を自由に操ることができるんだよ。","なぜかおとぎ話では、胴体はタヌキで顔はサル、手足はトラで、
 蛇の尾が生えた姿で描かれることが多くてなぁ……
 実際は、こんなにめんこいのによぉ。","0"
@@ -19551,7 +19551,7 @@ LucKmc103未コンプ時デフォルトトーク","0","0"
 街をしっかり護っておこう。"
 596485,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"……サンクレッドがこちらに召喚されてきたときのことだ。
 彼はここが第一世界だとわかると、最初にこう言った……
-「ミンフィリアを知っているか」とね。","その名前は、彼にとっての<74>FF04E6A899FF0AE38197E3828BE381B9</74>なのだろう。
+「ミンフィリアを知っているか」とね。","その名前は、彼にとっての<RubyCharaters>FF04E6A899FF0AE38197E3828BE381B9</RubyCharaters>なのだろう。
 私ごときが口を出せる話でもなし、見守ることしかできないが、
 今回の旅の結末が、悪くないものであることを願っているよ。","0"
 596486,0,1,2,0,0,"event/event_talk_onehand","","",1,1,1,0,0,0,0,0,0,False,False,False,"ユールモアの状況は、魔器と協力者を頼りにして、
@@ -22668,7 +22668,7 @@ MGP1.5倍キャンペーンを実施しているんだぜ！","0","0"
 597525,0,1,2,0,0,"event/event_talk4","","",1,1,1,0,0,0,0,0,0,False,False,False,"愛を彩る祝祭、「ヴァレンティオンデー」を開催しております。
 多くの愛と素晴らしい出会いが、貴方にも訪れますよう……。","0","0"
 597526,0,1,1,0,0,"event/event_add_talk","event/event_add_talk","",1,1,1,0,0,0,8,8,8,False,False,False,"<UIForeground>F20223</UIForeground>来客は嬉しいものだ。
-しかし、ここに存在するのは役目を終えた<74>FF07E6A99FE6A78BFF0AE3828FE3819FE38197</74>だけ……
+しかし、ここに存在するのは役目を終えた<RubyCharaters>FF07E6A99FE6A78BFF0AE3828FE3819FE38197</RubyCharaters>だけ……
 貴殿らのような、未来へ進む者が留まるべき場所ではない。<UIForeground>01</UIForeground>","<UIForeground>F20223</UIForeground>さあ、行くのだ……。
 ハイデリンは私に、人をどうせよとも命じていない。
 そう……命じてはいないのだ……。<UIForeground>01</UIForeground>","0"
@@ -26911,7 +26911,7 @@ RANK3になると、取引可能となります。","0"
 彼らが神々の依り代だと思うんですが……
 私が近づくと逃げちゃうんですよ、残念だなぁ。"
 598893,0,1,2,0,0,"event/event_talk2","event/event_talk3","",1,1,1,0,0,0,0,0,0,False,False,False,"新たな季節の来たりを、謹んでお慶び申し上げまする。
-拙者は、東方より参じた「<74>FF0AE58DAFE5A589E8A18CFF16E38186E38195E3818EE381B6E3818EE38287E38186</74>」にござる。","エオルゼアの方々ともに「降神祭」を祝い、
+拙者は、東方より参じた「<RubyCharaters>FF0AE58DAFE5A589E8A18CFF16E38186E38195E3818EE381B6E3818EE38287E38186</RubyCharaters>」にござる。","エオルゼアの方々ともに「降神祭」を祝い、
 親睦を深めんと、東方よりまかりこした。
 催し物を用意しておるゆえ、ぜひともご参加くだされ！","0"
 598894,0,1,2,0,0,"event/event_talk4","","",1,1,1,0,0,0,0,0,0,False,False,False,"おみくじの催しも、賑わいを見せだしたようで何よりにござる。
@@ -28259,16 +28259,16 @@ N-7000がまたおかしくなったときは、
 599324,0,1,1,0,0,"event/event_talk_onehand","","",1,1,1,0,0,0,0,0,0,False,False,False,"ユルス殿から通信にて事情は聞いている。
 グナエウス殿が、立ち入り許可を与えたそうだが、
 くれぐれも問題を起こすんじゃないぞ。","0","0"
-599325,0,1,2,0,0,"event/event_talk_bothhand","","",1,1,1,0,0,0,0,0,0,False,False,False,"すみません、新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>探しの旅に出た先生からは、
+599325,0,1,2,0,0,"event/event_talk_bothhand","","",1,1,1,0,0,0,0,0,0,False,False,False,"すみません、新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>探しの旅に出た先生からは、
 まだ連絡が来てないです。","0","0"
-599326,0,1,2,0,0,"event/event_joy_girl","","",1,1,1,0,0,0,0,0,0,False,False,False,"先生の<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>、どんな風になるか楽しみですね……！","0","0"
+599326,0,1,2,0,0,"event/event_joy_girl","","",1,1,1,0,0,0,0,0,0,False,False,False,"先生の<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>、どんな風になるか楽しみですね……！","0","0"
 599327,0,1,2,0,0,"event/event_talk_forefinger","","",1,1,1,0,0,0,0,0,0,False,False,False,"先生に手加減は無用ですよ。
 ゴールドルをケチョンケチョンにしてやってください！","0","0"
 599328,0,1,2,0,0,"event/event_spirit","","",1,1,1,0,0,0,0,0,0,False,False,False,"やあ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>君……
 じゃなくて、わしはゴールドル！
 お前の敵なのだから、気安く話しかけるでないぞ……！","0","0"
 599329,0,1,2,0,0,"event/event_talk_onehand","","",1,1,1,0,0,0,0,0,0,False,False,False,"さすがは、我が弟子だな……。","0","0"
-599330,0,1,2,0,0,"event/event_sigh2","","",1,1,1,0,0,0,0,0,0,False,False,False,"まさか、<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>にされるなんてね。
+599330,0,1,2,0,0,"event/event_sigh2","","",1,1,1,0,0,0,0,0,0,False,False,False,"まさか、<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>にされるなんてね。
 この私に悪の要素など微塵もないと思うのだが、
 君もそう思わないか……？","0","0"
 599331,0,1,2,0,0,"event/event_talk4","","",1,1,1,0,0,0,0,0,0,False,False,False,"私は生き残った者の生活を守ることで精一杯だが、
@@ -28980,7 +28980,7 @@ F.A.T.E.達成度がRANK4になると、取引可能となります。","0"
 もし物作りや採集が得意だったら、
 マリハリから仕事を請け負ってもらえると嬉しいよ！","0","0"
 599550,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"うちは金属製品……金物のなかでも、
-暮らしに寄り添った道具を扱う<74>FF0DE98791E88D92E789A9E5B18BFF16E3818BE381AAE38182E38289E38282E381AEE38284</74>だ。
+暮らしに寄り添った道具を扱う<RubyCharaters>FF0DE98791E88D92E789A9E5B18BFF16E3818BE381AAE38182E38289E38282E381AEE38284</RubyCharaters>だ。
 鍋なんかが必要なら、いつでも来てくれ。","0","0"
 599551,0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,False,False,False,"","",""
 599552,0,0,0,0,0,"","","",0,0,0,0,0,0,0,0,0,False,False,False,"","",""
@@ -29332,7 +29332,7 @@ F.A.T.E.達成度がRANK4になると、取引可能となります。","0"
 悪しからず、ご了承くださいませ。","0","0"
 599697,0,1,1,0,0,"event/event_chair_talk_onehand","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここの窓口で、職業関連の相談ができるんだ。
 結婚するもんで、もうちょっと稼ぎのいい仕事に変われないか、
-<74>FF07E694BFE5BA9CFF10E382ACE38390E383A1E383B3E38388</74>に申請してるんだよ。","0","0"
+<RubyCharaters>FF07E694BFE5BA9CFF10E382ACE38390E383A1E383B3E38388</RubyCharaters>に申請してるんだよ。","0","0"
 599698,0,1,1,0,0,"event/event_chair_arms","","",1,1,1,0,0,0,0,0,0,False,False,False,"目的の居住殻への移住申請が通ったのはいいけれど、
 引越し先の区画に、人がまだ住んでいたんだ！
 こんなことありえないって、担当者は大騒ぎしていたよ……。","0","0"
@@ -29384,7 +29384,7 @@ F.A.T.E.達成度がRANK4になると、取引可能となります。","0"
 599715,0,1,2,0,0,"event/event_talk_bothhand","","",1,1,1,0,0,0,0,0,0,False,False,False,"繊細なんだよ、アルパカたちはね。
 世話するための道具は値が張るものも多いけど、
 それで彼らが上機嫌になるなら安いものさ。","0","0"
-599716,0,1,2,0,0,"event/event_talk2","","",1,1,1,605,0,0,0,0,0,False,False,False,"<74>FF19E3839AE383ABE3839AE383ABE6978FE381AEE5AEB6E38085FF16E383AFE38381E383A5E383B3E383BBE3839AE383AD</74>へようこそ！
+599716,0,1,2,0,0,"event/event_talk2","","",1,1,1,605,0,0,0,0,0,False,False,False,"<RubyCharaters>FF19E3839AE383ABE3839AE383ABE6978FE381AEE5AEB6E38085FF16E383AFE38381E383A5E383B3E383BBE3839AE383AD</RubyCharaters>へようこそ！
 特産品もいろいろあるから、じっくり見ていってくれると嬉しいな。","0","0"
 599717,0,1,2,0,0,"event/event_talk2","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここから北へ向かうと、畑である「アガベの歯列」があります。
 もし向かうのならお気をつけて、
@@ -30179,7 +30179,7 @@ F.A.T.E.達成度がRANK4になると、取引可能となります。","0"
 僕らも平和を感じられるんだ。","0","0"
 600019,0,1,2,0,0,"event/event_think","","",1,1,1,0,0,0,0,0,0,False,False,False,"さっき、やけに慌てた様子のトーブリさんを見かけたよ。
 何かあったのかな……。","0","0"
-600020,0,1,2,0,0,"event/event_talk3","","",1,1,1,605,0,0,0,0,0,False,False,False,"<74>FF19E3839AE383ABE3839AE383ABE6978FE381AEE5AEB6E38085FF16E383AFE38381E383A5E383B3E383BBE3839AE383AD</74>へようこそ！
+600020,0,1,2,0,0,"event/event_talk3","","",1,1,1,605,0,0,0,0,0,False,False,False,"<RubyCharaters>FF19E3839AE383ABE3839AE383ABE6978FE381AEE5AEB6E38085FF16E383AFE38381E383A5E383B3E383BBE3839AE383AD</RubyCharaters>へようこそ！
 あなたを歓迎するよ、ペルペル族みんなで！","0","0"
 600021,0,1,2,0,0,"event/event_talk_onehand","","",1,1,1,0,0,0,0,0,0,False,False,False,"ここから北へ向かうと、畑である「アガベの歯列」があります。
 魔物もいるのでお気をつけて……
@@ -30336,7 +30336,7 @@ F.A.T.E.達成度がRANK4になると、取引可能となります。","0"
 魂資源で一命はとりとめたが、ひどいショックを受けたんだ。
 どんなに怖かっただろうって考えると、いたたまれないよ。","0","0"
 600076,0,1,1,0,0,"event/event_chair_talk_onehand","","",1,1,1,0,0,0,0,0,0,False,False,False,"妻の希望で、一緒にいられる時間をなるべく確保できる仕事を、
-<74>FF07E694BFE5BA9CFF10E382ACE38390E383A1E383B3E38388</74>に申請することにしたんだ。
+<RubyCharaters>FF07E694BFE5BA9CFF10E382ACE38390E383A1E383B3E38388</RubyCharaters>に申請することにしたんだ。
 この先どうなるかなんて、誰にもわからないからな……。","0","0"
 600077,0,1,1,0,0,"event/event_chair_talk_onehand","","",1,1,1,0,0,0,0,0,0,False,False,False,"襲撃の被害者には、見舞金が出るって噂だけど、
 まだ、公式な発表がされていなくてね……。
