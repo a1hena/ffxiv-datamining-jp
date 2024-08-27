@@ -1288,7 +1288,8 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>竜眼雷電の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スターダイバーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>720
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヘヴンスラストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>桜華繚乱の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>桜華繚乱の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天竜点睛の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440"
 654,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヘヴィスウィングの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
