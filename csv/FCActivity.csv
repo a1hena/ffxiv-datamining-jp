@@ -107,3 +107,5 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 103,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>が<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>のメッセージを削除しました。",16,23,0,"ハウジング",11
 104,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>が交流帳設定を変更しました。",16,0,0,"ハウジング",11
 105,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>がタグを設定しました。",16,0,0,"ハウジング",11
+106,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>が「<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>」の内装をリフォームしました。",16,15,0,"ハウジング",11
+107,"",0,0,0,"すべて",0

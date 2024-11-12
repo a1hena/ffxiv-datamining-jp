@@ -295,7 +295,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131373,281,17,0,0,0,,"ドロポックル・ストーンキルン",False,False,True,0,0,0,False,True
 131374,282,17,0,0,0,,"ストーンガーデンウォール",False,False,True,0,0,0,False,True
 131375,283,17,0,0,0,,"カラフルフラワーパッチ",False,False,True,0,0,0,False,True
-131376,284,17,0,0,0,,"イルメグ・アーバー",False,False,True,0,0,0,False,True
+131376,284,17,0,0,0,,"イル・メグ・アーバー",False,False,True,0,0,0,False,True
 131377,285,17,0,0,0,,"アイルガーデンフェンス",False,False,True,0,0,0,False,True
 131378,286,17,0,0,0,,"アイルパラソルテーブル",False,False,True,0,0,0,False,True
 131379,287,17,0,0,0,,"アイルガーデンチェア",False,False,True,0,0,0,False,True
@@ -332,3 +332,9 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131414,320,17,0,0,0,,"ウッドガーデンゲート",False,False,True,0,0,0,False,True
 131415,308,17,0,0,0,,"ヤクテル・スケールツリー",False,False,True,0,0,0,False,True
 131416,321,17,0,0,0,,"ネオキングダム・ランプポスト",False,False,True,0,0,0,False,True
+131417,188,17,0,0,0,,"カクタスガーデンEX",False,False,True,3,0,0,False,True
+131418,192,17,0,0,0,,"ガーデン・パームツリーEX",False,False,True,3,0,0,False,True
+131419,322,17,0,0,0,,"東方東屋",False,False,True,0,0,0,False,True
+131420,323,17,0,0,0,,"スクエアステップストーン",False,False,True,0,0,0,False,True
+131425,328,17,0,0,0,,"ジャジャグラル・ツリー",False,False,True,0,0,0,False,True
+131426,299,17,0,0,0,,"イルミネーテッド・チョコボトピアリーEX",False,False,True,3,0,0,False,True

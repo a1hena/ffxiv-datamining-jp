@@ -109,3 +109,5 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 105,"探索","ui/icon/061000/061103.tex",3,"normal/searchaction_start","normal/searchaction_loop","normal/searchaction_end"
 106,"介抱","ui/icon/061000/061103.tex",5,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 107,"エーテルを流す","ui/icon/061000/061103.tex",5,"normal/aettouch_start","normal/aettouch_loop","normal/aettouch_end"
+108,"なだめる","ui/icon/061000/061103.tex",5,"pc_contentsaction/pc_cnt042_start","pc_contentsaction/pc_cnt042_loop","pc_contentsaction/pc_cnt042_end"
+109,"",,0,"","",""

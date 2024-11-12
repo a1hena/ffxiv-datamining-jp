@@ -391,7 +391,9 @@ int32,str
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ライオットソード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ロイヤルアソリティ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「忠義の剣」効果中は、「ロイエ」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ロイエ実行可」効果中は、「ロイエ」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ゲベート実行可」効果中は、「ゲベート」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「グラブカッマー実行可」効果中は、「グラブカッマー」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 51,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
@@ -409,7 +411,9 @@ int32,str
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サイフォンストライク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ソウルイーター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ブラックブラッド」効果中は、「ブラッドスピラー」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ブラックブラッド」効果中は、「レッドデリリアム」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ブラックブラッド」および「カマパンス実行可」効果中は、「カマパンス」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ブラックブラッド」および「トアクリーバー実行可」効果中は、「トアクリーバー」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 53,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
@@ -417,8 +421,7 @@ int32,str
 1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「キーンエッジ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブルータルシェル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ソリッドバレル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ソイル」効果中は、「バーストストライク」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+4：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「バーストストライク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 54,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
@@ -427,18 +430,19 @@ int32,str
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ファウンテン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「アン・アヴァン」効果中は、「リバースカスケード」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「カスケード」コンボ成立後、かつ「アン・アヴァン」効果中は、「ファウンテンフォール」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「剣の舞い実行可」効果中は、「剣の舞い」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「アン・アヴァン」効果中、かつ「カスケード」コンボ成立後は、「ファウンテンフォール」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「剣の舞い実行可」効果中は、「剣の舞い」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「剣の舞い実行可」および「暁の絆」効果中は、「暁の舞い」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 55,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
 
-1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「連撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「正拳突き」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「崩拳」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-4：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「双竜脚」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-5：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「双掌打」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-6：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「破砕拳」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「双竜脚」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「双掌打」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「破砕拳」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+4：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「猿舞連撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+5：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「竜頷正拳撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+6：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「虎襲崩拳」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 7：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「夢幻闘舞」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 56,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
@@ -447,8 +451,10 @@ int32,str
 1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「竜眼雷電」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「竜牙竜爪」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「竜尾大車輪」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+4：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「雲蒸竜変」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ヘヴンスラスト実行可」効果中は、「ヘヴンスラスト」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「ヘヴンスラスト実行可」効果中は、「ヘヴンスラスト」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「スタークロッサー実行可」効果中は、「スタークロッサー」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 57,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
@@ -459,7 +465,8 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「かくれる」効果中は、「終撃」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「三印自在」効果中は、「月影雷獣爪」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「月影雷獣牙実行可」効果中は、「月影雷獣牙」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「月影雷獣牙実行可」効果中は、「月影雷獣牙」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「是生滅法実行可」効果中は、「是生滅法」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 58,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
@@ -469,8 +476,8 @@ int32,str
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「花車」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「回天」効果中は、「氷雪」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「雪風」コンボ成立後、かつ「回天」効果中は、「満月」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「月光」コンボ成立後、かつ「回天」効果中は、「桜花」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「回天」効果中、かつ「雪風」コンボ成立後は、「満月」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「回天」効果中、かつ「月光」コンボ成立後は、「桜花」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 59,"コンボ用アクション。
 使用するごとに以下のウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
@@ -479,9 +486,9 @@ int32,str
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ワクシングスライス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「インファナルスライス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「妖異の鎌」効果中は、「ギロティン」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「エクスギロティン実行可」効果中は、「エクスギロティン」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「レムール」効果中は、「ヴォイドリーパー」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「レムール」かつ「クロスリーパー実行可」効果中は、「クロスリーパー」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「レムール」効果中、かつ「ヴォイドリーパー」コンボ成立後は、「クロスリーパー」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 60,"紳士的コンボアクション。
 使用するごとに以下の紳士的ウェポンスキルを順番に発動する。
 次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
@@ -530,8 +537,8 @@ int32,str
 5：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「弐の牙【疾速】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 6：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「参の牙【噛砕】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【壱】」コンボ成立後は、「祖霊の牙【壱】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【弐】」コンボ成立後は、「祖霊の牙【弐】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【参】」コンボ成立後は、「祖霊の牙【参】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【肆】」コンボ成立後は、「祖霊の牙【肆】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「大空喰らう蛇」コンボ成立後は、「祖霊の牙【壱】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【壱】」コンボ成立後は、「祖霊の牙【弐】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【弐】」コンボ成立後は、「祖霊の牙【参】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【参】」コンボ成立後は、「祖霊の牙【肆】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 66,""

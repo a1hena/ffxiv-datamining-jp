@@ -437,3 +437,5 @@ int32,BGMSystemDefine,Quest,byte,Row
 50077.2,"0","最強のトラルヴィドラール",5,"BGMSituation#1370"
 50077.3,"80","祭司長グーフールー",0,"music/ex2/BGM_EX2_Event_36.scd"
 50077.4,"0","祭司長グーフールー",2,"music/ex2/BGM_EX2_Event_36.scd"
+50078.0,"0.5",,0,"BGMSituation#1363"
+50078.1,"80"," 新事業！ トラル旅行公司",0,"BGMSituation#1382"

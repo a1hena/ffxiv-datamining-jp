@@ -542,7 +542,7 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 538,1,"ModelChara#0","","BNpcCustomize#1201","NpcEquip#2816",False,"変身解除",False,"",False,"",False,"",False,"",False,"",False,"","",True,False,0,True,0,1,False,True,True,False,False,"toad_smk0f","toad_smk0f","",-1,0,"ブレードコンボB",0,False,False
 539,1,"ModelChara#0","","BNpcCustomize#1527","NpcEquip#2817",False,"変身解除",False,"",False,"",False,"",False,"",False,"",False,"","",True,False,0,True,0,1,False,True,True,False,False,"toad_smk0f","toad_smk0f","",-1,0,"ブレードコンボB",0,False,False
 540,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
-541,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
+541,1,"ModelChara#4310","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,True,0,0.85,False,False,True,False,False,"","","",-1,0,"",0,False,False
 542,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
 543,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
 544,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
@@ -552,3 +552,6 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 548,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
 549,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
 550,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
+551,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
+552,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False
+553,0,"ModelChara#0","","BNpcCustomize#0","NpcEquip#0",False,"",False,"",False,"",False,"",False,"",False,"",False,"","",False,False,0,False,0,0,False,False,False,False,False,"","","",0,0,"",0,False,False

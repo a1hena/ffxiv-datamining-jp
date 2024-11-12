@@ -264,16 +264,18 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 52.0,10570830,2,"祭司長グーフールー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.0,9867101,2,"イヒーハナ祭",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.1,10562741,2,"ハヌハヌ族を知る",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-53.2,10562742,2,"ハヌハヌ族を知る",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-53.3,10613522,2,"ハヌハヌ族を知る",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.2,10562742,2,"ハヌハヌ族を知る",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.3,10613522,2,"ハヌハヌ族を知る",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.4,10429375,2,"兄として",255,False,2,"ウクラマトを救え",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.5,11140956,1," 新事業！ トラル旅行公司",0,False,1," 来訪！ 最初の観光客",0,False,1," 拓け！ 上流域観光の道",0,False,1," 急募！ 旅行公司の新たな仲間",0,False,1," 国賓！？ 外つ国からのお客様",0,False,0,,0,False,0,0,0,False
 54.0,10614014,2,"ティーンベク洞道を抜けて",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.0,10399297,2,"護る者、壊す者",3,False,2,"黄金のレガシー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.1,10558455,1,"黄金のレガシー",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+55.2,10968008,2,"惑う人々",2,False,2,"未知との邂逅",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.0,10511646,2,"大地が鳴いた日",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.1,9872339,2,"大地が鳴いた日",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.2,10746983,2,"荒野に落ちる影",2,False,2,"護る者、壊す者",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-56.3,10510357,2,"トライヨラが好きだから",255,False,2,"ドーンブレイザー",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.3,10510357,2,"トライヨラが好きだから",255,False,2,"ドーンブレイザー",3,False,2,"王の家族",255,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.4,10515675,2,"ドーンブレイザー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 57.0,10617550,2,"ソリューション・ナイン",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.0,10591852,2,"優しくて残酷な世界",9,False,2,"優しくて残酷な世界",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

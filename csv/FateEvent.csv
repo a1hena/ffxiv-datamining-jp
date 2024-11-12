@@ -3161,7 +3161,7 @@ int32,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32
 もしかして、旅人さんは魚嫌いなのですか？",""
 696,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,0,3,0,0,0,0,0,"これはこれは、いいところに……
 あなた、狩りはお得意で？","実は水田の近くに、葦の根を切る害魚が出没してまして……
-よければ、退治に力を貸していただいのです。","協力しますか？
+よければ、退治に力を貸していただきたいのです。","協力しますか？
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※このF.A.T.E.の推奨レベルは<Value>IntegerParameter(1)</Value>です。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","","ああ、助かります！
 アイツらヌメヌメしていて、どうにも苦手なんですよ……。","","残念ですが仕方ありませんね。

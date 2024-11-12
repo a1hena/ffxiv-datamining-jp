@@ -109,6 +109,14 @@ int32,str,str
 69,"TEXT_XXAUSC908_03872_EDELSTEIN_000_085","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>隊長……！
 私の心の炎は、気づかぬうちに震えていたようです……！
 粉骨砕身、勝利のために命を賭しましょう！！"
-70,"TEXT_XXAUSC908_03872_EDELSTEIN_000_090","できることならもう少し、
+70,"TEXT_XXAUSC908_03872_EDELSTEIN_000_100","そうだ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>隊長にひとつ、
+お伝えしたいことがあります。"
+71,"TEXT_XXAUSC908_03872_EDELSTEIN_000_101","エオルゼア同盟軍では帝国との決戦を前に、
+希望者を募って、とある訓練を行っています。
+内容は、攻撃の予兆を感じ取り、それに対処するというもの。"
+72,"TEXT_XXAUSC908_03872_EDELSTEIN_000_102","この訓練を<Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>隊長も受けられるよう、
+僭越ながら手続きを済ませておきました。
+決戦前の準備運動代わりにお使いください！"
+73,"TEXT_XXAUSC908_03872_EDELSTEIN_000_090","できることならもう少し、
 お話したいところなのですが……。
 「活を入れる」つもりで闘いぬきましょう！"

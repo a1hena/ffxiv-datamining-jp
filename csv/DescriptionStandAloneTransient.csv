@@ -21,3 +21,6 @@ int32,uint32,str,str
 17,20,"CRYSTALLINE CONFLICT","クリスタルコンフリクト解説"
 18,30,"MOGMOG COLLECTION","モグモグ★コレクション解説"
 19,32,"OUTFIT ","コーディネート機能解説"
+20,33,"BATTLE","バトルの解説"
+21,2,"MAHJONG","ドマ式麻雀解説"
+22,0,"",""

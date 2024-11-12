@@ -53,3 +53,8 @@ int32,uint16,uint16,ActionTimeline,ActionTimeline,bit&01,bit&02,uint16,uint16
 49,0,250,"blownaway/falling","pc_contentsaction/pc_cnt032",False,False,0,0
 50,0,5,"blownaway/falling","blownaway/landing",False,False,600,450
 51,0,50,"blownaway/falling","pc_contentsaction/pc_pathjump_end",False,False,0,0
+52,0,800,"pc_contentsaction/pc_cnt039","blownaway/landing",False,False,40,16
+53,0,450,"blownaway/falling","blownaway/landing",False,False,0,0
+54,0,450,"blownaway/falling","pc_contentsaction/pc_cnt041",False,False,0,0
+55,0,150,"blownaway/falling","blownaway/landing",False,False,0,0
+56,0,5,"blownaway/falling","blownaway/landing",False,False,400,200

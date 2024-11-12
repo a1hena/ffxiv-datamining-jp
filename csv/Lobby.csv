@@ -69,7 +69,7 @@ int32,uint32,uint32,uint32,str,str,str
 53,0,0,0,"<Switch(IntegerParameter(3))><Case(1)>1st</Case><Case(2)>2nd</Case><Case(3)>3rd</Case><Case(4)>4th</Case><Case(5)>5th</Case><Case(6)>6th</Case><Case(7)>7th</Case><Case(8)>8th</Case><Case(9)>9th</Case><Case(10)>10th</Case><Case(11)>11th</Case><Case(12)>12th</Case><Case(13)>13th</Case><Case(14)>14th</Case><Case(15)>15th</Case><Case(16)>16th</Case><Case(17)>17th</Case><Case(18)>18th</Case><Case(19)>19th</Case><Case(20)>20th</Case><Case(21)>21st</Case><Case(22)>22nd</Case><Case(23)>23rd</Case><Case(24)>24th</Case><Case(25)>25th</Case><Case(26)>26th</Case><Case(27)>27th</Case><Case(28)>28th</Case><Case(29)>29th</Case><Case(30)>30th</Case><Case(31)>31st</Case><Case(32)>32nd</Case></Switch> Sun of the <Switch(IntegerParameter(2))><Case(1)>1st Astral</Case><Case(2)>1st Umbral</Case><Case(3)>2nd Astral</Case><Case(4)>2nd Umbral</Case><Case(5)>3rd Astral</Case><Case(6)>3rd Umbral</Case><Case(7)>4th Astral</Case><Case(8)>4th Umbral</Case><Case(9)>5th Astral</Case><Case(10)>5th Umbral</Case><Case(11)>6th Astral</Case><Case(12)>6th Umbral</Case></Switch> Moon","",""
 54,0,0,0,"<Switch(IntegerParameter(1))><Case(1)>星1月</Case><Case(2)>霊1月</Case><Case(3)>星2月</Case><Case(4)>霊2月</Case><Case(5)>星3月</Case><Case(6)>霊3月</Case><Case(7)>星4月</Case><Case(8)>霊4月</Case><Case(9)>星5月</Case><Case(10)>霊5月</Case><Case(11)>星6月</Case><Case(12)>霊6月</Case></Switch> <Value>IntegerParameter(2)</Value>日","",""
 55,0,0,0,"","",""
-56,0,0,0,"<Highlight>StringParameter(1)</Highlight><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)>(LEGACY)</Case><Case(3)></Case><Case(4)>(LEGACY)</Case><Case(5)></Case><Case(6)>(LEGACY)</Case><Case(7)></Case><Case(8)>(LEGACY)</Case><Case(9)></Case></Switch>","",""
+56,0,0,0,"<Highlight>StringParameter(1)</Highlight><If(LessThan(IntegerParameter(2),7))><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)>(LEGACY)</Case><Case(3)></Case><Case(4)>(LEGACY)</Case><Case(5)></Case><Case(6)>(LEGACY)</Case></Switch><Else/></If>","",""
 57,0,0,0,"ワールドリストを取得中です。","",""
 58,0,0,0,"ワールドリストが取得できませんでした。","",""
 59,0,0,0,"各ワールドの状況を最新状態にします。更新後<Value>IntegerParameter(1)</Value>分空けないと再更新できません。","",""
@@ -272,7 +272,7 @@ int32,uint32,uint32,uint32,str,str,str
 175,0,0,0,"ノフィカ","",""
 176,0,0,0,"Althyk","",""
 177,0,0,0,"アルジク","",""
-178,0,76804,0,"Gladiator","剣術士","剣術士（けんじゅつし）。
+178,0,230904,0,"Gladiator","剣術士","剣術士（けんじゅつし）。
 諸刃の直剣から片刃の曲刀まで、幅広い種類の「片手剣」を主武器とするファイター。
 「魅せる戦い」が求められる剣闘士たちの技を源流とするため、盾で巧みに攻撃を防ぎ、
 流れるような剣さばきで敵を切り刻む防御主体の剣術が発達。 
@@ -282,7 +282,7 @@ int32,uint32,uint32,uint32,str,str,str
 剣術士を初期クラスとするジョブ ： ナイト
 ゲーム開始都市 ： ウルダハ"
 179,0,0,0,"剣術士","",""
-180,0,76805,0,"Pugilist","格闘士","格闘士（かくとうし）。
+180,0,230905,0,"Pugilist","格闘士","格闘士（かくとうし）。
 伝統的な護身術を修得したファイター。 
 鍛え抜かれた拳はすでに武器を帯びているに等しいが、手の延長上に
 「格闘武器」を装着することによって、その破壊力はさらに倍加される。
@@ -292,7 +292,7 @@ int32,uint32,uint32,uint32,str,str,str
 格闘士を初期クラスとするジョブ ： モンク
 ゲーム開始都市 ： ウルダハ"
 181,0,0,0,"格闘士","",""
-182,0,76806,0,"Marauder","斧術士","斧術士（ふじゅつし）。
+182,0,230906,0,"Marauder","斧術士","斧術士（ふじゅつし）。
 海賊が敵船破壊や強襲上陸で用いる「両手斧」を主武器とするファイター。 
 伝統的な海賊武器という印象が強いが、都市間の戦争や強大な魔物の討伐戦で
 大暴れし、英雄として武名を残した斧術士も少なくない。
@@ -302,7 +302,7 @@ int32,uint32,uint32,uint32,str,str,str
 斧術士を初期クラスとするジョブ ： 戦士
 ゲーム開始都市 ： リムサ・ロミンサ"
 183,0,0,0,"斧術士","",""
-184,0,76807,0,"Lancer","槍術士","槍術士（そうじゅつし）。
+184,0,230907,0,"Lancer","槍術士","槍術士（そうじゅつし）。
 狩猟用の槍や銛から発展した「両手槍」を主武器とするファイター。 
 強盛を誇ったアラミゴのパイク兵の影響で、かつては柄の長さを競う風潮があったが、
 現在は多様な形式の槍が混在している。
@@ -312,7 +312,7 @@ int32,uint32,uint32,uint32,str,str,str
 槍術士を初期クラスとするジョブ ： 竜騎士
 ゲーム開始都市 ： グリダニア"
 185,0,0,0,"槍術士","",""
-186,0,76808,0,"Archer","弓術士","弓術士（きゅうじゅつし）。
+186,0,230908,0,"Archer","弓術士","弓術士（きゅうじゅつし）。
 遠距離からの狙撃や曲射を旨とする「弓」を主武器とするファイター。 
 エオルゼアでは、エレゼン族の弓兵が得意とした長弓術と
 ミコッテ族の猟人伝統の短弓術とが普及している。
@@ -323,7 +323,7 @@ int32,uint32,uint32,uint32,str,str,str
 弓術士を初期クラスとするジョブ ： 吟遊詩人
 ゲーム開始都市 ： グリダニア"
 187,0,0,0,"弓術士","",""
-188,0,76809,0,"Conjurer","幻術士","幻術士（げんじゅつし）。
+188,0,230909,0,"Conjurer","幻術士","幻術士（げんじゅつし）。
 幻術と呼ばれる、属性の影響が強い魔法を操るソーサラー。
 己の周囲に満ちる万物を観想し、土、風、水の属性元素を見出すことができる。 
 自然物から作り出された杖状の魔器「幻具」を携帯しており、
@@ -334,7 +334,7 @@ int32,uint32,uint32,uint32,str,str,str
 幻術士を初期クラスとするジョブ ： 白魔道士
 ゲーム開始都市 ： グリダニア"
 189,0,0,0,"幻術士","",""
-190,0,76810,0,"Thaumaturge","呪術士","呪術士（じゅじゅつし）。
+190,0,230910,0,"Thaumaturge","呪術士","呪術士（じゅじゅつし）。
 呪術と呼ばれる、破壊的性格の強い魔法を操るソーサラー。
 己の本性を内観することで、心の内に秘める力を操ることができる。
 念珠を嵌め込んだ笏状の魔器「呪具」を携帯しており、それを注力点として
@@ -345,7 +345,7 @@ int32,uint32,uint32,uint32,str,str,str
 呪術士を初期クラスとするジョブ ： 黒魔道士
 ゲーム開始都市 ： ウルダハ"
 191,0,0,0,"呪術士","",""
-192,0,76829,0,"Arcanist","巴術士","巴術士（はじゅつし）。
+192,0,230929,0,"Arcanist","巴術士","巴術士（はじゅつし）。
 巴術と呼ばれる秘術を用い、使い魔を操るソーサラー。
 南洋渡来の算術を源流とし、独特の幾何学模様「魔紋」で精神力を制御する。
 数々の魔紋が描かれた魔器「魔道書」を携行しており、
@@ -615,11 +615,11 @@ int32,uint32,uint32,uint32,str,str,str
 450,0,1200,0,"","",""
 451,0,0,0,"","",""
 452,0,1210,0,"","",""
-453,0,20,0,"","",""
+453,0,36020,0,"","",""
 454,0,1420,0,"","",""
-455,0,15,0,"","",""
+455,0,36015,0,"","",""
 456,0,930,0,"","",""
-457,0,2130,0,"","",""
+457,0,38130,0,"","",""
 458,0,0,0,"Hrothgar<Switch(IntegerParameter(1))><Case(1)> ©</Case><Case(2)> ®</Case><Case(3)></Case></Switch>","","イルサバード大陸に由来する民族。
 発達した筋肉に鋭い爪や牙を持ち、その顔付きは獅子や豹を思わせる。
 その容姿ゆえ古代においては野蛮な民と見られ、他種族との争いが絶えなかったが、
@@ -885,23 +885,31 @@ https://sqex.to/Msp","",""
 642,0,0,0,"シーズナルクエスト「ヘンシンと森都の守護天節」～「パレードと砂都の守護天節」をコンプリートまたは「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別なペイントです。","",""
 643,0,0,0,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別なペイントです。","",""
 644,0,0,0,"","",""
-645,0,0,0,"","",""
-646,0,0,0,"","",""
-647,0,0,0,"","",""
-648,0,0,0,"","",""
-649,0,0,0,"","",""
-650,0,0,0,"","",""
-651,0,0,0,"","",""
-652,0,0,0,"","",""
-653,0,0,0,"","",""
-654,0,0,0,"","",""
-655,0,0,0,"","",""
-656,0,0,0,"","",""
+645,0,0,0,"キャラクターがコンテンツ中でログアウトまたは通信切断していたため、「キャラクターの再編集」コマンドは実行できません。
+一度ログインを行い、コンテンツから退出してください。","",""
+646,0,0,0,"キャラクターがコンテンツ中のため種族や性別・外見の変更ができません。","",""
+647,0,0,0,"キャラクターが現在「モルディオン監獄」にいるため、「キャラクターの再編集」コマンドは制限されています。","",""
+648,0,0,0,"キャラクターは現在、種族や性別・外見の変更が制限されています。","",""
+649,0,0,0,"[ <Highlight>StringParameter(1)</Highlight> ]","",""
+650,0,0,0,"現在接続中のデータセンター「<Highlight>StringParameter(1)</Highlight>」から別のデータセンター「<Highlight>StringParameter(2)</Highlight>」に接続し直します。よろしいですか？","",""
+651,0,0,0,"各種HUDとウィンドウの表示位置やサイズの他、
+一部のウィンドウ内設定が保存されたデータです。","HUDレイアウト",""
+652,0,1,0,"クラス・ジョブのホットバー・クロスホットバーの
+スロットに設定されたアクションなどの設定が
+保存されたデータです。","ホットバー",""
+653,0,2,0,"ギアセットの設定が保存されたデータです。","ギアセット",""
+654,0,3,0,"キャラクター共通・操作モード別の設定データの他、
+キーバインド、ログフィルターなどの設定が
+保存されたデータです。","キャラクターコンフィグ",""
+655,0,4,0,"キャラクター個別のマクロが保存されたデータです。","キャラクターマクロ",""
+656,0,5,0,"アクションの置き換え設定やマウントリストなどの
+お気に入り設定、ポートレートの編集データなどの
+設定情報が保存されたデータです。","その他のデータ",""
 657,0,0,0,"","",""
 658,0,0,0,"","",""
 659,0,0,0,"","",""
-660,0,0,0,"","",""
-661,0,0,0,"","",""
+660,0,0,0,"それぞれの項目を個別に選択  すべての項目をまとめて選択","",""
+661,0,0,0,"<CommandIcon(8)/>それぞれの項目を個別に選択  <CommandIcon(10)/>すべての項目をまとめて選択","",""
 662,0,0,0,"","",""
 663,0,0,0,"","",""
 664,0,0,0,"","",""
@@ -1031,10 +1039,10 @@ https://sqex.to/Msp","",""
 788,0,0,0,"","",""
 789,0,0,0,"","",""
 790,0,0,0,"","",""
-791,0,0,0,"","",""
-792,0,0,0,"","",""
-793,0,0,0,"","",""
-794,0,0,0,"","",""
+791,0,0,0,"Japan Data Center","",""
+792,0,0,0,"North America Data Center","",""
+793,0,0,0,"Europe Data Center","",""
+794,0,0,0,"Oceania Data Center","",""
 795,0,0,0,"","",""
 796,0,0,0,"","",""
 797,0,0,0,"","",""
@@ -1062,7 +1070,7 @@ https://sqex.to/Msp","",""
 その中からお好きなデータセンターを選んで決定しましょう。
 同じ地域内であればどのデータセンターでも同じ様にプレイできます。</If>","",""
 807,0,0,0,"<Highlight>StringParameter(1)</Highlight><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)>(LEGACY)</Case><Case(3)></Case><Case(4)>(LEGACY)</Case><Case(5)>(EU)</Case><Case(6)>(LEGACY/EU)</Case><Case(7)>(OC)</Case><Case(8)>(LEGACY/OC)</Case><Case(9)></Case></Switch>","",""
-808,0,0,0,"データセンターに接続中です。","",""
+808,0,0,0,"データセンター「<Highlight>StringParameter(1)</Highlight>」に接続中です。","",""
 809,0,0,0,"データセンターからキャラクターリストを取得中です。","",""
 810,0,0,0,"OK","",""
 811,0,0,0,"キャンセル","",""
@@ -1081,10 +1089,11 @@ https://sqex.to/Msp","",""
 
 ワールドは、お住まいの地域からの距離に応じて各地に設置されている
 データセンターごとにグループ分けされています。目的のワールドが見つからない場合
-タイトル画面に戻り別のデータセンターを選択してください。
-なお、ワールド名に(LEGACY)が付いているものは1.0継続ワールドです。
+キャラクター作成を中断し、キャラクター画面のワールド選択メニューまたは
+タイトル画面から別のデータセンターを選択してみましょう。
+なお、ワールド名に(LEGACY)が付いているものはVer.1.0からの継続ワールドです。
 
-現在選択中のデータセンター : <Sheet(WorldDCGroupType,IntegerParameter(1),WORLDDCGROUPTYPE_NAME)/> <If(GreaterThan(IntegerParameter(3),0))><Switch(IntegerParameter(3))><Case(1)>日本</Case><Case(2)>北米</Case><Case(3)>欧州</Case><Case(4)>オセアニア</Case><Case(5)></Case><Case(6)></Case><Case(7)>北米</Case></Switch>推奨<Else/></If><If(Equal(IntegerParameter(3),7))><UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>本データセンターはクラウドDC公開負荷テスト用のデータセンターです。
+<If(Equal(IntegerParameter(3),7))><UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>本データセンターはクラウドDC公開負荷テスト用のデータセンターです。
 クラウドDC公開負荷テストの期間外は接続できません。
 <UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><If(Equal(IntegerParameter(2),1))>
 
@@ -1333,30 +1342,41 @@ https://sqex.to/Msp","",""
 現在制限されています。","",""
 973,0,0,0,"復元用ファイルを探しています。","",""
 974,0,0,0,"ダウンロードの準備中です。","",""
-975,0,0,0,"","",""
-976,0,0,0,"","",""
+975,0,0,0,"他キャラクターの設定データをコピー","",""
+976,0,0,0,"<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>:<TwoDigitValue>TopLevelParameter(216)</TwoDigitValue>","",""
 977,0,0,0,"","",""
 978,0,0,0,"","",""
-979,0,0,0,"","",""
-980,0,0,0,"","",""
-981,0,0,0,"","",""
-982,0,0,0,"","",""
-983,0,0,0,"","",""
-984,0,0,0,"","",""
-985,0,0,0,"","",""
+979,0,0,0,"System Config Backup Data","",""
+980,0,0,0,"CONFIG BACKUP UPDATE INFORMATION","",""
+981,0,0,0,"確認しました。","",""
+982,0,0,0,"お使いのプレイ環境における<If(Equal(IntegerParameter(2),2))>
+<Else/>「クライアント共通設定データ」<If(Equal(IntegerParameter(2),1))>を
+<Else/>および
+</If></If><If(Equal(IntegerParameter(2),1))><Else/>最後にログインしたキャラクターの「キャラクター設定データ」を
+</If>サーバーにバックアップしてから<Value>IntegerParameter(1)</Value>日以上が経過しています。
+定期的なバックアップデータの更新をお勧めします。","",""
+983,0,0,0,"前回のバックアップから一定期間経過で通知をする","",""
+984,0,0,0,"※システムコンフィグからも通知設定を変更可能です。","",""
+985,0,0,0,"OK","",""
 986,0,0,0,"","",""
-987,0,0,0,"","",""
+987,0,0,0,"コピー元キャラクターからの設定データのコピーを実行します。
+※必要に応じてコンフィグのバックアップ機能をご利用ください。","",""
 988,0,0,0,"","",""
 989,0,0,0,"","",""
 990,0,0,0,"","",""
-991,0,0,0,"","",""
+991,0,0,0,"ゲームマニュアル","",""
 992,0,0,0,"","",""
-993,0,0,0,"","",""
-994,0,0,0,"","",""
-995,0,0,0,"","",""
-996,0,0,0,"","",""
-997,0,0,0,"","",""
-998,0,0,0,"","",""
+993,0,0,0,"CHARACTER CONFIG COPY","",""
+994,0,0,0,"コピー元とするキャラクターの設定データのうち、
+現在のキャラクターに適用したい設定項目を選択してください。","",""
+995,0,0,0,"他キャラクターのHUDレイアウトやホットバーの設定データを、
+選択中のキャラクターにコピーすることができます。
+設定データのコピー元としたいキャラクターを選択してください。
+※最近ログインしたキャラクターが最大8人表示されます。","",""
+996,0,0,0,"他キャラクターの設定データを探しています。","",""
+997,0,0,0,"コピー可能な他キャラクターの設定データが見つかりませんでした。","",""
+998,0,0,0,"キャラクター設定データをコピーしました。
+このキャラクターでログインすると新しい設定データが適用された状態となります。","",""
 999,0,0,0,"","",""
 1000,0,0,0,"尾の長さ","",""
 1001,0,0,0,"尾の形","",""
@@ -1531,9 +1551,9 @@ https://sqex.to/Msp","",""
 1160,0,0,0,"","",""
 1161,0,0,0,"閉じる","",""
 1162,0,0,0,"遊びに行くデータセンターとワールドを選んでください。
-予測所要時間：<If(LessThan(IntegerParameter(1),60))>1分未満<Else/><If(LessThan(IntegerParameter(1),300))>5分未満<Else/><If(LessThan(IntegerParameter(1),600))>10分未満<Else/><If(LessThan(IntegerParameter(1),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If>","",""
+予測所要時間：<If(LessThan(IntegerParameter(1),60))>1分未満<Else/><If(LessThan(IntegerParameter(1),120))>2分未満<Else/><If(LessThan(IntegerParameter(1),180))>3分未満<Else/><If(LessThan(IntegerParameter(1),300))>5分未満<Else/><If(LessThan(IntegerParameter(1),600))>10分未満<Else/><If(LessThan(IntegerParameter(1),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If></If></If>","",""
 1163,0,0,0,"元のデータセンターのホームワールドに戻ります。
-予測所要時間：<If(LessThan(IntegerParameter(1),60))>1分未満<Else/><If(LessThan(IntegerParameter(1),300))>5分未満<Else/><If(LessThan(IntegerParameter(1),600))>10分未満<Else/><If(LessThan(IntegerParameter(1),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If>","",""
+予測所要時間：<If(LessThan(IntegerParameter(1),60))>1分未満<Else/><If(LessThan(IntegerParameter(1),120))>2分未満<Else/><If(LessThan(IntegerParameter(1),180))>3分未満<Else/><If(LessThan(IntegerParameter(1),300))>5分未満<Else/><If(LessThan(IntegerParameter(1),600))>10分未満<Else/><If(LessThan(IntegerParameter(1),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If></If></If>","",""
 1164,0,0,0,"DATA CENTER","",""
 1165,0,0,0,"WORLD","",""
 1166,0,0,0,"決定","",""
@@ -1542,19 +1562,17 @@ https://sqex.to/Msp","",""
 1169,0,0,0,"ワールドの情報を取得しています。","",""
 1170,0,0,0,"キャラクター「<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>」を
 データセンター「<Highlight>StringParameter(3)</Highlight>」所属ワールド「<Highlight>StringParameter(4)</Highlight>」に移動させる処理を開始します。
-予測所要時間：<If(LessThan(IntegerParameter(5),60))>1分未満<Else/><If(LessThan(IntegerParameter(5),300))>5分未満<Else/><If(LessThan(IntegerParameter(5),600))>10分未満<Else/><If(LessThan(IntegerParameter(5),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If>
+予測所要時間：<If(LessThan(IntegerParameter(5),60))>1分未満<Else/><If(LessThan(IntegerParameter(5),120))>2分未満<Else/><If(LessThan(IntegerParameter(5),180))>3分未満<Else/><If(LessThan(IntegerParameter(5),300))>5分未満<Else/><If(LessThan(IntegerParameter(5),600))>10分未満<Else/><If(LessThan(IntegerParameter(5),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If></If></If>
 
 <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>キャラクターを安全に移動させるため、
-・キャラクターの移動が完了するまでキャンセルはできなくなり
-   ます。
-・処理が完了するまで、他のキャラクターでのログインができなく
-   なります。
-ご了承ください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+・移動の実行中は処理をキャンセルできません。
+・処理の完了まで、他キャラクターでのログインはできません。
+ので、ご了承ください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1171,0,0,0,"実行","",""
 1172,0,0,0,"ひとつ前のステップ","",""
 1173,0,0,0,"データセンタートラベルにより、キャラクターを移動させています。
 処理が完了するまで、そのままお待ちください。
-予測所要時間：<If(LessThan(IntegerParameter(1),60))>1分未満<Else/><If(LessThan(IntegerParameter(1),300))>5分未満<Else/><If(LessThan(IntegerParameter(1),600))>10分未満<Else/><If(LessThan(IntegerParameter(1),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If>","",""
+予測所要時間：<If(LessThan(IntegerParameter(1),60))>1分未満<Else/><If(LessThan(IntegerParameter(1),120))>2分未満<Else/><If(LessThan(IntegerParameter(1),180))>3分未満<Else/><If(LessThan(IntegerParameter(1),300))>5分未満<Else/><If(LessThan(IntegerParameter(1),600))>10分未満<Else/><If(LessThan(IntegerParameter(1),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If></If></If>","",""
 1174,0,0,0,"キャラクター「<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>」の
 データセンター「<Highlight>StringParameter(3)</Highlight>」所属ワールド「<Highlight>StringParameter(4)</Highlight>」への移動が完了しました！","",""
 1175,0,0,0,"このキャラクターは現在他のデータセンター<Highlight>StringParameter(1)</Highlight>へ遊びに行っています。","",""
@@ -1577,14 +1595,12 @@ https://sqex.to/Msp","",""
 1190,0,0,0,"実行","",""
 1191,0,0,0,"キャラクター「<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>」を
 元のデータセンター「<Highlight>StringParameter(3)</Highlight>」のホームワールド「<Highlight>StringParameter(4)</Highlight>」に戻す処理を開始します。
-予測所要時間：<If(LessThan(IntegerParameter(5),60))>1分未満<Else/><If(LessThan(IntegerParameter(5),300))>5分未満<Else/><If(LessThan(IntegerParameter(5),600))>10分未満<Else/><If(LessThan(IntegerParameter(5),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If>
+予測所要時間：<If(LessThan(IntegerParameter(5),60))>1分未満<Else/><If(LessThan(IntegerParameter(5),120))>2分未満<Else/><If(LessThan(IntegerParameter(5),180))>3分未満<Else/><If(LessThan(IntegerParameter(5),300))>5分未満<Else/><If(LessThan(IntegerParameter(5),600))>10分未満<Else/><If(LessThan(IntegerParameter(5),1200))>20分未満<Else/>混雑中のため長時間かかる見込み</If></If></If></If></If></If>
 
 <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>キャラクターを安全に移動させるため、
-・キャラクターの移動が完了するまでキャンセルはできなくなり
-   ます。
-・処理が完了するまで、他のキャラクターでのログインができなく
-   なります。
-ご了承ください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+・移動の実行中は処理をキャンセルできません。
+・処理の完了まで、他キャラクターでのログインはできません。
+ので、ご了承ください。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1192,0,0,0,"他のデータセンターにいる間は、
 キャラクター情報の表示を簡略化しています","",""
 1193,0,0,0,"","",""
@@ -2218,20 +2234,20 @@ https://sqex.to/Msp","",""
 1801,0,0,0,"一定時間操作が行われなかったため、自動的にログアウトされました。","",""
 1802,0,0,0,"<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>この種族を選択するには「<Sheet(ExVersion,IntegerParameter(1),0)/>」が必要です。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1803,0,0,0,"RGB : <Value>IntegerParameter(1)</Value>,<Value>IntegerParameter(2)</Value>,<Value>IntegerParameter(3)</Value>","",""
-1804,0,76801,0,"TANK","タンク","仲間を守る役割（ロール）を担うバトルクラス。
+1804,0,230901,0,"TANK","タンク","仲間を守る役割（ロール）を担うバトルクラス。
 防御能力に長け、成長することで、
 敵の攻撃を自身に向けたり、自身の防御力を向上させるアクションなどを修得していく。
 
 初期クラスでは、剣術士と斧術士が該当。
 成長後のジョブには、ナイトや戦士、暗黒騎士、ガンブレイカーなどが存在する。"
-1805,0,76802,0,"HEALER","ヒーラー","仲間を回復する役割（ロール）を担うバトルクラス。
+1805,0,230902,0,"HEALER","ヒーラー","仲間を回復する役割（ロール）を担うバトルクラス。
 攻撃能力は控えめだが、成長することで、
 仲間を癒やし守るための多彩なアクションを修得する。
 
 初期クラスでは、幻術士が該当。
 成長後のジョブには、白魔道士や学者、占星術師、賢者などが存在する。
 なお、学者はDPSの巴術士を成長させることがジョブチェンジの条件となる。"
-1806,0,76803,0,"DPS","ディーピーエス","敵を攻撃する役割（ロール）を担うバトルクラス。
+1806,0,230903,0,"DPS","ディーピーエス","敵を攻撃する役割（ロール）を担うバトルクラス。
 他のロールに比べて攻撃能力が高く、成長することで、
 より多彩な攻撃手段や、攻撃能力の向上に役立つアクションを修得する。
 
@@ -2537,7 +2553,7 @@ First Name / Family Name それぞれ2文字以上15文字以内、
 2075,0,0,0,"日中","",""
 2076,0,0,0,"夜間","",""
 2077,0,0,0,"Head/Facewear off","",""
-2078,0,0,0,"キャラクターのプレビューを頭装備や眼鏡装備などを外した状態に切り替え、顔や髪が見えるようにします。","",""
+2078,0,0,0,"キャラクターのプレビューを頭装備や耳・首のアクセサリ、眼鏡などを外した状態に切り替え、顔や髪が見えるようにします。","",""
 2079,0,0,0,"","",""
 2080,0,0,0,"1","",""
 2081,0,0,0,"1","",""

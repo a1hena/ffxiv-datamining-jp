@@ -569,9 +569,9 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 389,"<CommandIcon(10)/>サブコマンド"
 390,"<CommandIcon(12)/><CommandIcon(13)/>クラスカテゴリ選択 <CommandIcon(10)/>サブコマンド"
 391,"<CommandIcon(12)/><CommandIcon(13)/>クラスカテゴリ選択  <CommandIcon(8)/>マップを開く"
-392,"<CommandIcon(5)/>移動先の選択 <CommandIcon(8)/>転送する <CommandIcon(23)/>マップ操作に移る"
-393,"<CommandIcon(23)/>スクロール <CommandIcon(7)/>リスト操作に移る"
-394,"<CommandIcon(23)/>スクロール <CommandIcon(8)/>転送する <CommandIcon(7)/>リスト操作に移る"
+392,"<CommandIcon(5)/>移動先の選択 <CommandIcon(8)/>転送する <CommandIcon(11)/>直近の利用元 <CommandIcon(23)/>マップ操作に移る"
+393,"<CommandIcon(23)/>スクロール <CommandIcon(7)/>リスト操作に移る <CommandIcon(11)/>直近の利用元"
+394,"<CommandIcon(23)/>スクロール <CommandIcon(8)/>転送する <CommandIcon(11)/>直近の利用元 <CommandIcon(7)/>リスト操作に移る"
 395,"<CommandIcon(10)/>各ロール/ALLを順次切り替え  <CommandIcon(8)/>個別のクラス・ジョブ指定編集  <CommandIcon(11)/>この条件でサーチ"
 396,"<CommandIcon(10)/>全選択・全解除  <CommandIcon(11)/>この条件でサーチ"
 397,"<CommandIcon(10)/>ロール選択・単一選択切り替え"
@@ -849,19 +849,19 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 470,"<CommandIcon(10)/>サブコマンド <CommandIcon(24)/>詳細情報のスクロール"
 471,"<CommandIcon(11)/>報酬を受け取る<CommandIcon(10)/>サブコマンド <CommandIcon(24)/>詳細情報のスクロール"
 472,"<CommandIcon(10)/>サブコマンド"
-473,""
+473,"<CommandIcon(10)/>サブコマンド"
 474,"<CommandIcon(11)/>探索地決定"
 475,"<CommandIcon(10)/>ホットバーに登録 <CommandIcon(12)/><CommandIcon(13)/>ページ切り替え"
 476,"<CommandIcon(12)/><CommandIcon(13)/>ページ切り替え"
 477,"<CommandIcon(8)/>代表的な漁場を表示する"
 478,"<CommandIcon(10)/>サブコマンド"
 479,"<CommandIcon(10)/>サブコマンド"
-480,""
+480,"<CommandIcon(10)/>サブコマンド"
 481,"<CommandIcon(18)/>無人島庭具の投影配置を終了する"
 482,"<Gui(13)/>＋<Gui(20)/>移動 <CommandIcon(14)/><CommandIcon(15)/>回転 <CommandIcon(10)/>サブコマンド <CommandIcon(11)/><If(IntegerParameter(1))>グリッドスナップ機能を有効にする<Else/>グリッドスナップ機能を無効にする</If>"
 483,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>無人島庭具リスト"
 484,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>所持品<If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>登録済み/投影配置済み切替<Else/></If>"
-485,""
+485,"<CommandIcon(11)/>適用"
 486,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/><If(IntegerParameter(1))>グリッドスナップ機能を有効にする<Else/>グリッドスナップ機能を無効にする</If>"
 487,"<CommandIcon(10)/>サブコマンド"
 488,"<CommandIcon(18)/>庭具の染色を終了する"
@@ -1315,12 +1315,42 @@ GPを消費するため、GPの残りには注意しましょう。
 ・メイン権限者
 ・フリーカンパニーハウスにおける所属メンバー
 ・個人ハウスにおけるハウスシェアリング中のキャラクター"
-1072,""
-1073,""
-1074,""
-1075,""
-1076,""
-1077,""
+1072,"内装のリフォームとは"
+1073,"「内装のリフォーム」機能は、
+ハウスの室内自体のデザインを変更する機能です。
+
+メインコマンド「コミュニケーション」の「ハウジング」にある、
+「内装のリフォーム」を選ぶと表示されるウィンドウで、
+表示されているスタイルを選択することで実行できます。
+
+「内装のリフォーム」では、
+壁紙/床板/天井照明以外の全体的なデザインが変更されます。
+変更には、階段の位置や床の形状も含まれる場合があります。
+"
+1074,"内装のリフォームの利用条件"
+1075,"「内装のリフォーム」は、S/M/Lサイズの土地で利用可能です。
+個室/アパルトメントでは利用できません。
+
+また、「内装のリフォーム」ではデザインが大きく変更されるため、
+設置済みの調度品は全て倉庫に収納されます。
+そのため、倉庫の容量が不足している場合には、
+「内装のリフォーム」を実行することができません。
+
+加えて、ハウジングの自動撤去日まで15日以下となっている場合にも
+「内装のリフォーム」を実行することができません。
+"
+1076,"内装のリフォームの必要権限"
+1077,"「内装のリフォーム」を実行できるのは、
+そのハウスで権限を持つキャラクターだけです。
+
+フリーカンパニーハウスの場合は、
+「外装と内装の変更」の権限と、
+「調度品・庭具の追加/撤去/配置変更可」の権限の、
+両方を持っているメンバーが実行できます。
+
+個人ハウスの場合は、ハウスのオーナーの他に、
+権限「外装・内装・調度品・庭具の追加/撤去/配置変更/染色」を
+持っているハウスメイトが実行できます。"
 1078,""
 1079,""
 1080,""

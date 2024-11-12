@@ -75,3 +75,8 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 71,"うなだれる","",True,False,False,False,3,False
 72,"ハートポーズ","",True,False,False,False,3,True
 73,"エクソダス","",True,False,False,False,3,True
+74,"指示を待つ","",True,False,False,False,3,False
+75,"水をまく","",True,False,False,False,3,False
+76,"シェイカーを振る","",True,False,False,False,3,False
+77,"花束を贈る","",True,False,False,False,3,False
+78,"","",True,False,False,False,3,False
