@@ -14200,8 +14200,8 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2014196,False,False,False,False,False,False,False,False,3,70598,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_b0043.sgb",True,False,True,0,False,0,False,False
 2014197,False,False,False,False,False,False,False,False,3,70604,7,"bg/ex5/02_ykt_y6/shared/for_pln/sgpl_evt_700_fresh_reedstack_vfx0.sgb",False,False,True,0,False,0,False,False
 2014198,False,False,False,False,False,False,False,False,3,70619,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_b0043.sgb",True,False,True,0,False,0,False,False
-2014199,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2014200,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
+2014199,False,False,False,False,False,False,False,False,2,0,0,"bg/ex3/01_nvt_n4/shared/for_vfx/sgvf_n4gw_b3560.sgb",False,False,True,0,False,0,False,False
+2014200,False,False,False,False,False,False,False,False,2,984204,0,"bg/ex3/01_nvt_n4/shared/for_bg/sgbg_n4gw_a3_ice01.sgb",True,False,True,0,False,0,False,False
 2014201,False,False,False,False,False,False,False,False,4,0,0,"bg/ex5/02_ykt_y6/shared/for_pln/sgpl_evt_700_tuliyollal_chair_vfx0.sgb",False,False,True,0,False,0,False,False
 2014202,False,False,False,False,False,False,False,False,4,0,0,"bgcommon/world/evt/shared/for_pln/sgpl_a_evt_woodbox02.sgb",False,False,True,0,False,0,False,False
 2014203,False,False,False,False,False,False,False,False,3,1704216,7,"bgcommon/world/evt/shared/ver_700/sgpl_evt_700_main_breeze_crystal_vfx03.sgb",False,False,True,0,False,0,False,False
@@ -14288,7 +14288,7 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2014284,False,False,False,False,False,False,False,False,3,70618,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira01.sgb",True,False,True,0,False,0,False,False
 2014285,False,False,False,False,False,False,False,False,3,70618,7,"bgcommon/world/evt/shared/for_pln/sgpl_a_evt_woodbox02.sgb",False,False,True,0,False,0,False,False
 2014286,False,False,False,False,False,False,False,False,3,70619,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira02.sgb",True,False,True,0,False,0,False,False
-2014287,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
+2014287,False,False,False,False,False,False,False,False,2,0,0,"bg/ex3/01_nvt_n4/shared/for_vfx/sgvf_n4gw_b3555.sgb",False,False,True,0,False,0,False,False
 2014288,False,False,False,False,False,False,False,False,3,70620,7,"bgcommon/world/evt/shared/ver_600/sgpl_evt_600_woodbox04_large_vfx0.sgb",False,False,True,0,False,0,False,False
 2014289,False,False,False,False,False,False,False,False,3,70624,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira02.sgb",True,False,True,0,False,0,False,False
 2014290,False,False,False,False,False,False,False,False,3,70624,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira02.sgb",True,False,True,0,False,0,False,False
@@ -14530,7 +14530,7 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2014526,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
 2014527,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
 2014528,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2014529,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
+2014529,False,False,False,False,False,False,False,False,2,0,0,"bgcommon/world/btl/shared/for_vfx/sgvf_w_btl_b3566.sgb",False,False,True,0,False,0,False,False
 2014530,False,False,False,False,False,False,False,False,3,70746,7,"bgcommon/world/evt/shared/ver_300/sgpl_evt_300_meet01.sgb",False,False,True,0,False,0,False,False
 2014531,False,False,False,False,False,False,False,False,3,70746,7,"bgcommon/world/evt/shared/ver_300/sgpl_evt_300_meet01.sgb",False,False,True,0,False,0,False,False
 2014532,False,False,False,False,False,False,False,False,3,70746,7,"bgcommon/world/evt/shared/ver_300/sgpl_evt_300_meet01.sgb",False,False,True,0,False,0,False,False

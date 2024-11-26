@@ -1362,7 +1362,7 @@ int32,Image,Jingle,sbyte,bit&01
 1358,,"Unlock",1,True
 1359,,"Unlock",1,True
 1360,,"Unlock",1,True
-1361,,"Lv",0,False
+1361,,"Unlock",1,True
 1362,,"Lv",0,False
 1363,,"Unlock",1,True
 1364,,"Lv",1,True
