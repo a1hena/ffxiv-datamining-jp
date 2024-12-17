@@ -3685,7 +3685,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003681,"シュバラール武具の見本",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1," お仕事頼むよ、酔っているから",0,"normal/item_start",0
 2003682,"イクブラーシャ織の見本",0,"",0,0,1,0,0,False,"","ui/icon/021000/021680.tex","",1,1," お仕事頼むよ、酔っているから",0,"normal/item_start",0
 2003683,"特製の防虫剤",0,"",0,0,1,0,0,False,"","ui/icon/020000/020705.tex","イベントアイテム",3,1," 森と生きる武具職人",0,"normal/item_start",0
-2003684,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003684,"白ツチノコの置物？",0,"",0,0,1,0,0,False,"","ui/icon/059000/059892.tex","",1,1,"問答巡りと降神祭",0,"normal/item_start",0
 2003685,"ナピクエの手帳",0,"",0,0,1,0,0,False,"","ui/icon/026000/026167.tex","",1,1,"トラル大陸のモブハント（上級）",0,"normal/item_start",0
 2003686,"宝石化した化石",0,"",0,0,1,0,0,False,"","ui/icon/021000/021477.tex","",1,1," シャーローニ荒野の平和のために",0,"normal/item_start",0
 2003687,"予備の職人道具",0,"",0,0,1,0,0,False,"","ui/icon/026000/026108.tex","",1,1," 世話人の宝物",0,"normal/item_start",0
@@ -3708,7 +3708,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003704,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003705,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003706,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003707,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003707,"UFOの挿絵",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","",1,1,"事件屋の行方",0,"normal/item_start",0
 2003708,"青々とした葦",0,"",0,0,1,0,0,False,"","ui/icon/025000/025035.tex","",5,1," 拓け！ 上流域観光の道",0,"normal/item_start",0
 2003709,"カードキー",0,"",0,0,1,0,0,False,"","ui/icon/020000/020961.tex","",1,1,"放棄された施設にて",0,"normal/item_start",0
 2003710,"ヘイザ・アロ族の裁縫道具",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1,"ヘイゾを知る",0,"normal/item_start",0
@@ -3733,4 +3733,4 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003729,"イフイカ・ベニノキの種子",0,"",0,0,1,0,0,False,"","ui/icon/025000/025023.tex","",3,1," 足りないんですよ、スパイスが！",0,"normal/item_start",0
 2003730,"特製のお弁当",0,"",0,0,1,0,0,False,"","ui/icon/021000/021005.tex","",1,1," 届けたいんです、空腹へと！",0,"normal/item_start",0
 2003731,"傘の素材",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1,"エッグハントと宙を漂う飾りタマゴ",0,"normal/item_start",0
-2003732,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003732,"大感謝祭の装飾",0,"",0,0,1,0,0,False,"","ui/icon/052000/052546.tex","",3,1,"ワチュメキメキ大感謝祭",0,"normal/item_start",0

@@ -89,7 +89,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 85,178,"ui/icon/131000/131085.tex",0,False,"","",0
 86,179,"ui/icon/131000/131086.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 87,180,"ui/icon/131000/131087.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-88,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+88,181,"ui/icon/131000/131088.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 89,182,"ui/icon/131000/131089.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 90,183,"ui/icon/131000/131090.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 91,184,"ui/icon/131000/131091.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -222,7 +222,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 218,178,"ui/icon/131000/131288.tex",0,False,"","",0
 219,179,"ui/icon/131000/131289.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 220,180,"ui/icon/131000/131290.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-221,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+221,181,"ui/icon/131000/131291.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 222,182,"ui/icon/131000/131292.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 223,183,"ui/icon/131000/131293.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 224,184,"ui/icon/131000/131294.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -348,7 +348,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 344,178,"ui/icon/131000/131584.tex",0,False,"","",0
 345,179,"ui/icon/131000/131585.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 346,180,"ui/icon/131000/131586.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-347,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+347,181,"ui/icon/131000/131587.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 348,182,"ui/icon/131000/131588.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 349,183,"ui/icon/131000/131589.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 350,184,"ui/icon/131000/131590.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -476,7 +476,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 472,178,"ui/icon/131000/131782.tex",0,False,"","",0
 473,179,"ui/icon/131000/131783.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 474,180,"ui/icon/131000/131784.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-475,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+475,181,"ui/icon/131000/131785.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 476,182,"ui/icon/131000/131786.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 477,183,"ui/icon/131000/131787.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 478,184,"ui/icon/131000/131788.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -604,7 +604,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 600,178,"ui/icon/132000/132080.tex",0,False,"","",0
 601,179,"ui/icon/132000/132081.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 602,180,"ui/icon/132000/132082.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-603,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+603,181,"ui/icon/132000/132083.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 604,182,"ui/icon/132000/132084.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 605,183,"ui/icon/132000/132085.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 606,184,"ui/icon/132000/132086.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -740,7 +740,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 736,178,"ui/icon/132000/132286.tex",0,False,"","",0
 737,179,"ui/icon/132000/132287.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 738,180,"ui/icon/132000/132288.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-739,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+739,181,"ui/icon/132000/132289.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 740,182,"ui/icon/132000/132290.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 741,183,"ui/icon/132000/132291.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 742,184,"ui/icon/132000/132292.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -865,7 +865,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 861,178,"ui/icon/133000/133081.tex",0,False,"","",0
 862,179,"ui/icon/133000/133082.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 863,180,"ui/icon/133000/133083.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-864,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+864,181,"ui/icon/133000/133084.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 865,182,"ui/icon/133000/133085.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 866,183,"ui/icon/133000/133086.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 867,184,"ui/icon/133000/133087.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1000,7 +1000,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 996,178,"ui/icon/133000/133286.tex",0,False,"","",0
 997,179,"ui/icon/133000/133287.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 998,180,"ui/icon/133000/133288.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-999,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+999,181,"ui/icon/133000/133289.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1000,182,"ui/icon/133000/133290.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1001,183,"ui/icon/133000/133291.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1002,184,"ui/icon/133000/133292.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1123,7 +1123,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1119,178,"ui/icon/134000/134079.tex",0,False,"","",0
 1120,179,"ui/icon/134000/134080.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 1121,180,"ui/icon/134000/134081.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1122,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1122,181,"ui/icon/134000/134082.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1123,182,"ui/icon/134000/134083.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1124,183,"ui/icon/134000/134084.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1125,184,"ui/icon/134000/134085.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1260,7 +1260,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1256,178,"ui/icon/134000/134286.tex",0,False,"","",0
 1257,179,"ui/icon/134000/134287.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 1258,180,"ui/icon/134000/134288.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1259,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1259,181,"ui/icon/134000/134289.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1260,182,"ui/icon/134000/134290.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1261,183,"ui/icon/134000/134291.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1262,184,"ui/icon/134000/134292.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1390,7 +1390,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1386,178,"ui/icon/135000/135086.tex",0,False,"","",0
 1387,179,"ui/icon/135000/135087.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 1388,180,"ui/icon/135000/135088.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1389,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1389,181,"ui/icon/135000/135089.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1390,182,"ui/icon/135000/135090.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1391,183,"ui/icon/135000/135091.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1392,184,"ui/icon/135000/135092.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1516,7 +1516,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1512,178,"ui/icon/135000/135282.tex",0,False,"","",0
 1513,179,"ui/icon/135000/135283.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 1514,180,"ui/icon/135000/135284.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1515,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1515,181,"ui/icon/135000/135285.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1516,182,"ui/icon/135000/135286.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1517,183,"ui/icon/135000/135287.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1518,184,"ui/icon/135000/135288.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1643,7 +1643,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1639,178,"ui/icon/136000/136079.tex",0,False,"","",0
 1640,179,"ui/icon/136000/136080.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 1641,180,"ui/icon/136000/136081.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1642,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1642,181,"ui/icon/136000/136082.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1643,182,"ui/icon/136000/136083.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1644,183,"ui/icon/136000/136084.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1645,184,"ui/icon/136000/136085.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1775,7 +1775,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1771,178,"ui/icon/136000/136281.tex",0,False,"","",0
 1772,179,"ui/icon/136000/136282.tex",483,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ソフトツーブロック",0
 1773,180,"ui/icon/136000/136283.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1774,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1774,181,"ui/icon/136000/136284.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1775,182,"ui/icon/136000/136285.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1776,183,"ui/icon/136000/136286.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1777,184,"ui/icon/136000/136287.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1878,7 +1878,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1874,145,"ui/icon/137000/137059.tex",302,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ロングヘア",0
 1875,167,"ui/icon/137000/137060.tex",281,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ヴァルタン",0
 1876,180,"ui/icon/137000/137050.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1877,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1877,181,"ui/icon/137000/137051.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1878,182,"ui/icon/137000/137052.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1879,183,"ui/icon/137000/137053.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1880,184,"ui/icon/137000/137054.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -1977,7 +1977,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 1973,171,"ui/icon/137000/137229.tex",421,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:９Ｓ",0
 1974,165,"ui/icon/137000/137228.tex",72,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:アシンメトリー",0
 1975,180,"ui/icon/137000/137219.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-1976,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+1976,181,"ui/icon/137000/137220.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 1977,182,"ui/icon/137000/137221.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 1978,183,"ui/icon/137000/137222.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 1979,184,"ui/icon/137000/137223.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -2151,7 +2151,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 2147,132,"ui/icon/138000/138072.tex",0,False,"","",0
 2148,137,"ui/icon/138000/138073.tex",0,False,"","",0
 2149,180,"ui/icon/138000/138063.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-2150,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+2150,181,"ui/icon/138000/138064.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 2151,182,"ui/icon/138000/138065.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 2152,183,"ui/icon/138000/138066.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 2153,184,"ui/icon/138000/138067.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0
@@ -2282,7 +2282,7 @@ int32,byte,Image,uint16,bit&01,Lobby,Item,byte
 2278,132,"ui/icon/138000/138273.tex",0,False,"","",0
 2279,137,"ui/icon/138000/138274.tex",0,False,"","",0
 2280,180,"ui/icon/138000/138264.tex",485,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ウェイビーボブ",0
-2281,181,,486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","",0
+2281,181,"ui/icon/138000/138265.tex",486,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:ハーフツインテール",0
 2282,182,"ui/icon/138000/138266.tex",487,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:サイオンズアーク",0
 2283,183,"ui/icon/138000/138267.tex",488,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:グラジュエートボブ",0
 2284,184,"ui/icon/138000/138268.tex",489,True,"「<Sheet(Item,IntegerParameter(1),0)/>」により美容室で選べる特別な髪型です。","ヘアカタログ:編込ポニーテール",0

@@ -1239,6 +1239,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197894,1179,15,0,0,0,0,,"ウォールウィングオブジェ",False,False,0,0,0,True,False
 197895,1180,14,7,76,0,0,"CmnDefHousingDish_00213","ドラゴンスター・オ・マロン",True,False,8,4,11,True,False
 197896,1181,14,7,77,0,0,"CmnDefHousingDish_00213","ココナッツジュース",True,False,9,4,11,True,False
+197897,1182,14,7,78,0,0,"CmnDefHousingDish_00213","オリエンタル・ニューイヤーディッシュ",True,False,8,4,11,True,False
 197898,1183,12,0,0,0,0,,"シラディン・ウッドチェア",False,False,0,0,0,True,False
 197899,1184,15,0,0,0,0,,"タタミロフト",False,False,0,0,0,True,False
 197900,1185,12,0,0,0,0,,"マジックランドスケープ:クガネ",False,False,0,0,0,True,False
@@ -1368,6 +1369,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198025,1287,14,0,0,99,0,,"イヴンタイド・ソードスタンド",False,False,0,0,0,True,False
 198026,1288,15,0,0,0,0,,"新生祭のポスター",False,False,5,0,0,True,False
 198027,1289,15,0,0,0,0,,"ウォールヴァンパイアバットオブジェ",False,False,5,0,0,True,False
+198028,1290,15,0,0,0,0,,"迎春扇子飾",False,False,5,0,0,True,False
 198029,1291,12,0,0,0,0,,"ヴァレンティオン・ハートチェア",False,False,5,0,0,True,False
 198030,1292,14,0,0,102,0,,"ヴァリガルマンダ・トロフィー",False,False,0,0,0,True,False
 198031,1293,14,0,0,103,0,,"レジリエント・ソードスタンド",False,False,0,0,0,True,False
@@ -1493,6 +1495,11 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198153,1415,16,0,0,0,0,,"グラスランド・ラグ",False,False,0,0,0,True,False
 198154,1416,12,0,0,0,0,,"ロイヤルベッド",False,False,0,0,0,True,False
 198155,1417,14,0,0,104,0,,"エターナルセノタフ",False,False,0,0,0,True,False
+198156,1418,14,0,0,0,0,,"セノーテ・ルームランプ",False,False,0,0,0,True,False
+198157,1419,13,0,0,0,0,"CmnDefHousingObject_00141","オリジェニクス・モニターデスク",False,False,0,0,0,True,False
+198158,1420,12,0,0,0,0,,"オリジェニクス・チェア",False,False,0,0,0,True,False
+198159,1421,15,0,0,0,0,,"ストレイバロー・ウォールランプ",False,False,0,0,0,True,False
+198160,1422,16,0,0,0,0,,"トロイメライ・フロアステッカー",False,False,0,0,0,True,False
 198163,1425,12,0,0,0,0,,"ボルダリング・パーティション",False,False,0,0,0,True,False
 198164,1426,12,0,0,0,0,,"ビリヤードテーブルセット",False,False,5,0,0,True,False
 198165,1427,15,0,0,0,0,,"イミテーション・クローゼットドア",False,False,0,0,0,True,False
@@ -1513,6 +1520,17 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198180,1442,12,0,0,0,0,,"オープン・パーティション",False,False,0,0,0,True,False
 198181,1443,12,0,0,0,0,,"ティーキャディ・シェルフ",False,False,0,0,0,True,False
 198182,1444,15,0,0,0,0,,"インドア・オーニング",False,False,0,0,0,True,False
+198183,1445,14,0,0,0,0,,"クリスタルトロフィー:竜騎士",False,False,5,0,0,True,False
+198184,1446,14,0,0,0,0,,"クリスタルトロフィー:ナイト",False,False,5,0,0,True,False
+198185,1447,14,0,0,0,0,,"クリスタルトロフィー:戦士",False,False,5,0,0,True,False
+198186,1448,14,0,0,0,0,,"クリスタルトロフィー:モンク",False,False,5,0,0,True,False
+198187,1449,14,0,0,0,0,,"クリスタルトロフィー:忍者",False,False,5,0,0,True,False
+198188,1450,14,0,0,0,0,,"クリスタルトロフィー:吟遊詩人",False,False,5,0,0,True,False
+198189,1451,14,0,0,0,0,,"クリスタルトロフィー:黒魔道士",False,False,5,0,0,True,False
+198190,1452,14,0,0,0,0,,"クリスタルトロフィー:召喚士",False,False,5,0,0,True,False
+198191,1453,14,0,0,0,0,,"クリスタルトロフィー:白魔道士",False,False,5,0,0,True,False
+198192,1454,14,0,0,0,0,,"クリスタルトロフィー:学者",False,False,5,0,0,True,False
 198193,1291,12,0,0,0,0,,"ヴァレンティオン・ハートチェアEX",False,False,3,0,0,True,False
 198194,1407,12,0,0,0,0,,"クッションベンチ",False,False,0,0,0,True,False
 198195,1408,12,0,0,0,0,,"トロピカル・キャノピーベッド",False,False,0,0,0,True,False
+198196,1455,14,0,0,0,0,,"ワチュメキメキ・アドバルーン",False,False,5,0,0,True,False

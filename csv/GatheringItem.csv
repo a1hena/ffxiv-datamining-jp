@@ -798,11 +798,11 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 794,"ヴォルカニックグラス","GatheringItemLevelConvertTable#690",True,,0,0,False,0,5,95
 795,"オプティカルグラス","GatheringItemLevelConvertTable#700",True,,4540,0,False,0,0,65535
 796,"アレクサンドリアン鉱","GatheringItemLevelConvertTable#700",True,,4540,0,False,0,0,65535
-797,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-798,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-799,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-800,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-801,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+797,"新車両用潤滑油","GatheringItemLevelConvertTable#645",True,,0,70775,False,0,3,51
+798,"客車用内装素材","GatheringItemLevelConvertTable#645",True,,0,70775,False,0,3,52
+799,"案内地図素材","GatheringItemLevelConvertTable#650",True,,0,70775,False,0,3,53
+800,"業務用洗剤素材","GatheringItemLevelConvertTable#650",True,,0,70775,False,0,3,54
+801,"線路復旧用素材","GatheringItemLevelConvertTable#655",True,,0,70775,False,0,3,55
 802,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 803,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 804,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0

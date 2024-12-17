@@ -336,5 +336,9 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131418,192,17,0,0,0,,"ガーデン・パームツリーEX",False,False,True,3,0,0,False,True
 131419,322,17,0,0,0,,"東方東屋",False,False,True,0,0,0,False,True
 131420,323,17,0,0,0,,"スクエアステップストーン",False,False,True,0,0,0,False,True
+131421,324,17,0,0,0,,"エレクトロープ・タレット",False,False,True,0,0,0,False,True
+131422,325,17,0,0,0,,"トラルの小蛇の壺？",False,False,True,0,0,0,False,True
+131423,326,17,0,0,47,,"イフイカ・フラワーガーデン",False,False,True,0,0,0,False,True
+131424,327,17,0,0,0,,"ゾーモー・ストーンランタン",False,False,True,0,0,0,False,True
 131425,328,17,0,0,0,,"ジャジャグラル・ツリー",False,False,True,0,0,0,False,True
 131426,299,17,0,0,0,,"イルミネーテッド・チョコボトピアリーEX",False,False,True,3,0,0,False,True

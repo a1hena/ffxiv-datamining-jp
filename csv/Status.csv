@@ -1486,7 +1486,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 1448,"変身","別の姿に変身した状態。","ui/icon/216000/216214.tex",69,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,True,False,False,False,False,100,0,False,False,0,2,True,0,False,0,False,0,0,0,False,False,0
 1449,"風月","一定量のダメージを軽減する状態。","ui/icon/213000/213311.tex",0,0,"侍",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,0
 1450,"風花","一定量のダメージを軽減する状態。","ui/icon/213000/213312.tex",0,0,"侍",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,0
-1451,"クラウンロード","受けるダメージが増加する状態。","ui/icon/214000/214841.tex",0,0,"占星術師",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,0
+1451,"クラウンロード","受けるダメージが増加する状態。","ui/icon/214000/214841.tex",0,0,"占星術師",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,0
 1452,"クラウンレディ","受けるダメージが軽減される状態。","ui/icon/213000/213244.tex",0,0,"占星術師",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,True,0,False,0,False,0,0,0,False,False,0
 1453,"竜の右眼","与ダメージが上昇した状態。","ui/icon/212000/212581.tex",82,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,0
 1454,"竜の左眼","与ダメージが上昇した状態。","ui/icon/212000/212582.tex",0,0,"竜騎士",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,100,0,False,True,0,0,True,0,False,0,False,0,0,0,False,False,0
@@ -3128,7 +3128,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3020,"魂の総和","幻体に計上されている魂の総数。","ui/icon/218000/218101.tex",0,16,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 3021,"防御不可","防御を使用できない状態。","ui/icon/214000/214887.tex",131,0,"全クラス",2,"dk05th_stdn0t","abl_stlp_mks_common035_c3a1",False,False,False,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 3022,"徐々に睡眠","徐々に眠りつつある状態。効果終了時に睡眠状態になる。","ui/icon/214000/214888.tex",95,0,"全クラス",2,"dk05th_stdn0t","st_slp_pvp1v",False,False,False,False,False,False,True,False,False,150,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
-3023,"恐慌","恐怖で行動できなくなり、勝手に動いてしまう状態。","ui/icon/215000/215552.tex",0,0,"全クラス",2,"dk05th_stdn0t","stlp_fear01x",False,False,True,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,0,False,0,45,0,False,False,0
+3023,"恐慌","恐怖で行動できなくなり、勝手に動いてしまう状態。","ui/icon/215000/215552.tex",0,0,"全クラス",2,"dk05th_stdn0t","stlp_fear01x",False,False,True,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,0,False,0,45,9,False,False,0
 3024,"誘惑","誘惑を受け心奪われ、勝手に動いてしまう状態。","ui/icon/214000/214889.tex",0,0,"全クラス",2,"dk05th_stdn0t","stlp_pvpcom033_0c",False,False,True,False,False,False,False,False,False,150,0,False,False,0,4,True,0,False,0,False,0,45,0,False,False,0
 3025,"聖刻","敵から攻撃を受けると攻撃者のＨＰが回復する状態。","ui/icon/214000/214892.tex",0,0,"ナイト",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 3026,"ホーリーシェルトロン","一定量のダメージを軽減する状態。","ui/icon/212000/212515.tex",0,0,"ナイト",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,0
@@ -3277,7 +3277,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3169,"ポリグロット","ファウルを実行できる状態。","ui/icon/214000/214984.tex",0,0,"黒魔道士",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 3170,"紅蓮の神髄","次に実行するウェポンスキルのダメージが上昇する状態。","ui/icon/212000/212528.tex",0,0,"モンク",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,0
 3171,"金剛の神髄","「金剛転輪」を実行することで、自身の周囲の敵への攻撃と、自身へのＨＰ回復効果が発動する状態。それぞれの効果量はこのステータスの効果中に受けたダメージの総量により変化する。","ui/icon/212000/212527.tex",0,0,"モンク",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
-3172,"急所経穴","この効果を付与したプレイヤーからウェポンスキルによる攻撃を受けると、追加ダメージを受ける状態。","ui/icon/214000/214931.tex",0,0,"モンク",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
+3172,"急所経穴","この効果を付与したプレイヤーからウェポンスキルによる攻撃を受けると、追加ダメージを受ける状態。","ui/icon/214000/214931.tex",0,0,"モンク",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,True,0,0,True,0,False,0,False,0,0,0,False,False,0
 3173,"抜重歩法","一定量のダメージを軽減する状態。","ui/icon/214000/214932.tex",0,0,"モンク",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,0
 3174,"メテオドライヴ","体の自由を奪われ、行動できなくなった状態。","ui/icon/214000/214933.tex",0,0,"モンク",2,"dk05th_stdn0t","",False,True,True,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,45,0,False,False,0
 3175,"メテオドライヴ","","ui/icon/214000/214934.tex",0,0,"モンク",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,True,True,0,0,True,0,False,3,False,0,27,0,False,False,0
@@ -4222,7 +4222,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4096,"蛇鱗","身動きが取れないが、受けるダメージが軽減され、さらに「浄化」で解除することができる状態異常効果と、ノックバック、引き寄せの効果を無効化する状態。","ui/icon/214000/214992.tex",0,0,"ヴァイパー",1,"dk05th_stup0t","",True,False,False,False,False,False,False,False,False,0,2,False,False,39186,36,True,0,False,0,False,0,27,24,False,True,0
 4097,"蛇鱗［バリア］","一定量のダメージを軽減する状態。","ui/icon/214000/214993.tex",0,0,"ヴァイパー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,0
 4098,"蛇血","「蛇鱗撃」が「血気蛇鱗撃」に変化した状態。","ui/icon/214000/214994.tex",0,0,"ヴァイパー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
-4099,"惨毒","この効果を付与したプレイヤーから受けるダメージが増加する状態。","ui/icon/214000/214995.tex",0,0,"ヴァイパー",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,20,0,True,0,False,0,False,0,0,0,False,False,0
+4099,"惨毒","この効果を付与したプレイヤーから受けるダメージが増加する状態。","ui/icon/214000/214995.tex",0,0,"ヴァイパー",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,True,20,0,True,0,False,0,False,0,0,0,False,False,0
 4100,"色魔法2実行可","グリーン、イエローの魔法を実行できる状態。","ui/icon/213000/213801.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 4101,"色魔法3実行可","ブルー、マゼンタの魔法を実行できる状態。","ui/icon/213000/213802.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 4102,"サブトラクティブパレット","色魔法の性質が変化した状態。","ui/icon/214000/214996.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
@@ -4235,7 +4235,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4109,"イマジンポンポン","与ダメージと自身からのＨＰ回復効果が上昇した状態。","ui/icon/214000/214705.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,20,0,True,0,False,0,False,0,0,0,False,False,0
 4110,"イマジンウィング","魔法のキャストタイムとリキャストタイムが短縮され、さらに移動速度が上昇した状態。","ui/icon/214000/214706.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-10,18,True,0,False,0,False,0,6,0,False,False,0
 4111,"イマジンクロー","受けるダメージが増加し、かつ自身に対するＨＰ回復効果が低下した状態。","ui/icon/214000/214707.tex",0,0,"ピクトマンサー",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,0
-4112,"イマジンファング","ＨＰが徐々に失われる状態。","ui/icon/214000/214708.tex",0,0,"ピクトマンサー",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,5,False,0,0,0,False,False,0
+4112,"イマジンファング","ＨＰが徐々に失われる状態。","ui/icon/214000/214708.tex",0,0,"ピクトマンサー",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,True,100,0,True,0,False,5,False,0,0,0,False,False,0
 4113,"スマッジ","移動速度が上昇した状態。","ui/icon/213000/213807.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,18,True,0,False,0,False,0,6,0,False,False,0
 4114,"テンペラコート","一定量のダメージを軽減する状態。","ui/icon/213000/213809.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,0
 4115,"テンペラグラッサ","一定量のダメージを軽減する状態。","ui/icon/213000/213810.tex",0,0,"ピクトマンサー",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,0
@@ -4303,12 +4303,12 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4174,"ディレイスペル：クワイタス","発動が遅延したクワイタスの標的となっている状態。効果終了時に、クワイタスが発動する。","ui/icon/215000/215341.tex",0,0,"",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,190,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,0
 4175,"火精の守り","被ダメージを無効化する状態。火精が接触すると大火炎が発生する。","ui/icon/214000/214187.tex",0,0,"全クラス",1,"dk05th_stup0t","m0049_stlp_barrier_c0x1",False,False,False,False,False,False,False,True,True,199,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,0
 4176,"バインド","移動できなくなった状態。","ui/icon/215000/215003.tex",3,0,"全クラス",2,"dk05ht_bind0t","",False,True,False,False,False,False,False,True,True,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
-4177,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4178,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4179,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4180,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4181,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4182,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4177,"_rsv_4177_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4177_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214238.tex",160,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4178,"_rsv_4178_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4178_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214239.tex",160,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4179,"闇のヴェール","暗雲を身にまとい、魔力を蓄えている状態。","ui/icon/214000/214240.tex",89,0,"全クラス",1,"dk05th_stup0t","m0130_stlp_smk01x",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4180,"_rsv_4180_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4180_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214241.tex",89,0,"全クラス",1,"dk05th_stup0t","m0130_stlp_emp01x",False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,0
+4181,"_rsv_4181_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4181_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214242.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,6,False,0,23,0,False,False,0
+4182,"_rsv_4182_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4182_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214243.tex",0,0,"全クラス",1,"dk05th_stup0t","m0130_stlp_enc01x",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4183,"訓練中","すべての攻撃に対してＨＰが1より減ることがない状態。","ui/icon/214000/214237.tex",0,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 4184,"憎悪の炎","憎悪の炎に身を焼かれた状態。ＨＰが徐々に失われる。","ui/icon/214000/214250.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,1,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,0
 4185,"憎悪の呪縛","行動できなくなった状態。","ui/icon/214000/214251.tex",0,0,"全クラス",2,"dk05th_stdn0t","dk10ht_bind0h",False,True,False,True,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
@@ -4317,7 +4317,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4188,"空間掌握：爆撃","アブソリュート・オーソリティの影響を受けた状態。効果時間が終了すると爆発を起こす。","ui/icon/214000/214249.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,0
 4189,"ウィンド・オブ・イースト","東風の紋が刻まれた状態。効果時間が終了すると東からの突風を受ける。","ui/icon/214000/214245.tex",0,0,"全クラス",2,"dk05th_stdn0t","x6fc_stlp02_c0w",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4190,"ウィンド・オブ・ウェスト","西風の紋が刻まれた状態。効果時間が終了すると西からの突風を受ける。","ui/icon/214000/214246.tex",0,0,"全クラス",2,"dk05th_stdn0t","x6fc_stlp01_c0w",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4191,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4191,"徐々にＨＰ回復","連続してＨＰが回復している状態。","ui/icon/217000/217521.tex",0,16,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,5,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,0
 4192,"決戦α［被］","決戦を強制されている状態。","ui/icon/214000/214255.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4193,"決戦α","決戦を強制した状態。「決戦α［被］」が付与された対象以外からの攻撃が無効化される。","ui/icon/214000/214252.tex",0,0,"全クラス",2,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,28,False,0,False,0,False,0,0,0,False,False,0
 4194,"決戦β［被］","決戦を強制されている状態。","ui/icon/214000/214256.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4501,7 +4501,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4372,"死の刻印","死の刻印を刻まれた状態。与ダメージが低下し、スタック数が増えると戦闘不能状態になる。","ui/icon/219000/219421.tex",0,2,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,-10,10,False,0,False,5,False,0,23,0,False,False,0
 4373,"ディレイスペル・リフレイン","次に唱える魔法の発動を、複数段階に分割して遅延させる状態。","ui/icon/214000/214189.tex",0,0,"",1,"dk05th_stup0t","m0581stlp_c0h",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4374,"スタン","行動できなくなった状態。","ui/icon/215000/215004.tex",89,0,"全クラス",2,"dk05ht_sta0h","",True,False,True,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4375,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4375,"被ダメージ上昇","受けるダメージが増加する状態。","ui/icon/217000/217101.tex",40,16,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,0
 4376,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4377,"ノックアップ","空中に打ち上げられている状態。","ui/icon/215000/215225.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4378,"スタン","行動できなくなった状態。","ui/icon/215000/215004.tex",89,0,"全クラス",2,"dk05ht_sta0h","",True,False,True,False,False,False,False,False,False,100,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4512,9 +4512,9 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4383,"火属性耐性低下［強］","火属性に対する耐性が著しく低下した状態。","ui/icon/215000/215595.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,0
 4384,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4385,"スーパースプリント","移動速度が大幅に上昇した状態。","ui/icon/214000/214980.tex",130,0,"全クラス",1,"mks_wind_ball_c0k2","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,18,True,0,False,0,False,0,43,0,False,False,0
-4386,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4387,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4388,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4386,"雷属性耐性低下","雷属性に対する耐性が低下した状態。","ui/icon/217000/217741.tex",0,16,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,220,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,0
+4387,"","",,0,0,"",1,"","",False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4388,"","",,0,0,"",1,"","",False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4389,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4390,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4391,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0

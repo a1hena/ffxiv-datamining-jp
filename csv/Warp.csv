@@ -569,7 +569,7 @@ int32,Level,TerritoryType,DefaultTalk,DefaultTalk,DefaultTalk,WarpCondition,Warp
 131582,,"z6e1",,,,"WarpCondition#1","","","",False,"","「ジュノ下層」へ移動しますか？"
 131583,,"y6f3",,,,"WarpCondition#1","","","",False,"","「ヤクテル樹海」へ移動しますか？"
 131584,,"z6e1_2",,,,"WarpCondition#1","","","",False,"","「ジュノ下層」へ移動しますか？"
-131585,,,,,,"WarpCondition#0","","","",False,"",""
+131585,,"w1t2","DefaultTalk#600660",,,"WarpCondition#1","","","",False,"","「仮設オーディション会場」から出ますか？"
 131586,,"x6f2",,,,"WarpCondition#1","","","",False,"","「ユウェヤーワータ」から出ますか？"
 131587,,"f1t2",,,,"WarpCondition#1","","","",False,"","「グリダニア旧市街」へ移動しますか？"
 131588,,"f1ec","DefaultTalk#600298",,,"WarpCondition#1","","","",False,"","「星芒マーケット」へ移動しますか？"

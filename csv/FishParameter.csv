@@ -1433,11 +1433,11 @@ int32,str,str,str,str,Row,GatheringItemLevelConvertTable,byte,uint16,bit&01,Fish
 1429,"漂流する多様な廃棄物を巧みに左右へ避け、超速で泳ぐ姿から稲妻の名を与えられた魚。力強く発達したヒレで、どんなコーナーをも制圧する","稲妻のような素早い影が水中を駆け抜けた！","稲妻のような素早い影を見失ってしまった……。","稲妻のような素早い影の正体を釣り上げた！","サンダードリフトトラウト","GatheringItemLevelConvertTable#700",0,7000,True,"河川","ドリフトダウンズ","魚類伝承録:アレクサンドリア",True,1145
 1430,"エバーキープ内で用いられる映像端末の、細かな画素が寄り集まったような体表の模様を揺らがせ泳ぐ。雷気が流れると異なる色彩を表現するようだ","","","","ピクセルローチ","GatheringItemLevelConvertTable#700",0,7000,True,"湖沼","レジデンシャルセクター","魚類伝承録:アレクサンドリア",True,1145
 1431,"帆のような背ビレと鋭い口吻で、南北トラル間の雲海を自在に泳ぎ回る大型魚。雲のように柔らかな魚身が人気で、地元の海鮮料理に用いられる","","","","クラウドセイルフィッシュ","GatheringItemLevelConvertTable#700",0,7000,True,"雲海","ゾーゴー海峡東","魚類伝承録:サカ・トラル",True,0
-1432,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
-1433,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
-1434,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
-1435,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
-1436,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
+1432,"油分豊富な粘膜で身を包み、水温の変化に対応する。抽出した魚油は良質な潤滑油として用いられ、職人や技師たちに重宝される","","","","オイリーロープ","GatheringItemLevelConvertTable#645",0,7000,False,"湖沼","ボポル・ウィヒヒ",,True,0
+1433,"ヤクアワク・ゾユの湖中に、星のような光を灯す核状生物。柔らかな光は、ウトォームの地平線に暮らす人々の貴重な光源のひとつとなっている","","","","ヤクアワクコア","GatheringItemLevelConvertTable#645",0,7000,False,"湖沼","ヤクアワク・ゾユ",,True,0
+1434,"身を守るため、濃厚かつ多量の墨を吐き出して隠れるタコ。その墨は耐水性のインクとして用いられ、船旅の海図を描くのにも重宝される","","","","インクオクトパス","GatheringItemLevelConvertTable#650",0,7000,False,"沿岸","フォルアード・キャビンズ",,True,0
+1435,"淡水域に棲息する、複雑な網目状の海綿質繊維を持つ生物。体組織を取り除いた柔らかな骨格は、泡立ちのよいスポンジとなる","","","","ハニコムスポンジ","GatheringItemLevelConvertTable#650",0,7000,False,"河川","ミヤカ・ベック上流",,True,0
+1436,"海水性のセノーテに棲息する、厚い殻を持つ牡蠣。殻を砕いて用いると排水力の高い資材となり、構造物の寿命を保つことに役立てられる","","","","セノーテオイスター","GatheringItemLevelConvertTable#655",0,7000,False,"湖沼","辛水のセノーテ",,True,0
 1437,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
 1438,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
 1439,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"沿岸","未知の釣り場",,False,0
