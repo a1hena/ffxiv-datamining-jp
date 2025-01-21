@@ -300,7 +300,7 @@ int32,byte,Row,ClassJobCategory,byte,BannerCondition,uint16,uint16,uint16,Image,
 296,11,"指示を待つ","全クラス",1,"BannerCondition#722",0,0,2308,"ui/icon/064000/064453.tex",""
 297,11,"水をまく","全クラス",1,"BannerCondition#723",0,0,2310,"ui/icon/064000/064454.tex",""
 298,11,"シェイカーを振る","全クラス",1,"BannerCondition#724",0,0,2309,"ui/icon/064000/064455.tex",""
-299,0,,"",0,"BannerCondition#0",0,0,0,,""
+299,11,"自由のポーズ","全クラス",1,"BannerCondition#725",0,0,1602,"ui/icon/064000/064456.tex",""
 300,11,"花束を贈る","全クラス",1,"BannerCondition#726",0,0,2116,"ui/icon/064000/064457.tex",""
 301,0,,"",0,"BannerCondition#0",0,0,0,,""
 302,11,"オフォカリー","全クラス",1,"BannerCondition#727",0,0,1012,"ui/icon/064000/064459.tex",""

@@ -3707,7 +3707,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003703,"代金入りの革袋",0,"",0,0,1,0,0,False,"","ui/icon/025000/025919.tex","",1,1,"奇跡の薬",0,"normal/item_start",0
 2003704,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003705,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003706,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003706,"オーディションのチラシ",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","",1,1,"2期生オーディションの真相",0,"normal/item_start",0
 2003707,"UFOの挿絵",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","",1,1,"事件屋の行方",0,"normal/item_start",0
 2003708,"青々とした葦",0,"",0,0,1,0,0,False,"","ui/icon/025000/025035.tex","",5,1," 拓け！ 上流域観光の道",0,"normal/item_start",0
 2003709,"カードキー",0,"",0,0,1,0,0,False,"","ui/icon/020000/020961.tex","",1,1,"放棄された施設にて",0,"normal/item_start",0

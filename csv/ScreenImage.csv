@@ -1371,8 +1371,8 @@ int32,Image,Jingle,sbyte,bit&01
 1367,,"Unlock",1,True
 1368,,"Unlock",1,True
 1369,"ui/icon/085000/085612.tex",,1,False
-1370,,"Lv",0,False
-1371,,"Lv",0,False
+1370,"ui/icon/085000/085614.tex",,1,False
+1371,"ui/icon/085000/085615.tex",,1,False
 1372,"ui/icon/085000/085616.tex",,1,False
 1373,"ui/icon/085000/085632.tex",,1,False
 1374,"ui/icon/085000/085633.tex",,1,False
