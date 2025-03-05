@@ -304,7 +304,7 @@ int32,byte,Row,ClassJobCategory,byte,BannerCondition,uint16,uint16,uint16,Image,
 300,11,"花束を贈る","全クラス",1,"BannerCondition#726",0,0,2116,"ui/icon/064000/064457.tex",""
 301,0,,"",0,"BannerCondition#0",0,0,0,,""
 302,11,"オフォカリー","全クラス",1,"BannerCondition#727",0,0,1012,"ui/icon/064000/064459.tex",""
-303,0,,"",0,"BannerCondition#0",0,0,0,,""
+303,11,"撮影する","全クラス",1,"BannerCondition#1",0,0,1728,"ui/icon/064000/064461.tex",""
 304,0,,"",0,"BannerCondition#0",0,0,0,,""
 305,0,,"",0,"BannerCondition#0",0,0,0,,""
 306,0,,"",0,"BannerCondition#0",0,0,0,,""
