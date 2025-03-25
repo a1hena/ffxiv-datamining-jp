@@ -13,3 +13,4 @@ int32,str,str,Image,sbyte
 3,"アラーム","アラームを起動します。任意の時間に設定し、時間が来たら通知が行われます。設定したアラームはログイン中のみ保持されます。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>テキストコマンド：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>/alarm
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>キーバインド：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>設定可能","ui/icon/000000/000654.tex",3
+4,"","",,0

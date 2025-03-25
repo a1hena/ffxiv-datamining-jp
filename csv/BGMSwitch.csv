@@ -441,3 +441,7 @@ int32,BGMSystemDefine,Quest,byte,Row
 50078.1,"80"," 新事業！ トラル旅行公司",0,"BGMSituation#1382"
 50079.0,"0.5",,0,"music/ex5/BGM_EX5_EoV_11.scd"
 50079.1,"80","ジュノへ",0,"music/ex5/BGM_EX5_EoV_21.scd"
+50080.0,"0.5",,0,"music/ex2/BGM_EX2_Event_31.scd"
+50080.1,"80","",0,""
+50081.0,"0.5",,0,"BGMSituation#1364"
+50081.1,"80","",0,"BGMSituation#1388"

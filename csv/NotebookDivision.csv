@@ -106,7 +106,8 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1061,"秘伝書:第11巻","秘伝書",100,255,,88,True,True,True,True,True,True,True,True,True
 1062,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 1063,"ニトウィケ","お得意様取引",90,255,"お得意様ニトウィケ",1,False,True,True,True,True,True,True,True,True
-1064,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1064,"秘伝書:第12巻","秘伝書",100,255,,87,True,True,True,True,True,True,True,True,True
+1065,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 2000,"クルザス","伝承録",255,50,,12,False,True,True,True,True,True,True,True,True
 2001,"ドラヴァニア","伝承録",255,50,,11,False,True,True,True,True,True,True,True,True
 2002,"アバラシア","伝承録",255,50,,10,False,True,True,True,True,True,True,True,True

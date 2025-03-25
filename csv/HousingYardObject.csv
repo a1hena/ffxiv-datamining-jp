@@ -342,3 +342,9 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131424,327,17,0,0,0,,"ゾーモー・ストーンランタン",False,False,True,0,0,0,False,True
 131425,328,17,0,0,0,,"ジャジャグラル・ツリー",False,False,True,0,0,0,False,True
 131426,299,17,0,0,0,,"イルミネーテッド・チョコボトピアリーEX",False,False,True,3,0,0,False,True
+131427,170,17,0,0,0,,"セニョールサボテンダー・クロノメーターEX",False,False,True,3,0,0,False,True
+131428,191,17,0,0,0,,"イーストエンド・ツリー",False,False,True,0,0,0,False,True
+131429,329,17,0,0,0,,"フローリスト・ガーデンゲート",False,False,True,0,0,0,False,True
+131430,330,17,0,0,0,,"ブリックサークル",False,False,True,0,0,0,False,True
+131431,331,17,0,0,0,,"クアドラント・ヘッジ",False,False,True,0,0,0,False,True
+131432,332,17,0,0,0,,"チョコチョコボ・ファウンテン",False,False,True,0,0,0,False,True

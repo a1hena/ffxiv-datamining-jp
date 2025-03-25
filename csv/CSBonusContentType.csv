@@ -39,3 +39,9 @@ Lv<Value>IntegerParameter(7)</Value>","<Sheet(PublicContent,IntegerParameter(5),
 Lv<Value>IntegerParameter(7)</Value>","いずれかのマスクカーニバルを攻略する。","","ui/icon/112000/112332.tex",7735774,,68734,0,610
 18,"無人島開拓","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
 Lv<Value>IntegerParameter(7)</Value>","<Sheet(ContentType,IntegerParameter(2),0)/>で開拓素材の採集を<Value>IntegerParameter(8)</Value>回行う。","","ui/icon/101000/101184.tex",9323110,,70179,0,0
+19,"特殊ダンジョン探索","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","<Sheet(InstanceContent,IntegerParameter(5),3)/>を<Value>IntegerParameter(8)</Value>回コンプリートする。","","ui/icon/111000/111042.tex",0,,70182,0,0
+20,"お得意様取引","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","いずれかのお得意様取引を<Value>IntegerParameter(8)</Value>回達成する。","","ui/icon/111000/111048.tex",0,,67634,0,0
+21,"友好部族クエスト","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","いずれかの友好部族デイリークエストを<Value>IntegerParameter(8)</Value>回達成する。","","ui/icon/111000/111049.tex",0,,66488,0,0

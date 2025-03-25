@@ -34,7 +34,7 @@ int32,str
 17,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラックナイト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークアーツ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！ダークアーツは、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ブラックナイト”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>による
 バリア効果が消費されることで付与されます。
-ダークアーツが付与されていると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をＭＰの代わりにダークアーツを消費して実行することができます。"
+ダークアーツが付与されていると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の波動」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「暗黒の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をMPの代わりにダークアーツを消費して実行することができます。"
 18,"ダークサイドシンボル"
 19,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「影身具現」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、共に戦ってくれる<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「英雄の影身」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が具現化できるようになりました！ダークサイドシンボルでは「英雄の影身」の残り具現時間が表示されます。"
 20,"ヒーリングケーン"
@@ -128,10 +128,10 @@ int32,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火属性魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行するとアストラルファイア状態、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>氷属性魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行するとアンブラルブリザード状態となり、それぞれで以下の効果が発生します。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>《アストラルファイア効果中》<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-火属性魔法の消費ＭＰが増加する代わりに威力が上昇します。
+火属性魔法の消費MPが増加する代わりに威力が上昇します。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>《アンブラルブリザード効果中》<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-氷属性魔法の消費ＭＰが0になり、実行に成功するとＭＰが回復します。
-※アストラルファイア／アンブラルブリザードが付与されると、反対属性魔法の威力が減少しますが、実行時の消費ＭＰが0になります。
+氷属性魔法の消費MPが0になり、実行に成功するとMPが回復します。
+※アストラルファイア／アンブラルブリザードが付与されると、反対属性魔法の威力が減少しますが、実行時の消費MPが0になります。
 
 2つの属性をうまく使い分けて戦いましょう！"
 66,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エノキアン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、エレメンタルゲージ右下にエノキアンの付与状態が表示されるようになりました。
@@ -302,7 +302,7 @@ int32,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ゲイルスコグル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行して紅の竜血状態となると自身の与ダメージが上昇し、強力なアクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ナーストレンド」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>やレベル80で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スターダイバー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行できます。"
 127,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ランスマスタリーIII」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「竜眼雷電」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>および<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「竜眼蒼穹」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の実行時に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“天竜眼”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与されるようになりました！
 天竜眼を最大値まで付与することで、アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「天竜点睛」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行できます。"
-128,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ポリグロット効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ポリグロット”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の最大スタック数が3つに増加しました！
+128,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ポリグロット効果アップII」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“ポリグロット”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の最大スタック数が3つに増加しました！
 エノキアンが発動し30秒が経過するごとにゲージ下部にある<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>クリスタル（ポリグロット）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が点灯し、アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ファウル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ゼノグロシー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が実行可能となります。エノキアンの継続時間は、エレメンタルゲージ右下にあるタイマーによって30秒ごとに確認することができます。"
 129,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アストラルファイア効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得したことで、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“アストラルソウル”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のスタック数を確認できる<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アストラルシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！
 アストラルソウルはアストラルファイア効果中に「ファイジャ」または「フレア」を実行すると付与され、最大スタック数まで付与された状態になると、強力なアクションである<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フレアスター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行できます。"
@@ -403,9 +403,7 @@ int32,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「レムールシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！
 レムールソウルを消費することで<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ヴォイドリーパー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>やレベル90で修得する
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「コムニオ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などを実行できます。"
-154,"アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルソウル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得しました！
-アンブラルブリザード効果中にアンブラルソウルを実行すると、効果時間のカウントが停止します。
-アンブラルソウル以外のアクションを実行してアンブラルブリザードが再度付与される、または、反対属性のアストラルファイア状態になるとカウントが再開します。"
+154,""
 155,""
 156,""
 157,""

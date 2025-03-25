@@ -1,8 +1,8 @@
-﻿key,0,1,2,3,4
-#,Icon{Objective}[0],Icon{Objective}[1],,,
-int32,Image,Image,uint32,uint32,uint32
-0,,,0,0,0
-1,"ui/icon/063000/063909.tex","ui/icon/063000/063909.tex",919,920,921
-2,"ui/icon/063000/063910.tex","ui/icon/063000/063910.tex",922,923,924
-3,"ui/icon/063000/063911.tex","ui/icon/063000/063911.tex",919,920,921
-4,"ui/icon/063000/063912.tex","ui/icon/063000/063912.tex",919,920,921
+﻿key,0,1
+#,Icon{Objective}[0],Icon{Objective}[1]
+int32,Image,Image
+0,,
+1,"ui/icon/063000/063909.tex","ui/icon/063000/063909.tex"
+2,"ui/icon/063000/063910.tex","ui/icon/063000/063910.tex"
+3,"ui/icon/063000/063911.tex","ui/icon/063000/063911.tex"
+4,"ui/icon/063000/063912.tex","ui/icon/063000/063912.tex"
