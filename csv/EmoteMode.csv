@@ -81,6 +81,6 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 77,"花束を贈る","",True,False,False,False,3,False
 78,"","",True,False,False,False,3,False
 79,"ふらつく","",True,False,False,False,3,False
-80,"","",True,False,False,False,3,False
+80,"怒りに震える","",True,False,False,False,3,False
 81,"トームストーンを愛で続ける","",True,False,False,False,3,False
 82,"本を熟読する","",True,False,False,False,3,False

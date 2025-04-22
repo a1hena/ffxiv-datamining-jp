@@ -34307,8 +34307,8 @@ int32,byte,int64,NpcYell,uint16,ResidentMotionType
 799.59,4,"211, 0, 0, 0","退け！
 撤退だッ！",0,"ResidentMotionType#0"
 799.60,6,"545, 0, 0, 0","0",0,"ResidentMotionType#0"
-799.61,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
-799.62,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
+799.61,3,"-24004, 0, 0, 0","ん！？森から何か来たぞ…！",0,"ResidentMotionType#0"
+799.62,3,"-24751, 0, 0, 0","ん！？森から何か来たぞ…！",0,"ResidentMotionType#0"
 799.63,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
 799.64,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
 799.65,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
@@ -36392,4 +36392,4 @@ int32,byte,int64,NpcYell,uint16,ResidentMotionType
 850.92,9,"334, 0, 0, 0","0",0,"ResidentMotionType#0"
 850.93,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
 850.94,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
-851.0,0,"0, 0, 0, 0","0",0,"ResidentMotionType#0"
+851.0,11,"370, 0, 0, 0","0",0,"ResidentMotionType#0"

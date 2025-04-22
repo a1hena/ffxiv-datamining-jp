@@ -94,7 +94,7 @@ int32,Image,PlaceName,bit&01
 90,"ui/icon/063000/063971.tex","",True
 91,"ui/icon/063000/063972.tex","",True
 92,"ui/icon/063000/063973.tex","",True
-93,,"",True
-94,,"",True
-95,,"",True
-96,,"",True
+93,"ui/icon/063000/063890.tex","計画貢献度ボード",True
+94,"ui/icon/063000/063887.tex","コスモフォーチュン",True
+95,"ui/icon/063000/063888.tex","コスモリサーチ",True
+96,"ui/icon/063000/063891.tex","メカオペレーション",True

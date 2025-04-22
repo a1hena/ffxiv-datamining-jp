@@ -2,7 +2,7 @@
 #,Type,Data,,Text,Icon,
 int32,uint32,Row,byte,WeeklyBingoText,Image,byte
 0,0,,0,"ダミー",,0
-1,2,,0,"Lv1-49ダンジョン","ui/icon/113000/113001.tex",3
+1,5,,0,"Lv1-49ダンジョン","ui/icon/113000/113001.tex",3
 2,1,,0,"Lv50ダンジョン","ui/icon/113000/113002.tex",3
 3,2,,0,"Lv51-59ダンジョン","ui/icon/113000/113003.tex",3
 4,1,,0,"Lv60ダンジョン","ui/icon/113000/113004.tex",3

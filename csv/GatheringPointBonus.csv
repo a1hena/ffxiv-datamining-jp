@@ -320,14 +320,14 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 316,"技術力 <Value>IntegerParameter(1)</Value>以上",3820,4035,"バリューアップ効果＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",50,100,False,0
 317,"技術力 <Value>IntegerParameter(1)</Value>以上",4020,0,"集中検分：ブースト率＋<Value>IntegerParameter(1)</Value>%",60,0,False,0
 318,"獲得力 <Value>IntegerParameter(1)</Value>以上",4020,4200,"慎重純化：追加効果発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",20,30,False,0
-319,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",15,0,False,0
-320,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-321,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",15,0,False,0
-322,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-323,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",15,0,False,0
-324,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-325,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",15,0,False,0
-326,"技術力 <Value>IntegerParameter(1)</Value>以上",1,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
+319,"技術力 <Value>IntegerParameter(1)</Value>以上",240,2400,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",30,40,False,0
+320,"獲得力 <Value>IntegerParameter(1)</Value>以上",235,2400,"慎重純化：追加効果発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",30,40,False,0
+321,"",0,0,"",0,0,False,0
+322,"",0,0,"",0,0,False,0
+323,"",0,0,"",0,0,False,0
+324,"",0,0,"",0,0,False,0
+325,"",0,0,"",0,0,False,0
+326,"",0,0,"",0,0,False,0
 327,"技術力 <Value>IntegerParameter(1)</Value>以上",444,572,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",20,60,False,0
 328,"技術力 <Value>IntegerParameter(1)</Value>以上",451,581,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",20,60,False,0
 329,"技術力 <Value>IntegerParameter(1)</Value>以上",453,584,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",20,60,False,0
@@ -387,18 +387,18 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 383,"獲得力 <Value>IntegerParameter(1)</Value>以上",4750,0,"収集価値＋<Value>IntegerParameter(1)</Value>",70,0,False,0
 384,"獲得力 <Value>IntegerParameter(1)</Value>以上",4550,0,"収集価値＋<Value>IntegerParameter(1)</Value>",70,0,False,0
 385,"獲得力 <Value>IntegerParameter(1)</Value>以上",4750,0,"収集価値＋<Value>IntegerParameter(1)</Value>",70,0,False,0
-386,"獲得力 <Value>IntegerParameter(1)</Value>以上",2930,0,"収集価値＋<Value>IntegerParameter(1)</Value>",75,0,False,0
-387,"",0,0,"",0,0,False,0
-388,"",0,0,"",0,0,False,0
-389,"",0,0,"",0,0,False,0
+386,"獲得力 <Value>IntegerParameter(1)</Value>以上",2500,0,"収集価値＋<Value>IntegerParameter(1)</Value>",140,0,False,0
+387,"獲得力 <Value>IntegerParameter(1)</Value>以上",2400,3700,"慎重純化：追加効果発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",30,40,False,0
+388,"獲得力 <Value>IntegerParameter(1)</Value>以上",4550,4750,"慎重純化：追加効果発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",10,20,False,0
+389,"獲得力 <Value>IntegerParameter(1)</Value>以上",4750,5445,"慎重純化：追加効果発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",10,20,False,0
 390,"獲得力 <Value>IntegerParameter(1)</Value>以上",395,454,"獲得数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3,False,0
 391,"獲得力 <Value>IntegerParameter(1)</Value>以上",400,460,"獲得数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3,False,0
 392,"獲得力 <Value>IntegerParameter(1)</Value>以上",495,569,"獲得数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3,False,0
 393,"獲得力 <Value>IntegerParameter(1)</Value>以上",499,573,"獲得数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3,False,0
 394,"獲得力 <Value>IntegerParameter(1)</Value>以上",515,592,"獲得数＋<Value>IntegerParameter(1)</Value>個（上昇タイプ）",1,3,False,0
-395,"",0,0,"",0,0,False,0
-396,"",0,0,"",0,0,False,0
-397,"",0,0,"",0,0,False,0
+395,"技術力 <Value>IntegerParameter(1)</Value>以上",240,2400,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",30,40,False,0
+396,"技術力 <Value>IntegerParameter(1)</Value>以上",2400,3700,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",30,40,False,0
+397,"獲得力 <Value>IntegerParameter(1)</Value>以上",235,2400,"慎重純化：追加効果発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",30,40,False,0
 398,"GPmax <Value>IntegerParameter(1)</Value>以上",577,607,"採集回数／耐久＋<Value>IntegerParameter(1)</Value>（上昇タイプ）",1,2,False,0
 399,"GPmax <Value>IntegerParameter(1)</Value>以上",583,613,"採集回数／耐久＋<Value>IntegerParameter(1)</Value>（上昇タイプ）",1,2,False,0
 400,"GPmax <Value>IntegerParameter(1)</Value>以上",591,621,"採集回数／耐久＋<Value>IntegerParameter(1)</Value>（上昇タイプ）",1,2,False,0
@@ -601,10 +601,10 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 597,"獲得力 <Value>IntegerParameter(1)</Value>以上",4550,0,"採集回数／耐久＋<Value>IntegerParameter(1)</Value>",2,0,False,0
 598,"獲得力 <Value>IntegerParameter(1)</Value>以上",4750,0,"採集回数／耐久＋<Value>IntegerParameter(1)</Value>",1,0,False,0
 599,"獲得力 <Value>IntegerParameter(1)</Value>以上",4750,0,"採集回数／耐久＋<Value>IntegerParameter(1)</Value>",2,0,False,0
-600,"",0,0,"",0,0,False,0
-601,"",0,0,"",0,0,False,0
-602,"",0,0,"",0,0,False,0
-603,"",0,0,"",0,0,False,0
+600,"獲得力 <Value>IntegerParameter(1)</Value>以上",5090,0,"収集価値＋<Value>IntegerParameter(1)</Value>",70,0,False,0
+601,"獲得力 <Value>IntegerParameter(1)</Value>以上",5090,5548,"慎重純化：追加効果発生率＋<Value>IntegerParameter(1)</Value>%（上昇タイプ）",10,20,False,0
+602,"技術力 <Value>IntegerParameter(1)</Value>以上",5090,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",15,0,False,0
+603,"技術力 <Value>IntegerParameter(1)</Value>以上",5090,0,"獲得数ボーナス発生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
 604,"",0,0,"",0,0,False,0
 605,"",0,0,"",0,0,False,0
 606,"",0,0,"",0,0,False,0

@@ -225,7 +225,7 @@ int32,Image,str
 なお、島内ではデジョンのアクションが専用の<UIForeground>0F</UIForeground>デミデジョン<UIForeground>01</UIForeground>へと変わり
 リキャストタイムを気にせず拠点に戻ることができます。"
 30,,""
-31,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>「コスモエクスプローラー計画」に参加しました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+31,"ui/icon/086000/086816.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>「コスモエクスプローラー計画」に参加しました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 「<UIForeground>0F</UIForeground>コスモエクスプローラー<UIForeground>01</UIForeground>」は、同じワールドのプレイヤーと協力しつつ、
 月面や宇宙の星々のフィールドを探索・発展させるコンテンツです！
@@ -234,33 +234,33 @@ int32,Image,str
 
 計画が進行することで、星々のフィールドに惑星探索のための様々な施設が増え、
 景観も変化していきます。"
-32,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■参加可能クラスとレベルアジャスト<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+32,"ui/icon/086000/086816.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■参加可能クラスとレベルアジャスト<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 コスモエクスプローラーは、クラフター・ギャザラー向けのコンテンツです。
 
-また、一部の要素では「<UIForeground>0F</UIForeground>レベルアジャスト<UIForeground>01</UIForeground>」に対応しており、
+また、本コンテンツのメイン要素となる「コスモミッション」では「<UIForeground>0F</UIForeground>レベルアジャスト<UIForeground>01</UIForeground>」に対応しており、
 プレイヤーのレベルに応じて、難易度と報酬量が変化します。"
-33,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索フィールドの特殊ルール<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+33,"ui/icon/086000/086816.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索フィールドの特殊ルール<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-宇宙開拓フィールドでは、セントラルクリスタルの力により、
+探索フィールドでは、セントラルクリスタルの力により、
 クラフター・ギャザラーの「スプリント」が「コスモスプリント」に変化し、
 速度と効果時間が強化されます。
 
-また探索フィールドでは、通常時はマウント騎乗ができません。
-ただし、大型ローダーによる開拓指令「<UIForeground>0F</UIForeground>メカオペレーション<UIForeground>01</UIForeground>」が発令された場合は、
-パイロットに選抜された少数のプレイヤーのみ、専用のマウントに乗って指令に参加する事ができます。"
-34,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■エクスプローラータブレットを触ってみよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+また探索フィールドでは、マウントに騎乗することができません。
+ただし、大型ローダーによる指令「<UIForeground>0F</UIForeground>メカオペレーション<UIForeground>01</UIForeground>」が発令された場合は、
+パイロットに選抜された少数のプレイヤーのみ、専用のマウントへ騎乗し指令に参加することが可能です。"
+34,"ui/icon/086000/086816.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■エクスプローラータブレットを触ってみよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-コスモエクスプローラーでは、メカオペレーション以外にも様々な要素があります。
+コスモエクスプローラーでは、コスモミッション・メカオペレーション以外にも様々な要素があります。
 各要素の遊び方は「<UIForeground>0F</UIForeground>エクスプローラータブレット<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」の「<UIForeground>0F</UIForeground>惑星探索のすすめ<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」に記載されています。
 
 わからないことがあった時は、エクスプローラータブレットを確認してみましょう！"
-35,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索フィールドへの入場<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+35,"ui/icon/086000/086816.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索フィールドへの入場<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-嘆きの海(X:21.9 Y:13.2）にいるNPC「ドライビングウェイ」に話しかけることで、
+嘆きの海にいるNPC「ドライビングウェイ」に話しかけることで、
 探索フィールド「焦がれの入江」に入ることができます。
 
 また、焦がれの入江は、混雑時には複数のインスタンスエリアが生成される事があります。
 
-インスタンスエリア間を移動したい場合は、焦がれの入り江(X:20.3 Y:20.0）にいる、
+インスタンスエリア間を移動したい場合は、焦がれの入江にいる、
 NPC「ドライビングウェイ」に話しかけることで、任意のインスタンスへ移動できます。"

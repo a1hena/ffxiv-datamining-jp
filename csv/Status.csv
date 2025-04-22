@@ -2655,7 +2655,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 2574,"誘雷","落雷を引き寄せやすくなっている状態。落雷の標的になる。","ui/icon/215000/215351.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
 2575,"ライトアーム強化","右腕が強化された状態。","ui/icon/215000/215352.tex",0,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 2576,"レフトアーム強化","左腕が強化された状態。","ui/icon/215000/215353.tex",0,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-2577,"F.A.T.E.参加","特定のF.A.T.E.に参加している状態。","ui/icon/216000/216241.tex",101,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+2577,"F.A.T.E.参加","特定のF.A.T.E.に参加している状態。","ui/icon/216000/216241.tex",101,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 2578,"転移装置利用不可","転移による負荷の影響で、転移装置が利用できない状態。","ui/icon/215000/215370.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 2579,"衣替","特定の衣装に着替えた状態。","ui/icon/216000/216214.tex",69,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,0,2,False,0,False,0,False,0,0,0,False,False,False,0
 2580,"攻撃要請：試作飛行型魔導アーマー「ブラックバーン」","ボズヤレジスタンスから攻撃要請を受けている状態。
@@ -4352,7 +4352,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4217,"燕返し実行可","燕返しを実行できる状態。","ui/icon/213000/213315.tex",161,0,"侍",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4218,"燕返し実行可","燕返しを実行できる状態。","ui/icon/213000/213315.tex",161,0,"侍",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4219,"レビテト","重力に反発し、宙に浮いた状態。","ui/icon/215000/215037.tex",0,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,1,0,True,False,0,0,True,0,False,0,False,0,49,0,False,False,False,0
-4220,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4220,"ミラクルマテリアル","製作の状態が「高品質」「頑丈」「安定」「高能率」「長持続」「高進捗」のいずれかに変化する状態。","ui/icon/216000/216254.tex",0,0,"クラフター",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4221,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4222,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4223,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4362,7 +4362,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4227,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4228,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4229,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4230,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4230,"サポーター参加","メカオペレーションにサポーターとして参加している状態。","ui/icon/216000/216241.tex",0,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,0,2,True,0,False,0,False,0,0,0,False,False,False,0
 4231,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4232,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4233,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4530,18 +4530,18 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4395,"_rsv_4395_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4395_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214270.tex",0,0,"",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4396,"_rsv_4396_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4396_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214271.tex",0,0,"",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4397,"_rsv_4397_-1_0_0_0_S74CFC3B0_E74CFC3B0","_rsv_4397_-1_0_1_0_S74CFC3B0_E74CFC3B0","ui/icon/214000/214272.tex",0,0,"",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4398,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4398,"コスモスプリント","移動速度が上昇した状態。","ui/icon/210000/210101.tex",41,0,"クラフター ギャザラー",1,"","",False,False,False,False,False,False,False,True,True,1,0,False,False,0,18,False,0,False,0,False,0,6,0,False,False,False,0
 4399,"ルインジャ実行可","ルインジャを実行できる状態。","ui/icon/212000/212690.tex",0,0,"召喚士",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4400,"クリムゾンストライク実行可","クリムゾンストライクを実行できる状態。","ui/icon/212000/212752.tex",0,0,"召喚士",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4401,"","",,0,0,"全クラス",1,"","",False,False,False,False,False,False,False,True,True,0,0,True,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
 4402,"セラフィックイルミネーション","自身に対するＨＰ回復効果を向上させる状態。","ui/icon/212000/212847.tex",0,0,"学者",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,True,0,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,False,0
 4403,"クリムゾンストライク実行可","クリムゾンストライクを実行できる状態。","ui/icon/212000/212752.tex",0,0,"召喚士",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,False,0,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4404,"ナーストレンド実行可","ナーストレンドを実行できる状態。","ui/icon/212000/212589.tex",0,0,"竜騎士",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4405,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4405,"エンパワーメント","ハイ・キャロットキャノンが使用できる状態","ui/icon/215000/215589.tex",0,0,"全クラス",1,"","",False,False,False,False,False,False,False,True,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4406,"","",,0,0,"モンク",0,"","",False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,True,0,False,0,False,0,25,0,False,False,False,0
 4407,"ダメージ上昇","与ダメージが上昇した状態。","ui/icon/217000/217061.tex",57,16,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
 4408,"","","ui/icon/212000/212512.tex",0,0,"全クラス",1,"dk05th_stup0t","z6r1_b3_cast_11_c0t1",False,False,False,False,False,False,False,False,True,200,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4409,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4409,"最優秀貢献者の証","集計対象期間に、最優秀貢献者に選ばれたことを証明する。クラフター・ギャザラーでのみ有効。","ui/icon/216000/216255.tex",0,0,"全クラス",1,"dk05th_stup0t","wks_e001_c0c",False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4410,"無敵","被ダメージを無効化する状態。","ui/icon/215000/215024.tex",0,0,"全クラス",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
 4411,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4412,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4645,7 +4645,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4510,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4511,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4512,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4513,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4513,"パイロット転送中","メカオペレーションのパイロットを転送している状態。","ui/icon/215000/215765.tex",0,0,"全クラス",1,"","",False,False,False,True,False,False,False,True,True,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4514,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4515,"","","ui/icon/215000/215004.tex",0,0,"全クラス",2,"","",True,False,True,False,False,False,False,True,True,100,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4516,"PvPロールアクション：ファントムダート","PvPロールアクションとしてファントムダートを選択している状態。","ui/icon/214000/214766.tex",170,0,"黒魔道士 召喚士 赤魔道士 青魔道士 ピクトマンサー",1,"","",False,False,False,False,False,False,False,True,True,0,1,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
