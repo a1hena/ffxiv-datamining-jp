@@ -307,7 +307,7 @@ int32,byte,Row,ClassJobCategory,byte,BannerCondition,uint16,uint16,uint16,Image,
 303,11,"撮影する","全クラス",1,"BannerCondition#1",0,0,0,"ui/icon/001000/001728.tex",64461,""
 304,11,"タブレットで記録する","全クラス",1,"BannerCondition#817",0,0,0,"ui/icon/001000/001728.tex",64460,""
 305,11,"大げさに驚く","全クラス",1,"BannerCondition#818",0,0,0,"ui/icon/001000/001525.tex",64462,""
-306,0,,"",0,"BannerCondition#0",0,0,0,,0,""
+306,11,"くるっと回る","全クラス",1,"BannerCondition#819",0,0,0,"ui/icon/001000/001729.tex",64463,""
 307,11,"ふらつく","全クラス",1,"BannerCondition#820",0,0,0,,64464,""
 308,11,"怒りに震える","全クラス",1,"BannerCondition#821",0,0,0,,64465,""
 309,0,,"",0,"BannerCondition#0",0,0,0,,0,""

@@ -82,5 +82,5 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 78,"モーエンツール","アイテム",True,False,52
 79,"ヨカ・トラル","探検",True,False,14
 80,"サカ・トラル","探検",True,False,15
-81,"","",False,False,0
+81,"ファントムウェポン","アイテム",True,False,13
 82,"コスモツール","アイテム",True,False,53

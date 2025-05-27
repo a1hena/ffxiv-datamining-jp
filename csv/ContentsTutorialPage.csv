@@ -184,7 +184,7 @@ int32,Image,str
 「冒険者指導教官」から突入できる、「初心者の館」内のタブを変更することで挑戦できます。
 
 戦闘に役立つ知識を得られるので、これからの冒険に備えて挑戦してみましょう！"
-25,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■新たな探索型コンテンツ「蜃気楼の島 クレセントアイル」が追加されました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+25,"ui/icon/086000/086817.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■新たな探索型コンテンツ「蜃気楼の島 クレセントアイル」が追加されました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 特殊な魔法結界に覆われた秘島を探索する「<UIForeground>0F</UIForeground>蜃気楼の島 クレセントアイル<UIForeground>01</UIForeground>」は、
 大人数での大規模ボスバトルや、島内に生息するモンスターとの少人数での連続戦闘など、
@@ -193,7 +193,7 @@ int32,Image,str
 
 ※次ページより、「蜃気楼の島 クレセントアイル」の特殊ルールの解説が行われます。
 ぜひご一読の上、新たな大規模コンテンツをお楽しみください。"
-26,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■コンテンツ参加はレベル100以上のバトルクラスで！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+26,"ui/icon/086000/086818.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■コンテンツ参加はレベル100以上のバトルクラスで！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 「蜃気楼の島 クレセントアイル」は、<UIForeground>0F</UIForeground>レベル100以上のバトルクラス<UIForeground>01</UIForeground>で突入可能です。
 必要とされる装備の<UIForeground>0F</UIForeground>平均アイテムレベルは690以上<UIForeground>01</UIForeground>で、
@@ -201,21 +201,21 @@ int32,Image,str
 
 なお、コンテンツに突入した後でも、
 レベル100以上のほかのバトルクラスにチェンジすることが可能です。"
-27,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■まずはナレッジレベルの上昇を目指そう！①<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+27,"ui/icon/086000/086819.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■まずはナレッジレベルの上昇を目指そう！①<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 「蜃気楼の島 クレセントアイル」には、
 コンテンツ内専用のレベルである「<UIForeground>0F</UIForeground>ナレッジレベル<UIForeground>01</UIForeground>」が存在します。
 ナレッジレベルは、コンテンツ内で発生する大規模戦闘の攻略や、
 島内に生息するモンスターの討伐などで獲得できる「<UIForeground>0F</UIForeground>知見<UIForeground>01</UIForeground>」という経験値を、
 一定量貯めることで上昇していきます。"
-28,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■まずはナレッジレベルの上昇を目指そう！②<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+28,"ui/icon/086000/086819.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■まずはナレッジレベルの上昇を目指そう！②<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ナレッジレベルは、島内に生息するモンスターとの戦闘の結果に大きく影響します。
 島内を自由に探索するためにも、まずはナレッジレベルの上昇を目指しましょう！
 
 ※戦闘時のナレッジレベルの差で、与えるダメージや受けるダメージが大きく増減します。
 戦う相手は注意深く選びましょう。"
-29,,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■大規模戦闘に参加してみよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+29,"ui/icon/086000/086820.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■大規模戦闘に参加してみよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 島内では、「<UIForeground>0F</UIForeground>クリティカルエンカウント<UIForeground>01</UIForeground>」と呼ばれる、
 最大72人での大規模戦闘が発生することがあります。

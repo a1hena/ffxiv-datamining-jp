@@ -441,8 +441,8 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 437,436,8,6,3,5,"TripleTriadCardRarity#3","",500,31,422,0,False,6,"マレヴォレント・ウィーゼル","Level#11738323","「トリプルトライアド」の手引き"
 438,437,7,7,7,7,"TripleTriadCardRarity#4","",800,32,423,0,False,3,"ゼレニア討滅戦",,"決行"
 439,438,7,1,10,9,"TripleTriadCardRarity#5","",1500,40,424,0,False,3,"至天の座アルカディア：クルーザー級4",,"孤高の狼"
-440,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-441,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-442,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
-443,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+440,439,8,5,8,6,"TripleTriadCardRarity#4","",800,32,425,0,False,14,,,"断絶した文明"
+441,440,2,3,7,5,"TripleTriadCardRarity#2","",300,8,426,0,False,10,"ヴェールジャ","Level#11537749"," マムージャ族の愛する故郷"
+442,441,7,6,2,2,"TripleTriadCardRarity#2","",300,8,427,0,False,6,"プデージャ","Level#11704272"," マムージャ族の愛する故郷"
+443,442,2,4,8,7,"TripleTriadCardRarity#3","獣人タイプ",500,24,428,0,False,6,"プデージャ","Level#11704272"," マムージャ族の愛する故郷"
 444,443,7,7,9,4,"TripleTriadCardRarity#4","",0,39,9999,0,False,13,,,"ゴールドソーサーとキングの噂"

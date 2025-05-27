@@ -146,7 +146,7 @@ int32,byte,ActionTimeline
 142,1,"pc_contentsaction/pc_cnt042_loop"
 143,1,"event_base/event_base_idle_celeb"
 144,1,"event_base/event_base_bad_stir_up"
-145,0,""
+145,2,"battle/mon_sp_e_loop"
 146,0,""
 147,0,""
 148,0,""

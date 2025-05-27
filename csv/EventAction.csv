@@ -110,7 +110,7 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 106,"介抱","ui/icon/061000/061103.tex",5,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 107,"エーテルを流す","ui/icon/061000/061103.tex",5,"normal/aettouch_start","normal/aettouch_loop","normal/aettouch_end"
 108,"なだめる","ui/icon/061000/061103.tex",5,"pc_contentsaction/pc_cnt042_start","pc_contentsaction/pc_cnt042_loop","pc_contentsaction/pc_cnt042_end"
-109,"",,0,"","",""
+109,"運搬","ui/icon/061000/061103.tex",1,"","",""
 110,"納品","ui/icon/061000/061103.tex",3,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 111,"ドリル垂直作業","ui/icon/061000/061103.tex",6,"","pc_contentsaction/wks014","normal/event_action_hwd_end"
 112,"ドリル水平作業","ui/icon/061000/061103.tex",6,"","pc_contentsaction/wks013","normal/event_action_hwd_end"
