@@ -49,8 +49,8 @@ int32,str,str
 45,"TEXT_AKTKVA001_04651_TODO_21",""
 46,"TEXT_AKTKVA001_04651_TODO_22",""
 47,"TEXT_AKTKVA001_04651_TODO_23",""
-48,"TEXT_AKTKVA001_04651_SYSTEM_100_000","本クエストを進行するためには、
-現在のクラス・ジョブが、レベル90以上の、
+48,"TEXT_AKTKVA001_04651_SYSTEM_100_000","本クエストを進行するためには、現在のクラス・ジョブが、
+リミテッドジョブを除く、レベル90以上の、
 ファイター、もしくはソーサラーである必要があります。"
 49,"TEXT_AKTKVA001_04651_OSMON_000_001","おや……？
 もしやあなたは、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さんでは？"

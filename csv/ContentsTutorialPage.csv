@@ -63,7 +63,7 @@ int32,Image,str
 <UIForeground>0F</UIForeground>いずれの方法で突入<UIForeground>01</UIForeground>しても、<UIForeground>0F</UIForeground>同じようにダンジョンを攻略可能<UIForeground>01</UIForeground>です。"
 9,86806,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>いざダンジョンへ！② サポートNPCを利用しての攻略<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-プレイヤーである貴方は、<UIForeground>0F</UIForeground>サポートNPC<UIForeground>01</UIForeground>の助けを借りることで、
+プレイヤーであるあなたは、<UIForeground>0F</UIForeground>サポートNPC<UIForeground>01</UIForeground>の助けを借りることで、
 <UIForeground>0F</UIForeground>単独でのダンジョン攻略に挑むことが可能<UIForeground>01</UIForeground>です。
 このシステムのことを<UIForeground>0F</UIForeground>「コンテンツサポーター」<UIForeground>01</UIForeground>と呼びます。
 
@@ -74,7 +74,7 @@ int32,Image,str
 進入地点にアクセスし、<UIForeground>0F</UIForeground>「サポートNPCと突入」を選ぶ<UIForeground>01</UIForeground>ことで、
 <UIForeground>0F</UIForeground>コンテンツサポーターウィンドウ<UIForeground>01</UIForeground>が開きます。
 
-<UIForeground>0F</UIForeground>NPCのクラスやジョブ<UIForeground>01</UIForeground>は、貴方のクラスやジョブに合わせ、
+<UIForeground>0F</UIForeground>NPCのクラスやジョブ<UIForeground>01</UIForeground>は、あなたのクラスやジョブに合わせ、
 最適な組み合わせになるよう、<UIForeground>0F</UIForeground>自動的に調整<UIForeground>01</UIForeground>されます。
 <UIForeground>0F</UIForeground>「突入」ボタンを押して<UIForeground>01</UIForeground>、NPCと共にダンジョンの攻略に挑みましょう！"
 11,86808,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>いざダンジョンへ！④ 他のプレイヤーとパーティを編成して攻略<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -92,12 +92,12 @@ int32,Image,str
 <UIForeground>0F</UIForeground>マッチングが完了<UIForeground>01</UIForeground>した際には、<UIForeground>0F</UIForeground>アラームが鳴り<UIForeground>01</UIForeground>ます。
 <UIForeground>0F</UIForeground>「突入」を押して<UIForeground>01</UIForeground>コンテンツに挑戦！
 
-マッチングで出会うのは、<UIForeground>0F</UIForeground>貴方と同じように冒険をしているプレイヤー<UIForeground>01</UIForeground>です。
+マッチングで出会うのは、<UIForeground>0F</UIForeground>あなたと同じように冒険をしているプレイヤー<UIForeground>01</UIForeground>です。
 「こんにちは！」「よろしくお願いします！」などの挨拶を交わし、
 <UIForeground>0F</UIForeground>一緒にコンテンツの攻略<UIForeground>01</UIForeground>を目指しましょう！"
 13,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>攻略可能なダンジョンはどんどん増えていく！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-貴方の冒険が進めば、攻略可能なダンジョンはどんどん増えていきます。
+あなたの冒険が進めば、攻略可能なダンジョンはどんどん増えていきます。
 <UIForeground>0F</UIForeground>コンテンツサポーターに未対応のダンジョンやコンテンツ<UIForeground>01</UIForeground>には、
 <UIForeground>0F</UIForeground>コンテンツファインダーを利用<UIForeground>01</UIForeground>して挑戦してみましょう！
 

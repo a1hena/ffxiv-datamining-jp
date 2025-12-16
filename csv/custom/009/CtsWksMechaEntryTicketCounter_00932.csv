@@ -24,9 +24,8 @@ int32,str,str
 11,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER1","サポーターとは、ローダー出動時に現場で活動支援をする者だ。
 専用の携行型機器を駆使し、ローダーでは対応できない、
 小さな対象を処理することが主な任務となる。"
-12,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER2","サポーターが任務の過程で集めた資材は、
-任務地の「フィールドサーチャー」に納品して欲しい。
-納品は、フィールドサーチャーに近付けば自動で完了するぞ。"
+12,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER2","また、多くのメカオペレーションでは、
+任務地内に「フィールドサーチャー」という、分析機械が設置される。"
 13,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_WARP_TALK1","現在、メカオペレーションの発令中だ。
 もし、君がサポーターとして参加を希望するなら、
 ここから任務地まで送り届けよう！"
@@ -46,3 +45,9 @@ int32,str,str
 20,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W2","おっと……君はまだ、惑星パエンナでの活動について、
 説明を受けていないようだね。
 まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"
+21,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W3","おっと……君はまだ、惑星オイジュスでの活動について、
+説明を受けていないようだね。
+まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"
+22,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER3","対象の任務の過程でサポーターが集めた資材は、
+フィールドサーチャーに納品して、分析して欲しい。
+納品は、フィールドサーチャーに近付けば自動で完了するぞ。"

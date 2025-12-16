@@ -97,7 +97,7 @@ int32,str,str,str
 93,"クリスタルコンフリクト：味方チーム情報","CConflict:Ally",""
 94,"","",""
 95,"クリスタルコンフリクト：敵チーム情報","CConflict:Enemy",""
-96,"クリスタルコンフリクト：バトルログ","CConflict:Log",""
+96,"PvP：バトルログ","PvP:Log",""
 97,"クリスタルコンフリクト：マップ","CConflict:Map",""
 98,"フロントライン：スコア情報","Frontline:Score",""
 99,"ブランダーヴィル：ゴール目標","Blunder:Objective",""
@@ -111,3 +111,4 @@ int32,str,str,str
 107,"パレットゲージ","",""
 108,"フロントライン：戦況情報","Frontline:CampaignInfo",""
 109,"コスモエクスプローラー：惑星情報","CosmoExplorer:Info",""
+110,"","",""

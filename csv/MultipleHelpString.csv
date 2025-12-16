@@ -84,7 +84,7 @@ int32,str,str
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>制限時間内に突入操作を行わないと参加辞退になり
 もう一度突入先選択からのやり直しが必要となります。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-14,"攻略可能なダンジョン","貴方の冒険が進めば、攻略可能なダンジョンはどんどん増えていきます。
+14,"攻略可能なダンジョン","あなたの冒険が進めば、攻略可能なダンジョンはどんどん増えていきます。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>コンテンツサポーターに未対応のダンジョンやコンテンツ<UIGlow>01</UIGlow><UIForeground>01</UIForeground>には、
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>コンテンツファインダーを利用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>して挑戦してみましょう！
 
@@ -128,7 +128,7 @@ int32,str,str
 
 ウィンドウ内にある人物のボタンをクリックまたは決定ボタンにて
 専用のサブウィンドウを呼び出し、発見した物語を読むことができます。"
-19,"アナザーダンジョンへの挑戦","特殊ダンジョン探索の高難易度コンテンツ
+19,"アナザーダンジョンへの挑戦","特殊ダンジョン探索のエクストラコンテンツ
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>アナザーダンジョン<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が開放されました。
 
 ウィンドウ上部の<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>表示切替ボタン<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を押すことで、
@@ -140,14 +140,8 @@ int32,str,str
 攻略により得られる<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>専用通貨<UIGlow>01</UIGlow><UIForeground>01</UIForeground>などの表示が追加されます。"
 20,"アナザーダンジョンでの制限","アナザーダンジョン攻略の際は、ヴァリアントダンジョンと異なり
 コンテンツ内での<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>ジョブチェンジが制限<UIGlow>01</UIGlow><UIForeground>01</UIForeground>されます。
-レイズ等の通常アクションによる蘇生行動も制限され、
-専用の蘇生用ヴァリアントアクションでのみ蘇生が可能となります。
-
-さらに<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>零式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のアナザーダンジョンでは、
-ヴァリアントアクション自体が<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用不可<UIGlow>01</UIGlow><UIForeground>01</UIForeground>となります。
-
-この零式のアナザーダンジョンへ突入するには、
-条件を満たしたメンバー4人でパーティを編成する必要があります。"
+レイズなどの通常アクションによる蘇生行動も制限され、
+専用の蘇生用ヴァリアントアクションでのみ蘇生が可能となります。"
 21,"パーティメンバー紹介について","パーティメンバーそれぞれのポートレートを表示して紹介するウィンドウです。ダンジョンや討伐・討滅戦などのコンテンツ開始時には、自動で表示されます。コンテンツ開始時の表示では、ウィンドウのサイズ変更や移動は行えません。
 
 コンテンツ開始時の表示は、キャラクターコンフィグまたは詳細設定から
@@ -171,3 +165,39 @@ int32,str,str
 26,"アナザーダンジョンのマッチング条件","アナザーダンジョンに突入する際の<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>マッチング条件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の指定で
 「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>コンプリート済み<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」は該当コンテンツを過去に一度でも
 コンプリートしたことがある場合のみ選択可能になります。"
+27,"クイックパネル","クイックパネルは、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>各種コマンド・アクションを自由にスロットに登録して、簡単にアクセス・実行ができる便利な機能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>です。
+
+よく使うエモートや、お気に入りのマウント、ギアセット、各種アイテムなど、常時表示しなくても構わないがアクセスしやすくしておきたいものを登録しておくことで、日々の冒険を便利に進めることができます。"
+28,"登録方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>ホットバー登録モードに進み、「クイックパネルに送る」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から、設定できます。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>マウス操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+コマンド・アクションを<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>スロットにドラッグ＆ドロップ<UIGlow>01</UIGlow><UIForeground>01</UIForeground>することで、登録できます。"
+29,"利用設定","画面右上の歯車マーク、またはサブコマンドから、クイックパネルの挙動を変更できる設定画面が利用できます。
+
+指定したパネルを直接開くコマンドや、ウィンドウカラーの濃さ、ウィンドウを閉じない連続実行など、自分が使いやすい設定を見つけてみましょう。"
+30,"操作方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>操作モード時にクイックパネルを起動すると、スロットの中央にカーソルがフォーカスされます。
+加速キーと移動キーを組み合わせることで、5x5のすべてのスロットに、2手以内でアクセス可能です。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>マウス操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+マウス操作モードでは、クリックでコマンド・アクションが実行できます。
+また、マウスホイールでページを素早く切り替えることができます。"
+31,"アナザーダンジョン異聞零式での制限","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>零式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のアナザーダンジョンでは、
+ヴァリアントアクション自体が<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用不可<UIGlow>01</UIGlow><UIForeground>01</UIForeground>となります。
+
+この零式のアナザーダンジョンへ突入するには、
+条件を満たしたメンバー4人でパーティを編成する必要があります。"
+32,"",""
+33,"",""
+34,"起動方法","クイックパネルは、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>アクションリストのEXTRA<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から起動することができます。
+
+各種ショートカットの利用でさらに便利に使うことができます。
+・ホットバーに直接登録可能なパネルショートカット
+・ボタンカスタマイズによる機能割り当て
+　(システムコンフィグ：<66>16</66>設定)
+・キーバインド
+・テキストコマンド
+"
+35,"",""
+36,"",""
