@@ -436,7 +436,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 256,"<CommandIcon(11)/>適用"
 257,"<CommandIcon(8)/>この属性に魔晶石を追加　<CommandIcon(10)/>この属性から魔晶石を外す"
 258,"<CommandIcon(11)/> フォーカス切り替え  <CommandIcon(10)/> サブコマンド"
-259,"<CommandIcon(11)/> フォーカス切り替え  <CommandIcon(10)/> サブコマンド"
+259,"<CommandIcon(9)/><CommandIcon(11)/> フォーカス切り替え  <CommandIcon(10)/> サブコマンド"
 260,"<CommandIcon(10)/> サブコマンド"
 261,"<CommandIcon(9)/> ミラージュプレートに戻る"
 262,"<CommandIcon(10)/>サブコマンド　<CommandIcon(9)/>ミラージュプレートに戻る"
@@ -582,7 +582,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 402,"<CommandIcon(9)/>リストに戻る <CommandIcon(24)/>詳細情報のスクロール"
 403,"<CommandIcon(10)/>サブコマンド <CommandIcon(24)/>詳細情報のスクロール"
 404,"<CommandIcon(24)/>詳細情報のスクロール"
-405,"<CommandIcon(10)/> サブコマンド <CommandIcon(20)/>移動 <CommandIcon(25)/>回転 <CommandIcon(12)/>＋<CommandIcon(24)/>拡大・縮小"
+405,"<CommandIcon(8)/><CommandIcon(11)/>プレビュー <CommandIcon(10)/> サブコマンド <CommandIcon(20)/>移動 <CommandIcon(25)/>回転 <CommandIcon(12)/>＋<CommandIcon(24)/>拡大・縮小"
 406,"<CommandIcon(11)/>突入決定して閉じる  <CommandIcon(10)/>パーティメンバーを編成  "
 407,"<CommandIcon(8)/>メンバーを選抜・解除  <CommandIcon(9)/>編成を終了"
 408,"フェイス"
@@ -881,8 +881,8 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 502,"<CommandIcon(10)/>サブコマンド"
 503,"<CommandIcon(10)/>マップ表示"
 504,""
-505,""
-506,""
+505,"<CommandIcon(8)/>開閉・プレビュー <CommandIcon(11)/>プレビュー <CommandIcon(20)/>移動 <CommandIcon(25)/>回転 <CommandIcon(12)/>＋<CommandIcon(24)/>拡大・縮小"
+506,"<CommandIcon(11)/>適用"
 507,""
 508,""
 509,""
@@ -1451,8 +1451,7 @@ GPを消費するため、GPの残りには注意しましょう。
 個人ハウスの場合は、ハウスのオーナーの他に、
 権限「外装・内装・調度品・庭具の追加/撤去/配置変更/染色」を
 持っているハウスメイトが実行できます。"
-1078,"●デイリーミッションをクリアすることで、デイリーPtが獲得でき、一定を超えると報酬を獲得できます。
-デイリーミッションのクリア状況は毎日5:00にリセットされます。"
+1078,""
 1079,""
 1080,""
 1081,""

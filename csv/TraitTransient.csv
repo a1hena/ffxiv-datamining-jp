@@ -1265,18 +1265,18 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブレード・オブ・ヴァラーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
 651,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>85
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>85
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハート・オブ・ミゼリの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グレアガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 652,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンリポストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンリポストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルストーンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンツヴェルクハウの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンツヴェルクハウの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>190
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>フレッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンルドゥブルマンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンルドゥブルマンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>190
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コントルシクストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルフレアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルホーリーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
@@ -1320,7 +1320,7 @@ int32,str
 656,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蠱毒法の継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>極炎法の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>310"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>極炎法の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320"
 657,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スライスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
@@ -1337,7 +1337,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レムールスライスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280"
 658,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>オートボウガンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>オートボウガンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヒートスプリットショットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヒートスラッグショットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヒートクリーンショットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
@@ -1386,17 +1386,17 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>クワイタスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240"
 664,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ルインガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ルインガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>アストラルインパルスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ルインジャの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ルビー・リチュアルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ルインジャの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ルビー・リチュアルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>トパーズ・リチュアルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エメラルド・リチュアルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エメラルド・リチュアルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>霊泉の炎の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>クリムゾンストライクの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>クリムゾンサイクロンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>クリムゾンストライクの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>クリムゾンサイクロンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マウンテンバスターの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スリップストリームの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スリップストリームの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>地獄の火炎の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>大地の怒りの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エリアルブラストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800"
@@ -1429,20 +1429,20 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エイペックスアローの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120～600"
 669,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドシスIIIの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>トキシコンIIの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>プネウマの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドシスIIIの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>トキシコンIIの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>プネウマの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380"
 670,"自身のオートアタックを除くアクションによる、ダメージと回復量をベース値の1.1倍にする。"
 671,"自身のオートアタックを除くアクションによる、ダメージと回復量をベース値の1.3倍にする。"
 672,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>410
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>310
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イマジンポンポンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イマジンウィングの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>モーグリストリームの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420"
 673,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンバガの継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
@@ -1463,51 +1463,51 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【背裂】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 676,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォタラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>190
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザドの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>710
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストーンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>790
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザドの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>680
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストーンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>720
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>760
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストンラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370"
 677,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イマジンポンポンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イマジンウィングの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>モーグリストリームの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザドの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>790
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストーンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>830
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>870
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ホワイトホーリーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザドの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストーンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>790
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>830
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ホワイトホーリーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
 678,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォータの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>570
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グリーンエアロラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブルーウォタラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザドの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>900
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストーンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>940
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>980
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマースタンプの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザドの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>860
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストーンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>900
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>940
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>シアンブリザラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>イエローストンラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マゼンタサンダラの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ホワイトホーリーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマーブラッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマーポリッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブラックコメットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>980"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ホワイトホーリーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>570
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマーブラッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハンマーポリッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブラックコメットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>940"
 679,""
 680,""
 681,""

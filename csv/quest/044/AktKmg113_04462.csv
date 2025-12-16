@@ -95,13 +95,9 @@ int32,str,str
 72,"TEXT_AKTKMG113_04462_ALISAIE_000_101","行きましょう、この最果ての、中心を目指して。
 勇敢な風に押されて……知恵を絞って……夢を掲げて……
 私たちをここまで護ってくれた愛情を、近くに感じながら……。"
-73,"TEXT_AKTKMG113_04462_SYSTEM_000_102","アリゼーたちが「同行」を開始します。
-クエストを進行させるには、同行者たちが近くにいる状態で、
-目的を達成する必要があります。"
-74,"TEXT_AKTKMG113_04462_SYSTEM_000_103","「同行」は、エリアを移動した場合や、
-「同行状態を解除する」を選んだ場合に解除されます。"
-75,"TEXT_AKTKMG113_04462_SYSTEM_000_104","解除した場合、もとの場所に戻った同行者に話しかけることで、
-再び「同行」させることができます。"
+73,"TEXT_AKTKMG113_04462_SYSTEM_000_102","（★未使用／削除予定★）"
+74,"TEXT_AKTKMG113_04462_SYSTEM_000_103","（★未使用／削除予定★）"
+75,"TEXT_AKTKMG113_04462_SYSTEM_000_104","（★未使用／削除予定★）"
 76,"TEXT_AKTKMG113_04462_A3_000_110","<UIForeground>F20224</UIForeground>遠くの星々を見渡す<UIForeground>01</UIForeground>"
 77,"TEXT_AKTKMG113_04462_A3_000_111","<UIForeground>F20224</UIForeground>静寂に耳を澄ます<UIForeground>01</UIForeground>"
 78,"TEXT_AKTKMG113_04462_A3_000_112","<UIForeground>F20224</UIForeground>上ってきた道を振り返る<UIForeground>01</UIForeground>"

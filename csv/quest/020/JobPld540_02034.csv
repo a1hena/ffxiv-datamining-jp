@@ -135,6 +135,6 @@ int32,str,str
 85,"TEXT_JOBPLD540_02034_ENEMYLEADER_BATTLETALK_01","忌々しき王党派の犬どもめ！
 こうなれば奥の手だ……来たれヴォイドの妖異よ！"
 86,"TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_02","こ、これは……！？　術者は僕が引きつけます！
-<If(PlayerParameter(4))>姉さん<Else/>兄さん</If>は、あの魔方陣と魔物をお願いします！"
+<If(PlayerParameter(4))>姉さん<Else/>兄さん</If>は、あの魔法陣と魔物をお願いします！"
 87,"TEXT_JOBPLD540_02034_ENEMYLEADER_BATTLETALK_03","……くそがっ！　まだ終わったわけではないぞ！"
 88,"TEXT_JOBPLD540_02034_CONSTAINT_BATTLETALK_04","ご、ごめんなさい、<If(PlayerParameter(4))>姉さん<Else/>兄さん</If>……。"

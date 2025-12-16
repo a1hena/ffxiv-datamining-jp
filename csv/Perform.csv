@@ -1,60 +1,32 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
 #,Name,,ModelKey,Animation{Start},Animation{End},Animation{Idle},Animation{Play01},Animation{Play02},StopAnimation,Instrument,Order,Transient,
 int32,str,bit&01,int64,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,str,int32,PerformTransient,byte
-0,"",False,"0, 0, 0, 0","","","","","","","",0,"",0
-1,"047harp",False,"697, 1, 1, 0","music/instrument01_start","music/instrument01_end","music/instrument01_idle","music/instrument01_play01_start","music/instrument01_play02_start","","ハープ",751,"楽器演奏
-ハープの音色で演奏する",0
-2,"001grandpiano",False,"697, 1, 1, 0","music/instrument01_start","music/instrument01_end","music/instrument01_idle","music/instrument01_play01_start","music/instrument01_play02_start","","グランドピアノ",752,"楽器演奏
-グランドピアノの音色で演奏する",0
-3,"026steelguitar",False,"697, 1, 1, 0","music/instrument01_start","music/instrument01_end","music/instrument01_idle","music/instrument01_play01_start","music/instrument01_play02_start","","スチールギター",753,"楽器演奏
-スチールギターの音色で演奏する",0
-4,"046pizzicato",False,"697, 1, 1, 0","music/instrument01_start","music/instrument01_end","music/instrument01_idle","music/instrument01_play01_start","music/instrument01_play02_start","","ピッチカート",754,"楽器演奏
-ピッチカートストリングスの音色で演奏する",0
-5,"074flute",True,"693, 1, 1, 0","music/instrument02_start","music/instrument02_end","music/instrument02_idle","music/instrument02_play01_start","music/instrument02_play02_start","","フルート",755,"楽器演奏
-フルートの音色で演奏する",0
-6,"069oboe",True,"693, 1, 1, 0","music/instrument02_start","music/instrument02_end","music/instrument02_idle","music/instrument02_play01_start","music/instrument02_play02_start","","オーボエ",757,"楽器演奏
-オーボエの音色で演奏する",0
-7,"072clarinet",True,"693, 1, 1, 0","music/instrument02_start","music/instrument02_end","music/instrument02_idle","music/instrument02_play01_start","music/instrument02_play02_start","","クラリネット",759,"楽器演奏
-クラリネットの音色で演奏する",0
-8,"073piccolo",True,"693, 1, 1, 0","music/instrument02_start","music/instrument02_end","music/instrument02_idle","music/instrument02_play01_start","music/instrument02_play02_start","","ピッコロ",758,"楽器演奏
-ピッコロの音色で演奏する",0
-9,"076panflute",True,"693, 1, 1, 0","music/instrument02_start","music/instrument02_end","music/instrument02_idle","music/instrument02_play01_start","music/instrument02_play02_start","","パンパイプ",756,"楽器演奏
-パンパイプの音色で演奏する",0
-10,"048timpani",False,"696, 1, 1, 0","music/instrument03_start","music/instrument03_end","music/instrument03_idle","music/instrument03_play01_start","music/instrument03_play02_start","","ティンパニー",760,"楽器演奏
-ティンパニーの音色で演奏する",0
-11,"097bongo",False,"696, 1, 1, 0","music/instrument03_start","music/instrument03_end","music/instrument03_idle","music/instrument03_play01_start","music/instrument03_play02_start","","ボンゴ",761,"楽器演奏
-ボンゴの音色で演奏する",0
-12,"098bd",False,"696, 1, 1, 0","music/instrument03_start","music/instrument03_end","music/instrument03_idle","music/instrument03_play01_start","music/instrument03_play02_start","","バスドラム",762,"楽器演奏
-バスドラムの音色で演奏する",0
-13,"099snare",False,"696, 1, 1, 0","music/instrument03_start","music/instrument03_end","music/instrument03_idle","music/instrument03_play01_start","music/instrument03_play02_start","","スネアドラム",763,"楽器演奏
-スネアドラムの音色で演奏する",0
-14,"100cymbal",False,"696, 1, 1, 0","music/instrument03_start","music/instrument03_end","music/instrument03_idle","music/instrument03_play01_start","music/instrument03_play02_start","","シンバル",764,"楽器演奏
-シンバルの音色で演奏する",0
-15,"057trumpet",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","トランペット",765,"楽器演奏
-トランペットの音色で演奏する",0
-16,"058trombone",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","トロンボーン",766,"楽器演奏
-トロンボーンの音色で演奏する",0
-17,"059tuba",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","チューバ",767,"楽器演奏
-チューバの音色で演奏する",0
-18,"061frenchhorn",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","ホルン",768,"楽器演奏
-ホルンの音色で演奏する",0
-19,"066altosax",True,"692, 1, 1, 0","music/instrument04_start","music/instrument04_end","music/instrument04_idle","music/instrument04_play01_start","music/instrument04_play02_start","","サックス",769,"楽器演奏
-サックスの音色で演奏する",0
-20,"041violin",True,"691, 1, 1, 0","music/instrument05_start","music/instrument05_end","music/instrument05_idle","music/instrument05_play01_start","music/instrument05_play02_start","","ヴァイオリン",770,"楽器演奏
-ヴァイオリンの音色で演奏する",0
-21,"042viola",True,"691, 1, 1, 0","music/instrument05_start","music/instrument05_end","music/instrument05_idle","music/instrument05_play01_start","music/instrument05_play02_start","","ヴィオラ",771,"楽器演奏
-ヴィオラの音色で演奏する",0
-22,"043cello",True,"691, 1, 1, 0","music/instrument05_start","music/instrument05_end","music/instrument05_idle","music/instrument05_play01_start","music/instrument05_play02_start","","チェロ",772,"楽器演奏
-チェロの音色で演奏する",0
-23,"044contrabass",True,"691, 1, 1, 0","music/instrument05_start","music/instrument05_end","music/instrument05_idle","music/instrument05_play01_start","music/instrument05_play02_start","","コントラバス",773,"楽器演奏
-コントラバスの音色で演奏する",0
-24,"030driveguitar",True,"690, 1, 1, 0","music/instrument06_start","music/instrument06_end","music/instrument06_idle","music/instrument06_play01","music/instrument06_play02","","エレキギター：ドライブ",774,"楽器演奏
-エレキギター（ドライブの音色）で演奏する",1
-25,"028cleanguitar",True,"690, 1, 1, 0","music/instrument06_start","music/instrument06_end","music/instrument06_idle","music/instrument06_play01","music/instrument06_play02","","エレキギター：クリーン",775,"楽器演奏
-エレキギター（クリーンの音色）で演奏する",1
-26,"029muteguitar",False,"690, 1, 1, 0","music/instrument06_start","music/instrument06_end","music/instrument06_idle","music/instrument08_play01","music/instrument08_play02","","エレキギター：ミュート",776,"楽器演奏
-エレキギター（ミュート奏法）で演奏する",1
-27,"031powerguitar",True,"690, 1, 1, 0","music/instrument07_start","music/instrument07_end","music/instrument07_idle","music/instrument07_play01","music/instrument07_play02","","エレキギター：パワーコード",777,"楽器演奏
-エレキギター（パワーコード）で演奏する",1
-28,"032FXguitar",False,"690, 1, 1, 0","music/instrument06_start","music/instrument06_end","music/instrument06_idle","music/instrument09_play01","music/instrument09_play02","","エレキギター：特殊奏法",778,"楽器演奏
-エレキギター（特殊奏法）で演奏する",1
+0,"",False,"0, 0, 0, 0",0,0,0,0,0,0,"",0,0,0
+1,"047harp",False,"697, 1, 1, 0",6552,6554,6553,6555,6557,0,"ハープ",751,1,0
+2,"001grandpiano",False,"697, 1, 1, 0",6552,6554,6553,6555,6557,0,"グランドピアノ",752,2,0
+3,"026steelguitar",False,"697, 1, 1, 0",6552,6554,6553,6555,6557,0,"スチールギター",753,3,0
+4,"046pizzicato",False,"697, 1, 1, 0",6552,6554,6553,6555,6557,0,"ピッチカート",754,4,0
+5,"074flute",True,"693, 1, 1, 0",6263,6265,6264,6266,6268,0,"フルート",755,5,0
+6,"069oboe",True,"693, 1, 1, 0",6263,6265,6264,6266,6268,0,"オーボエ",757,6,0
+7,"072clarinet",True,"693, 1, 1, 0",6263,6265,6264,6266,6268,0,"クラリネット",759,7,0
+8,"073piccolo",True,"693, 1, 1, 0",6263,6265,6264,6266,6268,0,"ピッコロ",758,8,0
+9,"076panflute",True,"693, 1, 1, 0",6263,6265,6264,6266,6268,0,"パンパイプ",756,9,0
+10,"048timpani",False,"696, 1, 1, 0",6281,6283,6282,6284,6286,0,"ティンパニー",760,10,0
+11,"097bongo",False,"696, 1, 1, 0",6281,6283,6282,6284,6286,0,"ボンゴ",761,11,0
+12,"098bd",False,"696, 1, 1, 0",6281,6283,6282,6284,6286,0,"バスドラム",762,12,0
+13,"099snare",False,"696, 1, 1, 0",6281,6283,6282,6284,6286,0,"スネアドラム",763,13,0
+14,"100cymbal",False,"696, 1, 1, 0",6281,6283,6282,6284,6286,0,"シンバル",764,14,0
+15,"057trumpet",True,"692, 1, 1, 0",7337,7339,7338,7340,7342,0,"トランペット",765,15,0
+16,"058trombone",True,"692, 1, 1, 0",7337,7339,7338,7340,7342,0,"トロンボーン",766,16,0
+17,"059tuba",True,"692, 1, 1, 0",7337,7339,7338,7340,7342,0,"チューバ",767,17,0
+18,"061frenchhorn",True,"692, 1, 1, 0",7337,7339,7338,7340,7342,0,"ホルン",768,18,0
+19,"066altosax",True,"692, 1, 1, 0",7337,7339,7338,7340,7342,0,"サックス",769,19,0
+20,"041violin",True,"691, 1, 1, 0",7411,7413,7412,7414,7416,0,"ヴァイオリン",770,20,0
+21,"042viola",True,"691, 1, 1, 0",7411,7413,7412,7414,7416,0,"ヴィオラ",771,21,0
+22,"043cello",True,"691, 1, 1, 0",7411,7413,7412,7414,7416,0,"チェロ",772,22,0
+23,"044contrabass",True,"691, 1, 1, 0",7411,7413,7412,7414,7416,0,"コントラバス",773,23,0
+24,"030driveguitar",True,"690, 1, 1, 0",8022,8024,8023,8025,8027,0,"エレキギター：ドライブ",774,24,1
+25,"028cleanguitar",True,"690, 1, 1, 0",8022,8024,8023,8025,8027,0,"エレキギター：クリーン",775,25,1
+26,"029muteguitar",False,"690, 1, 1, 0",8022,8024,8023,8036,8038,0,"エレキギター：ミュート",776,26,1
+27,"031powerguitar",True,"690, 1, 1, 0",8029,8031,8030,8032,8034,0,"エレキギター：パワーコード",777,27,1
+28,"032FXguitar",False,"690, 1, 1, 0",8022,8024,8023,8040,8042,0,"エレキギター：特殊奏法",778,28,1

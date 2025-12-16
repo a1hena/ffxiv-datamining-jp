@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ715_01919_SEQ_00","インペリアルポストの囚われのズンド族は、冒険者に助けを求めている。"
-1,"TEXT_HEAVNZ715_01919_SEQ_01","囚われのズンド族は、帝国兵から<Sheet(EventItem,2001672,0)/>を奪い、自分を解放してほしいようだ。インペリアルポストで、「<Sheet(BNpcName,3518,0)/>」、「<Sheet(BNpcName,3519,0)/>」、「<Sheet(BNpcName,3520,0)/>」、「<Sheet(BNpcName,3521,0)/>」、「<Sheet(BNpcName,3522,0)/>」を討伐しよう。"
-2,"TEXT_HEAVNZ715_01919_SEQ_02","討伐した帝国兵は<Sheet(EventItem,2001672,0)/>を持っていなかった。インペリアルポストで、「<Sheet(BNpcName,3518,0)/>」、「<Sheet(BNpcName,3519,0)/>」、「<Sheet(BNpcName,3520,0)/>」、「<Sheet(BNpcName,3521,0)/>」、「<Sheet(BNpcName,3522,0)/>」のいずれかを討伐して、「<Sheet(EventItem,2001672,0)/>」を入手しよう。"
-3,"TEXT_HEAVNZ715_01919_SEQ_03","<Sheet(EventItem,2001672,0)/>を入手した。インペリアルポストの「囚われのズンド族」に「<Sheet(EventItem,2001672,0)/>」を使おう。"
+0,"TEXT_HEAVNZ715_01919_SEQ_00","オク・ブンド・ヴァナの囚われのズンド族は、冒険者に助けを求めている。"
+1,"TEXT_HEAVNZ715_01919_SEQ_01","囚われのズンド族は、帝国兵から<Sheet(EventItem,2001672,0)/>を奪い、自分を解放してほしいようだ。オク・ブンド・ヴァナで、「<Sheet(BNpcName,3518,0)/>」、「<Sheet(BNpcName,3519,0)/>」、「<Sheet(BNpcName,3520,0)/>」、「<Sheet(BNpcName,3521,0)/>」、「<Sheet(BNpcName,3522,0)/>」を討伐しよう。"
+2,"TEXT_HEAVNZ715_01919_SEQ_02","討伐した帝国兵は<Sheet(EventItem,2001672,0)/>を持っていなかった。オク・ブンド・ヴァナで、「<Sheet(BNpcName,3518,0)/>」、「<Sheet(BNpcName,3519,0)/>」、「<Sheet(BNpcName,3520,0)/>」、「<Sheet(BNpcName,3521,0)/>」、「<Sheet(BNpcName,3522,0)/>」のいずれかを討伐して、「<Sheet(EventItem,2001672,0)/>」を入手しよう。"
+3,"TEXT_HEAVNZ715_01919_SEQ_03","<Sheet(EventItem,2001672,0)/>を入手した。オク・ブンド・ヴァナの「囚われのズンド族」に「<Sheet(EventItem,2001672,0)/>」を使おう。"
 4,"TEXT_HEAVNZ715_01919_SEQ_04","囚われのズンド族を解放した。彼は、オク・ズンドへ帰っていった。アバラシア雲海のオク・ズンド入口付近にいる「救出されたズンド族」と話そう。"
 5,"TEXT_HEAVNZ715_01919_SEQ_05","救出されたズンド族と話した。彼は助けだしてくれた冒険者に、とても感謝したようだ。"
 6,"TEXT_HEAVNZ715_01919_SEQ_06",""
