@@ -1,6 +1,4 @@
-﻿key,0,1
-#,Title,
-int32,str,str
-0,"",""
-1,"JOB HUD INFO","ジョブHUD解説"
-2,"",""
+#,Title,Unknown0
+0,,
+1,JOB HUD INFO,ジョブHUD解説
+2,,
