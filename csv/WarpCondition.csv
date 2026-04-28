@@ -1,4 +1,3 @@
-#,RequiredQuest1,RequiredQuest2,RequiredQuest3,RequiredQuest4,Gil,QuestReward,ClassLevel,CompleteParam
 0,0,0,0,0,0,0,0,1
 1,0,0,0,0,0,0,0,1
 2,0,0,0,0,80,0,10,1
@@ -68,3 +67,5 @@
 66,70541,0,0,0,0,0,0,1
 67,70721,0,0,0,0,0,0,1
 68,70912,0,0,0,0,0,0,1
+69,71004,0,0,0,0,0,0,1
+70,71002,0,0,0,0,0,0,1

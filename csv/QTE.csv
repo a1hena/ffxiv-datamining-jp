@@ -1,4 +1,3 @@
-#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9,Unknown10,Unknown11,Unknown12,Unknown13,Unknown14
 0,,,,,,0,0,0,0,0,0,False,True,True,True
 1,離脱,ボタンを押して飛び降りろ！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,1,88,4,0,0,0,False,True,True,True
 2,離脱,連打して抜け出せ！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,2,88,5,23,0,0,False,True,True,True

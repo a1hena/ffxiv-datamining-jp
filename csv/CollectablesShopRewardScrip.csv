@@ -1,4 +1,3 @@
-#,Currency,LowReward,MidReward,HighReward,ExpRatioLow,ExpRatioMid,ExpRatioHigh
 0,0,0,0,0,0,0,0
 1,2,5,10,15,100,120,150
 2,4,6,7,11,66,72,79

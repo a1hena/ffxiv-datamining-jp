@@ -1,4 +1,3 @@
-#,Requirement0,Requirement1,Unknown0,Unknown2,Unknown1
 65961,66031,0,0,False,False
 66572,17,0,0,False,False
 67199,17,0,0,False,False
@@ -54,3 +53,6 @@
 70942,566,0,0,False,True
 70979,65970,0,0,False,False
 70995,70977,0,0,False,False
+71042,71054,0,0,False,False
+71054,639,0,0,False,False
+71065,67783,0,0,False,False

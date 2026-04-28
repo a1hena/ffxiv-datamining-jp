@@ -1,4 +1,3 @@
-#,Name,Description,QuestRequirement,CRP,BSM,ARM,GSM,LTW,WVR,ALC,CUL,AnimationStart,AnimationEnd,Icon,RequiredStatus,ClassJobCategory,ClassJobLevel,Cost,ClassJob,Specialist
 100000,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 100001,作業,"耐久を消費して、作業を進める。
 効率：120

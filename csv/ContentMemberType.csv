@@ -1,4 +1,3 @@
-#,Unknown0,Unknown1,AllianceRegistrationMinPlayers,Unknown3,MembersPerParty,PartyCount,AlliancePartyCount,Unknown6,TanksPerParty,HealersPerParty,MeleesPerParty,RangedPerParty,Unknown16,Unknown7,AllowAllianceRegistration,Unknown10,SeparatedDpsRoles,RoleIndependent,Unknown12,OnlyPvPTeamMembers,AllowLimitedJobs
 0,0,0,8,0,4,1,0,0,0,0,0,0,1,False,False,False,False,True,False,False,False
 1,0,0,8,1,1,1,0,0,0,0,0,0,1,False,False,False,False,False,False,False,False
 2,0,0,8,4,4,1,0,0,1,1,1,1,1,False,False,False,False,True,False,False,True
@@ -35,3 +34,4 @@
 33,1,3,12,24,8,3,0,0,2,2,2,2,1,True,True,False,False,False,False,False,True
 34,0,0,8,4,4,1,0,0,0,0,0,0,2,False,False,False,False,True,False,False,False
 35,0,6,9,72,8,72,6,1,0,0,0,0,1,False,True,False,False,True,True,False,False
+36,3,3,12,48,8,6,0,0,0,0,0,0,1,True,True,True,False,False,False,False,False

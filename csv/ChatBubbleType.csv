@@ -1,4 +1,3 @@
-#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6
 0,,,,,0,1,1
 1,Say,LogChatBubbleSayShowType,LogChatBubbleSayFontColor,LogChatBubbleSayWindowColor,0,1,1
 2,Yell,LogChatBubbleYellShowType,LogChatBubbleYellFontColor,LogChatBubbleYellWindowColor,1,1,2

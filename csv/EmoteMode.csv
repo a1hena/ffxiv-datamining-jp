@@ -1,4 +1,3 @@
-#,StartEmote,EndEmote,ConditionMode,Move,Camera,EndOnRotate,EndOnEmote,Unknown0
 0,0,0,0,True,True,False,False,False
 1,52,53,11,False,True,True,False,False
 2,50,51,11,False,True,True,True,False
@@ -97,3 +96,7 @@
 95,322,0,3,True,False,False,False,False
 96,323,0,3,True,False,False,False,False
 97,324,0,3,True,False,False,False,False
+98,328,0,3,True,False,False,False,False
+99,329,0,3,True,False,False,False,False
+100,331,0,3,True,False,False,False,False
+101,332,0,3,True,False,False,False,True

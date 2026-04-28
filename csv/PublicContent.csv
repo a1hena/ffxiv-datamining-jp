@@ -1,4 +1,3 @@
-#,Name,MapIcon,TextDataStart,TextDataEnd,StartCutscene,LGBEventRange,LGBPopRange,EndCutscene,TimeLimit,ContentFinderCondition,AdditionalData,Unknown0,Unknown1,Unknown2,Unknown3,Unknown5,Type,Unknown4
 0,,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0
 1,エターナルセレモニー,0,1000,1143,0,0,0,0,0,0,0,0,0,0,18,0,1,0
 2,,60848,0,0,0,0,0,0,0,195,0,0,0,0,18,0,2,0
@@ -46,3 +45,4 @@
 44,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 45,,60808,2700,2791,3639,11510437,10968708,0,180,1018,1,192,0,0,18,36,11,69
 46,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

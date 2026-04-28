@@ -1,4 +1,3 @@
-#,Stats,Description,Icon,RequiredForQuest,PreviousQuest,Location,Number,LocationKey,TargetsEnemy,TargetsSelfOrAlly,CauseSlow,CausePetrify,CauseParalysis,CauseInterrupt,CauseBlind,CauseStun,CauseSleep,CauseBind,CauseHeavy,CauseDeath
 0,,,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
 1,"**攻撃タイプ：**魔法
 **攻撃属性：**風

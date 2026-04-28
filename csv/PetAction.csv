@@ -1,4 +1,3 @@
-#,Name,Description,Icon,Action,Pet,MasterOrder,DisableOrder,Unknown0
 0,,,405,0,0,False,True,False
 1,帰還,ペットを帰還させる。,530,0,0,False,True,False
 2,追従,ペットを自身に追従させる。,529,0,0,False,True,False

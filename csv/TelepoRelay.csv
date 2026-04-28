@@ -1,4 +1,3 @@
-#,Relays[0].EnterTerritory,Relays[0].ExitTerritory,Relays[0].Cost,Relays[1].EnterTerritory,Relays[1].ExitTerritory,Relays[1].Cost,Relays[2].EnterTerritory,Relays[2].ExitTerritory,Relays[2].Cost,Relays[3].EnterTerritory,Relays[3].ExitTerritory,Relays[3].Cost,Relays[4].EnterTerritory,Relays[4].ExitTerritory,Relays[4].Cost,Relays[5].EnterTerritory,Relays[5].ExitTerritory,Relays[5].Cost,Relays[6].EnterTerritory,Relays[6].ExitTerritory,Relays[6].Cost,Relays[7].EnterTerritory,Relays[7].ExitTerritory,Relays[7].Cost,Relays[8].EnterTerritory,Relays[8].ExitTerritory,Relays[8].Cost,Unknown_70
 0,0,0,0,156,819,100,958,959,300,156,961,200,956,960,300,957,1077,100,958,1162,400,1189,1192,100,1189,1265,100,9250
 1,819,156,100,0,0,0,819,959,1740,819,961,100,819,960,1622,819,1077,1029,819,1162,1840,819,1192,1310,819,1265,1310,100000
 2,959,958,300,959,819,1740,0,0,0,959,961,1840,959,960,2508,959,1077,1842,959,1162,100,959,1192,3357,959,1265,3357,100000

@@ -1,4 +1,3 @@
-#,Name,Example,Caster,Target,LogKind,Category,DisplayOrder,Preset
 0,None,,65535,65535,0,0,0,0
 1,Say,Squall Leonhart : こんにちは！,65535,65535,10,1,1,1
 2,Shout,Butz Klauser : こんにちは！,65535,65535,11,1,3,1

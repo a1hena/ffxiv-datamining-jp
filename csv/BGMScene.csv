@@ -1,4 +1,3 @@
-#,EnableDisableRestart,Resume,EnablePassEnd,ForceAutoReset,IgnoreBattle
 0,False,True,False,False,False
 1,False,True,False,False,False
 2,False,False,False,False,False

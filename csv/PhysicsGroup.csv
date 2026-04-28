@@ -1,4 +1,3 @@
-#,SimulationTime[0],SimulationTime[1],SimulationTime[2],SimulationTime[3],SimulationTime[4],SimulationTime[5],PS3SimulationTime[0],PS3SimulationTime[1],PS3SimulationTime[2],PS3SimulationTime[3],PS3SimulationTime[4],PS3SimulationTime[5],RootFollowingGame,RootFollowingCutScene,ConfigSwitch[0],ConfigSwitch[1],ConfigSwitch[2],ResetByLookAt,ForceAttractByPhysicsOff
 1,60,60,30,30,60,0,30,30,30,30,60,0,0.3,0.3,0,0,0,False,False
 2,60,60,30,30,60,0,0,0,0,0,0,0,0.3,0.8,0,2,2,False,False
 3,60,60,30,0,60,0,30,30,0,0,60,0,0,0.3,0,0,2,True,False
@@ -25,3 +24,4 @@
 24,60,60,30,0,60,0,30,30,0,0,60,0,0,0.3,0,0,3,True,True
 25,60,60,30,0,60,0,30,30,0,0,60,0,0,0.3,0,0,3,True,True
 26,60,60,30,0,60,0,30,30,0,0,60,0,0.1,0.3,0,3,3,True,True
+27,60,60,30,0,60,0,60,30,0,0,60,0,0.4,0.6,0,0,2,True,False

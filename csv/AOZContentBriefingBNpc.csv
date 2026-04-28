@@ -1,4 +1,3 @@
-#,BNpcName,TargetSmall,TargetLarge,Endurance,Fire,Ice,Wind,Earth,Thunder,Water,Slashing,Piercing,Blunt,Magic,HideStats,SlowVuln,PetrificationVuln,ParalysisVuln,InterruptionVuln,BlindVuln,StunVuln,SleepVuln,BindVuln,HeavyVuln,FlatOrDeathVuln
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False
 1,8076,72001,72101,12,0,0,0,0,0,0,0,0,21,0,False,False,False,False,True,False,False,False,False,False,False
 2,8077,72002,72102,12,0,0,0,0,0,0,21,0,0,0,False,False,False,False,True,False,False,True,True,True,False
