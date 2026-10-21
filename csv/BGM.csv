@@ -1,3 +1,4 @@
+#,File,DisableRestartResetTime,Priority,SpecialMode,DisableRestartTimeOut,DisableRestart,PassEnd
 0,,90,0,0,False,False,True
 1,music/ffxiv/BGM_Null.scd,90,0,0,False,False,True
 2,music/ffxiv/BGM_System_Title.scd,90,1,0,False,False,True

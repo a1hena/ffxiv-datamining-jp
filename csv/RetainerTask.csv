@@ -1,3 +1,4 @@
+#,Experience,Unknown0,RetainerTaskParameter,VentureCost,MaxTimemin,RequiredItemLevel,RequiredGathering,Unknown1,Task,ClassJobCategory,RetainerLevel,ConditionParam0,ConditionParam1,IsRandom
 0,0,0,1,1,0,0,0,0,0,0,1,0,0,False
 1,500,0,1,1,60,0,0,0,1,34,1,0,0,False
 2,800,0,2,1,60,0,0,0,2,34,2,0,0,False

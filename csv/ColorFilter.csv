@@ -1,3 +1,4 @@
+#,Name,Hue,Saturation,Brightness,Contrast,MonochromeStrength,SepiaStrength,TintStrength,TintRed,TintGreen,TintBlue,InvertStrength,ToneCurveLowThreshold,ToneCurveHighThreshold,SortOrder,UseNonlinearBrightnessContrast
 0,標準,0,0,0,0,0,0,0,0,0,0,0,0,1,1,False
 1,過去視,0,-0.2,-0.2,0,0,0.6,0,0,0,0,0,0,1,60,False
 2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False

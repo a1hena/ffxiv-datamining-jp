@@ -1,3 +1,4 @@
+#,SatisfactionSupplyRewardData[0].RewardCurrency,SatisfactionSupplyRewardData[0].QuantityLow,SatisfactionSupplyRewardData[0].QuantityMid,SatisfactionSupplyRewardData[0].QuantityHigh,SatisfactionSupplyRewardData[1].RewardCurrency,SatisfactionSupplyRewardData[1].QuantityLow,SatisfactionSupplyRewardData[1].QuantityMid,SatisfactionSupplyRewardData[1].QuantityHigh,SatisfactionLow,SatisfactionMid,SatisfactionHigh,GilLow,GilMid,GilHigh,BonusMultiplier,MinLevelForSecondReward
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,2,94,117,140,6,82,100,116,30,30,30,670,840,1000,100,0
 2,4,94,117,140,7,82,100,116,30,30,30,670,840,1000,100,0

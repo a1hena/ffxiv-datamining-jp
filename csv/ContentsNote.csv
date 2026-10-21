@@ -1,3 +1,4 @@
+#,Name,Description,ReqUnlock,Icon,RequiredAmount,ExpMultiplier,GilRward,ExpCap,LevelUnlock,HowTo,ContentType,MenuOrder,Reward0,Reward1
 0,,,0,0,0,0,0,0,0,0,0,0,0,0
 1,ダンジョン：コンテンツルーレット,コンテンツルーレットで、ダンジョンを3回攻略する,0,61801,3,15,1000,1625700,0,57,1,1,5,3
 2,ダンジョン：攻略回数,ダンジョンを5回攻略する,0,61801,5,10,2000,1083800,0,57,1,2,5,3

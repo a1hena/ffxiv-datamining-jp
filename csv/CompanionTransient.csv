@@ -1,3 +1,4 @@
+#,Description,DescriptionEnhanced,Tooltip,SpecialActionName,SpecialActionDescription,Attack,Defense,Speed,MinionSkillType,HasAreaAttack,StrengthGate,StrengthEye,StrengthShield,StrengthArcana
 0,,,,,,100,100,3,0,False,False,False,False,False
 1,"ミニオン「タイニーボム」を呼び出す。
 人工孵化させたボムの幼生体。たぶん爆発しない",ボムの幼生体。異界「ヴォイド」由来のガス状生物「ボム」を、錬金術の技術を応用して人工孵化させたもの。木炭や青燐水、ファイアクリスタルなどの燃料を与えると、喜んで食べる。たぶん爆発しない,ギギ…ギギギ…,自爆,範囲内にいる敵に、ATK300のダメージを与える。ただし、特殊技ポイントを使用したミニオンは強制帰還する。,30,40,2,1,False,False,True,True,False

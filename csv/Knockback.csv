@@ -1,3 +1,4 @@
+#,Distance,Speed,NearDistance,Direction,DirectionArg,Motion,CancelMove
 0,0,0,0,0,0,True,True
 1,10,20,0,0,0,True,True
 2,5,10,0,0,0,True,True

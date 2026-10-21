@@ -1,3 +1,4 @@
+#,Name,Default,Minimum,Maximum,Unknown4
 0,,0,0,0,False
 1,サイズ,100,50,200,True
 2,角度,0,-180,180,True

@@ -1,3 +1,4 @@
+#,ItemPossibleReward[0],ItemPossibleReward[1],ItemPossibleReward[2],ItemPossibleReward[3],PreviousQuest[0],PreviousQuest[1],PreviousQuest[2],DefaultTalkChallenge,DefaultTalkUnavailable,DefaultTalkNPCWin,DefaultTalkDraw,DefaultTalkPCWin,TripleTriadCardFixed[0],TripleTriadCardFixed[1],TripleTriadCardFixed[2],TripleTriadCardFixed[3],TripleTriadCardFixed[4],TripleTriadCardVariable[0],TripleTriadCardVariable[1],TripleTriadCardVariable[2],TripleTriadCardVariable[3],TripleTriadCardVariable[4],Fee,StartTime,EndTime,TripleTriadRule[0],TripleTriadRule[1],PreviousQuestJoin,UsesRegionalRules,Unknown0
 2293760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,False,False
 2293761,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,False,False
 2293762,9808,9785,9773,14198,0,0,0,592042,592043,592044,592045,592046,37,14,1,0,0,21,2,7,12,0,10,0,0,2,0,1,False,True

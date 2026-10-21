@@ -1,3 +1,4 @@
+#,Name,NameShort,NameFemale,Description,NameEnglish,Action[0],Action[1],Action[2],Action[3],Action[4],LevelMax,JobIndex,LevelUnlock[0],LevelUnlock[1],LevelUnlock[2],LevelUnlock[3],LevelUnlock[4]
 0,サポートすっぴん,Ph. Freelancer,,"ある冒険者の出発点にして終着点の記憶。
 探索に便利なサポートアクションを修得する。",Phantom Freelancer,41650,41651,46606,49102,0,24,24,5,10,15,20,0
 1,サポートナイト,Ph. Knight,,"ある騎士の忠誠心と名誉の記憶。

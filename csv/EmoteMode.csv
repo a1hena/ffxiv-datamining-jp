@@ -1,3 +1,4 @@
+#,StartEmote,EndEmote,ConditionMode,Move,Camera,EndOnRotate,EndOnEmote,Unknown0
 0,0,0,0,True,True,False,False,False
 1,52,53,11,False,True,True,False,False
 2,50,51,11,False,True,True,True,False

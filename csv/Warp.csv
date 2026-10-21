@@ -1,3 +1,4 @@
+#,Name,Question,PopRange,ConditionSuccessEvent,ConditionFailEvent,ConfirmEvent,TerritoryType,WarpCondition,WarpLogic,StartCutscene,EndCutscene,CanSkipCutscene
 131072,,,0,0,0,0,0,1,1,0,0,False
 131073,,,2040811,0,0,0,148,2,2,0,0,False
 131074,,「神勇隊司令室」へ入りますか？,3884000,590352,590353,0,204,3,1,0,0,False

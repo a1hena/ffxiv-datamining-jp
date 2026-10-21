@@ -1,3 +1,4 @@
+#,Name,Description,Icon,Category,MainCommandCategory,Unknown0,SortID
 0,,,0,0,0,0,0
 1,納刀する/抜刀する,納刀/抜刀の状態を切り替えます。,16,1,1,1,-5
 2,マイキャラクター,キャラクターのパラメータを確認できます。装備や称号の変更などが行えます。,1,6,1,6,0

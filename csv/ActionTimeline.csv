@@ -1,3 +1,4 @@
+#,Key,WeaponTimeline,KillUpper,Unknown_70,Type,Priority,Stance,Slot,LookAtMode,ActionTimelineIDMode,LoadType,StartAttach,ResidentPap,Unknown6,Unknown1,Pause,Resident,IsMotionCanceledByMoving,Unknown2,Unknown3,IsLoop,Unknown4
 0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,False,False,False,True,False,True,False
 1,battle/battle_start,0,0,0,1,0,1,0,0,0,2,2,2,0,0,False,False,False,True,False,True,False
 2,battle/battle_end,0,0,0,1,0,1,0,0,0,1,2,2,0,0,False,False,False,True,False,True,False
